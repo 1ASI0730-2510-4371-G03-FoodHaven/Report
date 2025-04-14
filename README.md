@@ -335,7 +335,48 @@ Este análisis es fundamental ya que nos informa sobre el contexto de la compete
 
 # Subir Parte2 
 
-# Subir Parte3
+### As-is Scenario Mapping
+
+**Segmento #1: Profesionales jóvenes con rutinas exigentes**
+
+| **Categoría** | **Planificación General de Comidas** | **Evaluación de Comidas y Hábitos Alimenticios** | **Ajuste y Adopción de Nuevas Estrategias Alimenticias** |
+|--------------|---------------------------------------|--------------------------------------------------|-----------------------------------------------------------|
+| **Doing**     | - Planifica comidas sin herramientas específicas. <br> - Usa libretas o apps básicas sin seguimiento. <br> - Busca recetas saludables, aunque no siempre se ajustan a sus metas. | - Revisa cómo se siente después de comer sin seguimiento. <br> - Consulta info en línea pero no la integra. <br> - Usa apps de control, pero sin sugerencias personalizadas. | - Prueba dietas sin seguimiento. <br> - Compra alimentos saludables sin saber si los aprovecha. <br> - Ajusta su dieta, pero no sostiene los cambios. |
+| **Thinking**   | - “Podría organizar mejor mis comidas, pero no tengo tiempo ni herramientas que me funcionen bien.” <br> - “¿Son estas recetas las mejores para mi estilo de vida y mis metas?” | - “Necesito una herramienta más eficiente para planificar y controlar lo que como.” <br> - “Sé que mis hábitos alimenticios pueden mejorar, pero no sé cómo analizarlos bien.” | - “Me gustaría ver resultados claros de mis esfuerzos, pero no tengo cómo medirlos.” <br> - “Una herramienta estructurada me ayudaría a seguir mis hábitos y medir mi progreso.” |
+| **Feeling**    | - Frustración por falta de tiempo y organización. <br> - Inseguridad sobre si sus decisiones alimenticias son correctas. | - Ansiedad por querer mejorar sin un sistema claro. <br> - Frustración al no saber qué cambiar. <br> - Incertidumbre sobre si está haciendo lo mejor para su salud. | - Confusión al integrar información de distintas fuentes. <br> - Esperanza al ver mejoras. <br> - Nerviosismo por no saber si las estrategias serán sostenibles. <br> - Alivio parcial con dudas. |
+
+**Segmento #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo**
+
+| **Categoría** | **Monitoreo de Alimentación y Planificación de Comidas** | **Identificación de Ineficiencias en la Planificación de Alimentación** | **Implementación de Soluciones de Alimentación Saludable y Eficiente** |
+|--------------|------------------------------------------------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------|
+| **Doing**     | - Revisa semanalmente opciones de comida sin continuidad.<br>- Intenta balancear su alimentación sin saber si cubre sus necesidades.<br>- Compra o programa entregas según conveniencia, sin planificación semanal. | - Nota patrones poco saludables como comida rápida frecuente o saltarse comidas.<br>- Revisa manualmente lo que ha consumido, sin metodología clara.<br>- Consulta fuentes digitales o especialistas, pero le cuesta validar la información. | - Aplica recomendaciones de blogs, pero sin constancia.<br>- Programa entregas por conveniencia sin visión a largo plazo.<br>- Realiza cambios como reducir harinas o aumentar vegetales, sin seguimiento.<br>- Explora plataformas tecnológicas, pero no encuentra una que integre todo. |
+| **Thinking**   | - “Planificar lo que voy a comer me toma más tiempo del que tengo.”<br>- “No sé si lo que como realmente se ajusta a mis objetivos.”<br>- “Necesito una forma más simple de organizar mis comidas.” | - “Mis hábitos alimenticios no están siendo tan buenos como podrían.”<br>- “Como lo primero que encuentro sin pensar si es bueno para mí.”<br>- “Tal vez una herramienta me ayudaría a mejorar mi alimentación.” | - “Estoy intentando mejorar, pero no sé si voy por buen camino.”<br>- “Las soluciones online no se ajustan a mi ritmo de vida.”<br>- “Quisiera una plataforma que me diga qué elegir y cuándo.”<br>- “Si esto se automatiza, puedo enfocarme en otras cosas sin sacrificar mi salud.” |
+| **Feeling**    | - Frustración por tener que pensar cada día qué comer.<br>- Alivio ocasional cuando encuentra opciones que parecen adecuadas.<br>- Culpa por elegir comida poco saludable por falta de tiempo. | - Inseguridad sobre la calidad nutricional de sus decisiones.<br>- Ansiedad por no cumplir sus metas alimentarias.<br>- Frustración por no ver resultados visibles. | - Curiosidad por soluciones estructuradas.<br>- Esperanza al probar nuevas herramientas o recomendaciones.<br>- Desánimo cuando no logra constancia.<br>- Nerviosismo por depender de sistemas que no sabe si podrá sostener.<br>- Alivio al ver pequeñas
+
+## Ubiquitous Language
+
+- **User (Usuario)**: Persona que utiliza la plataforma para organizar y personalizar sus comidas semanales. Puede suscribirse a planes y ajustar sus preferencias alimentarias.
+
+- **Meal Plan (Plan de Comidas)**: Conjunto de comidas organizadas para la semana, diseñadas según las preferencias del usuario. Puede incluir desayuno, almuerzo, cena y snacks.
+
+- **Meal (Comida)**: Cada una de las opciones alimentarias que el usuario puede seleccionar dentro de su plan. Incluye nombre, ingredientes y valor nutricional.
+
+- **Combination (Combinación)**: Agrupación de comidas elegida por el usuario para un día específico dentro del plan. Puede variar según las preferencias alimentarias.
+
+- **Subscription (Suscripción)**: Modalidad flexible que permite al usuario acceder a los servicios de organización de comidas. Puede ser semanal, mensual o personalizada.
+
+- **Nutritional Preferences (Preferencias Nutricionales)**: Configuraciones establecidas por el usuario que determinan restricciones (como sin gluten, sin lactosa, vegano, etc.) y objetivos (como perder peso, ganar masa, etc.).
+
+- **Calendar (Calendario)**: Vista organizada por días de la semana donde se muestra el plan alimenticio asignado o personalizado por el usuario.
+
+- **Meal History (Historial de Comidas)**: Registro de combinaciones y planes utilizados por el usuario en semanas anteriores, útil para seguimiento o repetir menús.
+
+- **Customization (Personalización)**: Funcionalidad que permite al usuario ajustar el plan según gustos, alergias o tiempos disponibles.
+
+- **Meal Suggestion Engine (Motor de Sugerencias)**: Algoritmo que recomienda combinaciones de comidas basadas en preferencias, historial y objetivos del usuario.
+
+- **Dashboard (Panel de Control)**: Vista general donde el usuario puede gestionar su plan actual, sus preferencias, historial y suscripciones.
+
 
 # Capítulo 3: Requirements Specification
 
