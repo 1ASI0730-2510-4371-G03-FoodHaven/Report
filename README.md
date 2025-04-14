@@ -230,6 +230,99 @@ La aplicación permite seleccionar planes de comida, reservar platos especiales,
 
 # Subir Parte1 ()
 
-# Subir Parte2 
+## 2.3 Needfinding
+
+Las necesidades identificadas en los segmentos objetivo para la aplicación FoodHaven son las siguientes:
+
+### Segmento #1: Profesionales jóvenes con rutinas exigentes
+
+- **Alimentación práctica y rápida**:  
+  Solución que les permita recibir comida lista para consumir sin tener que cocinar ni preocuparse por planificar sus comidas.
+
+- **Flexibilidad en horarios y entregas**:  
+  Opciones de programación de entrega según su disponibilidad, incluyendo horarios fuera del estándar laboral.
+
+- **Variedad y personalización**:  
+  Planes alimenticios que se adapten a sus gustos y objetivos personales (por ejemplo, mantener peso, ganar masa muscular, etc.).
+
+- **Experiencia sin fricciones**:  
+  Una plataforma digital intuitiva, rápida y con métodos de pago y renovación de suscripción automatizados.
+
+- **Bienestar y productividad**:  
+  Opciones de comidas que les ayuden a mantener energía y concentración durante el día, sin afectar su ritmo de trabajo.
+
+### Segmento #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo
+
+- **Optimización del uso energético**:  
+  Plataforma que facilite la monitorización avanzada del consumo de energía para grandes volúmenes, ayudando a identificar áreas de mejora y optimización.
+
+- **Reducción de costos**:  
+  Herramientas para analizar y gestionar el consumo energético con el objetivo de reducir costos operativos y mejorar la eficiencia.
+
+- **Gestión de sostenibilidad**:  
+  Funcionalidades que ayuden a las empresas a cumplir con sus objetivos de sostenibilidad a largo plazo, mitigando la volatilidad de los costos energéticos.
+
+- **Implementación de tecnologías avanzadas**:  
+  Soluciones tecnológicas para una gestión más efectiva y detallada del consumo energético, adaptadas a las necesidades de grandes corporaciones y sectores industriales.
+
+- **Alertas y notificaciones**:  
+  Sistema de alertas para gestionar posibles sobreconsumos y oportunidades de optimización, asegurando una operación continua y eficiente.
+
+- **Seguridad operativa**:  
+  Funcionalidades que permitan establecer alertas automáticas en caso de anomalías, garantizando la seguridad del entorno operativo y permitiendo acciones rápidas para corregir problemas antes de que se conviertan en incidentes graves.
+
+### User Persona
+
+**Segmento #1: Profesionales jóvenes con rutinas exigentes**
+<p align="left">
+  <img src="Images/userpersona1.PNG" alt="UserPersona1" width="500">
+</p>
+
+**Segmento #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo**
+<p align="left">
+  <img src="Images/userpersona2.PNG" alt="UserPersona2" width="500">
+</p>
+
+### User Task Matrix
+
+### Ernesto Rodas
+
+<p align="left">
+  <img src="Images/usertask1.PNG" alt="usertask1" width="500">
+</p>
+
+### Mariana Cerna
+
+<p align="left">
+  <img src="Images/usertask2.PNG" alt="usertask2" width="500">
+</p>
+
+### User Journey Mapping
+
+**Segmento #1: Profesionales jóvenes con rutinas exigentes**
+
+<p align="left">
+  <img src="Images/userjourney1.PNG" alt="userjourney1" width="500">
+</p>
+
+**Segmento #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo**
+
+<p align="left">
+  <img src="Images/userjourney2.PNG" alt="userjourney2" width="500">
+</p>
+
+### Empathy Mapping
+
+**Segmento #1: Profesionales jóvenes con rutinas exigentes**
+
+<p align="left">
+  <img src="Images/empathy1.PNG" alt="empathy1" width="500">
+</p>
+
+**Segmento #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo**
+
+<p align="left">
+  <img src="Images/empathy2.PNG" alt="empathy2" width="500">
+</p>
 
 # Subir Parte3
