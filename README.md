@@ -17,38 +17,36 @@ En EuroCausas, creemos que la buena alimentación es clave para una vida equilib
 
 | Foto                          | Información                                                                 |
 |-------------------------------|------------------------------------------------------------------------------|
-| ![Paulo](images/Paulofoto.PNG) | **Nombre:** Paulo Percy Quincho Gamarra  
+| ![Paulo](Images/Paulo.PNG) | **Nombre:** Paulo Percy Quincho Gamarra  
 **Código de estudiante:** U20191E562  
 **Carrera:** Ingeniería de Software  
 **Descripción:**  
 Soy puntual, lo que me permite realizar todos los trabajos a tiempo. Me gusta tener buena comunicación con el equipo. |
-| ![Cardenas](images/Cardenas.png) | **Nombre:** [Nombre completo]  
+| ![Cardenas](Images/Cardenas.png) | **Nombre:** [Nombre completo]  
 **Código de estudiante:** [Código]  
 **Carrera:** [Carrera]  
 **Descripción:**  
 [Descripción personal.] |
-| ![Suarez](images/Suarez.png) | **Nombre:** [Nombre de Suárez]  
+| ![Suarez](Images/Suarez.png) | **Nombre:** [Nombre de Suárez]  
 **Código de estudiante:** [Código]  
 **Carrera:** [Carrera]  
 **Descripción:**  
 [Descripción breve de la persona.] |
-| ![Luis](images/Luis.png) | **Nombre:** [Nombre de Luis]  
+| ![Luis](Images/Luis.png) | **Nombre:** [Nombre de Luis]  
 **Código de estudiante:** [Código]  
 **Carrera:** [Carrera]  
 **Descripción:**  
 [Descripción breve de la persona.] |
-| ![Ricardo](images/Ricardo.png) | **Nombre:** [Nombre de Ricardo]  
+| ![Ricardo](Images/Ricardo.png) | **Nombre:** [Nombre de Ricardo]  
 **Código de estudiante:** [Código]  
 **Carrera:** [Carrera]  
 **Descripción:**  
 [Descripción breve de la persona.] |
-| ![Gustavo](images/Gustavo.png) | **Nombre:** [Nombre de Gustavo]  
+| ![Gustavo](Images/Gustavo.png) | **Nombre:** [Nombre de Gustavo]  
 **Código de estudiante:** [Código]  
 **Carrera:** [Carrera]  
 **Descripción:**  
 [Descripción breve de la persona.] |
-
-
 
 ##  Solution Profile
 
