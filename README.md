@@ -223,7 +223,6 @@ La aplicación permite seleccionar planes de comida, reservar platos especiales,
 -Estilo de vida: Profesionales, padres de familia o adultos independientes que valoran el equilibrio entre comodidad y salud. Tienen interés en opciones prácticas para resolver sus comidas sin sacrificar calidad ni nutrición.
 -Actitudes: Son conscientes de la importancia de una buena alimentación, pero no siempre tienen el tiempo o los conocimientos para llevarla a cabo. Están abiertos a soluciones digitales que simplifiquen su día a día y mejoren su bienestar general.
 
-
 # Chapter 2: Requirements Elicitation & Analysis
 
 ## Competidores
