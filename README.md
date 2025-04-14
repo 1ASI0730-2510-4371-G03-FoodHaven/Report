@@ -330,8 +330,6 @@ Como usuario, quiero gestionar mi suscripción a FoodHeaven (selección de plan,
 | US29              | Cambio de plan de suscripción           |
 | US30              | Cancelación o pausa de suscripción      |
 
-# Subir Capitulo 3 - parte 1
-
 ## Impact Mapping
 
 <p align="left">
