@@ -238,3 +238,104 @@ La aplicación permite seleccionar planes de comida, reservar platos especiales,
 
 ## 3.1 To-Be Scenario Mapping
 
+**Segmento #1: Profesionales jóvenes con rutinas exigentes**
+
+| **Categoría** | **Monitoreo de Alimentación y Planificación de Comidas** | **Identificación de Ineficiencias en la Planificación de Alimentación** | **Implementación de Soluciones de Alimentación Saludable y Eficiente** |
+|--------------|------------------------------------------------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------|
+| **Doing**     | - Utiliza la app FoodHeaven para crear un plan semanal de comidas ajustado a su rutina y metas personales.<br>- Recibe recomendaciones automáticas según preferencias, historial y objetivos nutricionales.<br>- Configura sus entregas según los horarios disponibles en su agenda.<br>- Revisa los informes y análisis que la app proporciona sobre su consumo de alimentos y las áreas en las que puede mejorar.<br>- Usa la app para ajustar su planificación de comidas basándose en datos precisos sobre su dieta pasada y las sugerencias de la plataforma.<br>- Consulta las recomendaciones de la app para mejorar su dieta de forma práctica y basada en sus preferencias.<br>- Aplica las recomendaciones de la app y ajusta la planificación de comidas según los resultados de las métricas y las sugerencias de la plataforma.<br>- Usa la app para realizar un seguimiento continuo de su progreso y asegurar que sus hábitos alimenticios se mantengan saludables.<br>- Prueba nuevas funcionalidades que le ayudan a optimizar la compra de ingredientes o recibir opciones especiales para días muy ocupados. | - | - |
+| **Thinking**   | - Pienso que ahora mi planificación de comidas es mucho más eficiente y adaptada a mis necesidades.<br>- Me siento más seguro de que las recomendaciones que recibo son relevantes y adecuadas para mi salud y estilo de vida.<br>- Pienso que la app ha simplificado una tarea que solía ser muy tediosa.<br>- Pienso que ahora tengo una forma clara de identificar las áreas donde puedo mejorar mi alimentación.<br>- Me siento más capaz de hacer ajustes en mi dieta con base en datos y análisis detallados que la app me ofrece.<br>- Pienso que la app me ayuda a ver el impacto de mis decisiones alimenticias a lo largo del tiempo.<br>- Pienso que las soluciones que la app me ofrece están realmente mejorando mi alimentación de manera práctica.<br>- Me siento confiado en que la app me ayuda a cumplir mis metas nutricionales con mayor facilidad.<br>- Pienso que ahora tengo una forma efectiva de seguir mi progreso y ajustar mis hábitos en tiempo real. | - | - |
+| **Feeling**    | - Siento alivio al ver que puedo organizar mis comidas sin tanto esfuerzo.<br>- Siento satisfacción al recibir recomendaciones que se alinean con mis objetivos de salud.<br>- Siento confianza en que ahora tengo más control sobre mi alimentación.<br>- Siento mayor confianza al poder identificar las ineficiencias de mi alimentación y corregirlas.<br>- Siento tranquilidad al saber que tengo herramientas para mejorar mis hábitos alimenticios de manera eficiente.<br>- Siento que la app está ayudando a maximizar mi salud y bienestar.<br>- Siento satisfacción al ver los
+
+**Segmento #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo**
+
+| **Categoría** | **Planificación General de Comidas** | **Evaluación de Comidas y Hábitos Alimenticios** | **Ajuste y Adopción de Nuevas Estrategias Alimenticias** |
+|--------------|-------------------------------------|-------------------------------------------------|--------------------------------------------------------|
+| **Doing**     | - Utiliza FoodHeaven para planificar sus comidas semanales, eligiendo entre opciones preconfiguradas o personalizadas según sus metas.<br>- Configura los horarios de entrega y selecciona los días en los que desea recibir sus comidas.<br>- La app sugiere menús alineados con sus preferencias y estilo de vida. | - Consulta el historial de consumo dentro del panel de control para verificar si sus elecciones están alineadas con sus objetivos.<br>- Revisa los gráficos y estadísticas sobre calorías, frecuencia de consumo de ciertos alimentos y balance general.<br>- Compara su progreso semanal respecto a sus metas iniciales, usando indicadores visuales. | - Aplica recomendaciones de la app para variar su dieta, incorporar alimentos más saludables y mantener un mejor balance.<br>- Activa funciones que le permiten recibir recordatorios sobre hábitos saludables o probar combinaciones nuevas.<br>- Utiliza funciones como listas inteligentes de compras, recetas rápidas o propuestas para días con menos disponibilidad de tiempo. |
+| **Thinking**   | - “Ahora puedo organizar mis comidas en minutos y saber que estoy cumpliendo mis metas.”<br>- “Esta app me ahorra tiempo y me ayuda a comer mejor sin pensarlo tanto.”<br>- “Puedo planificar sin tener que buscar recetas por todos lados.” | - “Me gusta ver cómo mis hábitos están mejorando poco a poco.”<br>- “Puedo detectar fácilmente cuándo me desvío de mis objetivos.”<br>- “La app me da claridad sobre lo que debo cambiar y por qué.” | - “Las recomendaciones que me ofrece la app me ayudan a mantenerme motivado.”<br>- “Siento que con estos ajustes puedo lograr una alimentación más estable y balanceada.”<br>- “La plataforma me ofrece justo lo que necesito, sin abrumarme con información innecesaria.” |
+| **Feeling**    | - Se siente aliviado al no tener que preocuparse cada día por decidir qué comer.<br>- Siente seguridad al saber que las opciones están adaptadas a sus objetivos.<br>- Siente gratitud por tener una herramienta que le permite ahorrar tiempo y alimentarse bien. | - Se siente motivado al visualizar su progreso y entender cómo mejorar.<br>- Se siente satisfecho al ver que está desarrollando mejores hábitos.<br>- Siente tranquilidad al contar con un sistema claro y constante. | - Se siente esperanzado al implementar cambios sostenibles sin esfuerzo.<br>- Siente confianza en las decisiones que toma con ayuda de la app.<br>- Siente orgullo al notar que su alimentación mejora de forma constante y realista. |
+
+## User Stories
+
+### Epic
+
+### EP01 - Registro y Gestión de Perfil
+**Descripción:**  
+Como usuario, quiero crear y gestionar mi cuenta y perfil en una plataforma accesible desde cualquier dispositivo, para utilizar FoodHeaven de forma personalizada y segura.
+
+| **User Story ID** | **Título**                              |
+|-------------------|-----------------------------------------|
+| US01              | Registro de usuario                     |
+| US02              | Inicio de sesión seguro                 |
+| US03              | Configuración de preferencias dietéticas en el perfil |
+| US04              | Gestión de dirección de entrega en el perfil |
+| US05              | Acceso a la plataforma desde múltiples dispositivos |
+| US06              | Edición del perfil de usuario desde la app |
+
+### EP02 - Personalización de Plan de Comidas Semanal
+**Descripción:**  
+Como usuario, quiero personalizar mi plan de comidas semanal (desayuno, almuerzo, cena u otras combinaciones) para adaptarlo a mis gustos, necesidades nutricionales y horario.
+
+| **User Story ID** | **Título**                              |
+|-------------------|-----------------------------------------|
+| US07              | Selección de combinación de comidas del plan |
+| US08              | Selección de platos para cada día de la semana |
+| US09              | Modificación de platos en el plan antes de confirmar |
+| US10              | Filtrado de platos según preferencias dietéticas |
+| US11              | Guardado y confirmación del plan semanal |
+| US12              | Confirmación de la programación de entregas |
+| US13              | Reserva para eventos especiales         |
+
+### EP03 - Seguimiento de Dieta y Contador de Calorías
+**Descripción:**  
+Como usuario, quiero hacer seguimiento de mi dieta a través de un contador de calorías integrado para mantener un registro de mi consumo calórico y cumplir mis objetivos de salud.
+
+| **User Story ID** | **Título**                              |
+|-------------------|-----------------------------------------|
+| US14              | Consulta del valor calórico de cada plato |
+| US15              | Visualización del total de calorías diarias del plan |
+| US16              | Visualización del total de calorías semanales del plan |
+| US17              | Configuración de objetivo de ingesta calórica |
+| US18              | Alertas por exceder objetivo calórico   |
+
+### EP04 - Recomendaciones Personalizadas
+**Descripción:**  
+Como usuario, quiero recibir recomendaciones de comidas y planes basadas en mis gustos, historial y objetivos nutricionales, para descubrir nuevas opciones que se ajusten a mis necesidades.
+
+| **User Story ID** | **Título**                              |
+|-------------------|-----------------------------------------|
+| US19              | Sugerencias de platos durante la planificación semanal |
+| US20              | Recomendaciones de menús completos según perfil de usuario |
+| US21              | Notificaciones de nuevos platos acordes a sus preferencias |
+| US22              | Sugerencia de alternativas saludables a platos seleccionados |
+
+### EP05 - Panel de Control del Usuario
+**Descripción:**  
+Como usuario, quiero utilizar un panel de control personal que muestre mi historial de consumo, metas alimenticias y progreso, para evaluar mi desempeño y mantener la motivación en mi plan alimenticio.
+
+| **User Story ID** | **Título**                              |
+|-------------------|-----------------------------------------|
+| US23              | Visualización del historial de consumo de comidas |
+| US24              | Resumen de consumo calórico a lo largo del tiempo |
+| US25              | Notificaciones sobre patrones alimenticios detectados |
+
+### EP06 - Gestión de Suscripción y Pagos
+**Descripción:**  
+Como usuario, quiero gestionar mi suscripción a FoodHeaven (selección de plan, pagos y renovaciones) para mantener el servicio activo de acuerdo a mis necesidades y presupuesto.
+
+| **User Story ID** | **Título**                              |
+|-------------------|-----------------------------------------|
+| US26              | Selección de plan de suscripción adecuado |
+| US27              | Registro de método de pago seguro       |
+| US28              | Renovación automática de suscripción    |
+| US29              | Cambio de plan de suscripción           |
+| US30              | Cancelación o pausa de suscripción      |
+
+# Subir Capitulo 3 - parte 1
+
+## Impact Mapping
+
+<p align="left">
+  <img src="Images/impact.PNG" alt="impact" width="500">
+</p>
+
+# Subir Capitulo 3 - parte 2
