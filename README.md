@@ -233,3 +233,8 @@ La aplicación permite seleccionar planes de comida, reservar platos especiales,
 # Subir Parte2 
 
 # Subir Parte3
+
+# Capítulo 3: Requirements Specification
+
+## 3.1 To-Be Scenario Mapping
+
