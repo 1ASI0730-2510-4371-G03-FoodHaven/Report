@@ -339,3 +339,46 @@ Como usuario, quiero gestionar mi suscripción a FoodHeaven (selección de plan,
 </p>
 
 # Subir Capitulo 3 - parte 2
+
+## Product Backlog
+
+| **Orden** | **User Story ID** | **Título**                                              | **Descripción**                                                                                                           | **Prioridad** | **Story Points (1/2/3/5/8)** |
+|-----------|-------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------|----------------------------|
+| 1         | US01              | Registro de usuario                                     | Como nuevo usuario, quiero registrarme fácilmente en la plataforma para empezar a utilizar los servicios de FoodHeaven.   | Alta          | 5                          |
+| 2         | US02              | Inicio de sesión seguro                                 | Como usuario registrado, quiero iniciar sesión de forma segura para acceder a mi cuenta sin inconvenientes.              | Media         | 3                          |
+| 3         | US03              | Configuración de preferencias dietéticas en el perfil   | Como usuario, quiero establecer mis preferencias dietéticas para recibir opciones alimenticias adecuadas.                 | Media         | 5                          |
+| 4         | US04              | Gestión de dirección de entrega en el perfil            | Como usuario, quiero agregar y gestionar mis direcciones de entrega para recibir mis pedidos correctamente.                | Alta          | 2                          |
+| 5         | US05              | Acceso a la plataforma desde múltiples dispositivos     | Como usuario, quiero poder acceder a mi cuenta desde cualquier dispositivo para tener flexibilidad de uso.               | Media         | 5                          |
+| 6         | US06              | Edición del perfil de usuario desde la app              | Como usuario, quiero poder editar mi perfil desde la aplicación para poder tener más versatilidad.                        | Baja          | 3                          |
+| 7         | US07              | Selección de combinación de comidas del plan            | Como usuario, quiero elegir qué comidas incluir en mi plan para definir cuántas recibiré al día.                           | Alta          | 5                          |
+| 8         | US08              | Selección de platos para cada día de la semana          | Como usuario, quiero elegir los platos específicos para cada día para tener control total de mi menú.                     | Alta          | 5                          |
+| 9         | US09              | Modificación de platos en el plan antes de confirmar    | Como usuario, quiero poder cambiar platos antes de confirmar el plan para ajustar decisiones de último momento.            | Media         | 3                          |
+| 10        | US10              | Filtrado de platos según preferencias dietéticas        | Como usuario, quiero filtrar los platos según mis preferencias para ver solo opciones que se alineen a mis necesidades.     | Media         | 3                          |
+| 11        | US11              | Guardado y confirmación del plan semanal               | Como usuario, quiero guardar mi plan semanal personalizado para que se programe automáticamente.                          | Media         | 5                          |
+| 12        | US12              | Confirmación de la programación de entregas             | Como usuario, quiero confirmar la programación de entregas para recibir los platos en los horarios deseados.               | Media         | 2                          |
+| 13        | US13              | Reserva para eventos especiales                         | Como usuario, quiero reservar platos para ocasiones especiales para planificar con anticipación.                         | Media         | 5                          |
+| 14        | US14              | Consulta del valor calórico de cada plato               | Como usuario, quiero ver el valor calórico de cada plato antes de seleccionarlo, para tomar decisiones informadas.        | Alta          | 5                          |
+| 15        | US15              | Visualización del total de calorías diarias del plan    | Como usuario, quiero ver cuántas calorías consumiré por día según mi plan semanal para evaluar si está equilibrado.       | Alta          | 5                          |
+| 16        | US16              | Visualización del total de calorías semanales del plan | Como usuario, quiero ver el total de calorías del plan semanal para tener una visión general de mi dieta.                | Media         | 3                          |
+| 17        | US17              | Configuración de objetivo de ingesta calórica           | Como usuario, quiero establecer un objetivo calórico diario para mantener el control de mi dieta.                         | Baja          | 5                          |
+| 18        | US18              | Alertas por exceder objetivo calórico                   | Como usuario, quiero recibir alertas cuando exceda mi meta calórica diaria para tomar decisiones más conscientes.         | Media         | 3                          |
+| 19        | US19              | Sugerencias de platos durante la planificación semanal  | Como usuario, quiero ver sugerencias automáticas de platos mientras planifico mis comidas para descubrir nuevas opciones.   | Baja          | 2                          |
+| 20        | US20              | Recomendaciones de menús completos según perfil de usuario | Como usuario, quiero recibir sugerencias de planes completos para facilitar la organización de mi semana sin pensar demasiado. | Baja          | 2                          |
+| 21        | US21              | Notificaciones de nuevos platos acordes a sus preferencias | Como usuario, quiero recibir alertas cuando haya platos nuevos que se ajusten a mis gustos.                              | Media         | 5                          |
+| 22        | US22              | Sugerencia de alternativas saludables a platos seleccionados | Como usuario, quiero que se me sugieran opciones más saludables cuando seleccione un plato alto en calorías.             | Media         | 3                          |
+| 23        | US23              | Visualización del historial de consumo de comidas      | Como usuario, quiero ver el historial de las comidas que he consumido, para poder revisar qué platos elegí anteriormente.  | Media         | 5                          |
+| 24        | US24              | Resumen de consumo calórico a lo largo del tiempo       | Como usuario, quiero ver un resumen visual de mi consumo calórico diario y semanal, para identificar si estoy siguiendo un patrón saludable. | Alta          | 5                          |
+| 25        | US25              | Notificaciones sobre patrones alimenticios detectados  | Como usuario, quiero recibir notificaciones si la app detecta hábitos repetitivos o poco saludables, para corregirlos y mejorar mi dieta. | Media         | 3                          |
+| 26        | US26              | Selección de plan de suscripción adecuado               | Como usuario, quiero elegir entre diferentes planes de suscripción, para contratar el que mejor se ajuste a mi presupuesto y frecuencia de uso. | Alta          | 8                          |
+| 27        | US27              | Registro de método de pago seguro                       | Como usuario, quiero registrar un método de pago seguro, para asegurar mis transacciones dentro de la plataforma.         | Alta          | 8                          |
+| 28        | US28              | Renovación automática de suscripción                    | Como usuario, quiero activar o desactivar la renovación automática, para tener control sobre la continuidad de mi plan.   | Media         | 5                          |
+| 29        | US29              | Cambio de plan de suscripción                           | Como usuario, quiero cambiar de plan en cualquier momento, para ajustar mi servicio a nuevas necesidades o presupuesto.    | Media         | 3                          |
+| 30        | US30              | Cancelación o pausa de suscripción                      | Como usuario, quiero poder cancelar o pausar mi suscripción, para detener temporal o permanentemente el servicio según mi situación. | Media         | 3                          |
+
+### Product Backlog en Trello
+
+<p align="left">
+  <img src="Images/trello.PNG" alt="trello" width="500">
+</p>
+
+[Product Backlog FoodHeaven - Trello](https://trello.com/invite/b/67fc295c88272e8c0a6aede4/ATTI837fada1a371ec99383211e7d16ad1658C4ABAB3/product-backlog-foodheaven)
