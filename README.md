@@ -228,3 +228,8 @@ La aplicación permite seleccionar planes de comida, reservar platos especiales,
 ## Competidores
 ### Analisis Competitivo
 
+# Subir Parte1 ()
+
+# Subir Parte2 
+
+# Subir Parte3
