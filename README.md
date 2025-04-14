@@ -1,3 +1,4 @@
-# Project: FoodHaven
+# Chapter 2: Requirements Elicitation & Analysis
 
-# Chapter 1: Introduction
+## Competidores
+### Analisis Competitivo
