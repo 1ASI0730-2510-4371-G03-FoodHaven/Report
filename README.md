@@ -228,7 +228,110 @@ La aplicación permite seleccionar planes de comida, reservar platos especiales,
 ## Competidores
 ### Analisis Competitivo
 
-# Subir Parte1 ()
+## Competitive Analysis Landscape
+### ¿Por qué llevar a cabo este análisis?
+Este análisis es fundamental ya que nos informa sobre el contexto de la competencia. Esto nos permite identificar oportunidades y amenazas, así como áreas potenciales para diferenciarse y destacar en el mercado. También ayuda a identificar fortalezas y debilidades en comparación a sus competidores, lo que puede guiar a mejores decisiones estratégicas. 
+
+## Comparativa de FoodHeaven y Competidores
+
+| **Categoría**                        | **FoodHeaven**                                                                                                                                                       | **Repeat**                                                                                                                                                   | **ManzanaVerde**                                                                                                                                              | **Tappers**                                                                                                                                    |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre**                          | FoodHeaven                                                                                                                                                           | Repeat                                                                                                                                                        | ManzanaVerde                                                                                                                                                   | Tappers                                                                                                                                        |
+| **Logo**                            | ![FoodHeaven](Images/FoodHeaven.PNG)                                                                                                                                                                | ![Repeat](Images/Repeat.PNG)                                                                                                                                                         | ![Manzana](Images/Manzana.PNG)                                                                                                                                                          | ![tapper](Images/tapper.PNG)                                                                                                                                          |
+| **Perfil / Overview**              | Plataforma web de suscripción que permite planificar comidas semanales de forma personalizada, conectando a usuarios con cocineros y restaurantes. Ideal para personas con poco tiempo que desean comer bien sin cocinar. | Servicio de suscripción de comidas saludables listas para calentar y consumir en 3 minutos, pensado para personas con estilo de vida acelerado.            | Startup peruana que combina comida saludable personalizada con asesoría nutricional a través de app y entregas diarias.                                       | Plataforma que conecta comensales con cocineras locales para ofrecer comida casera a domicilio.                                              |
+| **Ventaja Competitiva**            | Ahorra tiempo con menús personalizados. Ofrece control nutricional, variedad y acceso a proveedores verificados, todo desde una sola plataforma.                      | Ahorro de tiempo con alimentos balanceados, sin necesidad de cocinar. Ofrece planes flexibles adaptados a distintas metas nutricionales.                     | Comidas diseñadas por nutricionistas, adaptadas por objetivos, con seguimiento del progreso.                                                                 | Comida tradicional, accesible y auténtica, preparada por amas de casa.                                                                        |
+| **Mercado Objetivo**               | Adultos jóvenes, profesionales y familias en zonas urbanas del Perú, que buscan alimentación saludable sin complicarse.                                              | Adultos jóvenes y profesionales urbanos en Perú, que buscan soluciones prácticas y saludables sin invertir tiempo en cocinar.                               | Personas interesadas en salud, pérdida de peso o mantenimiento físico, en Perú y otros países de Latinoamérica.                                               | Trabajadores, estudiantes y familias que buscan comida económica y sabrosa, principalmente en Lima.                                          |
+| **Estrategias de Marketing**       | Redes sociales, influencers de vida saludable, promociones y contenido educativo.                                              | Campañas en redes sociales, uso de influencers de fitness y nutrición, retargeting digital, promociones en primeras compras.                                 | Contenido educativo, publicidad en redes sociales, recomendaciones por clientes.                                                                             | Difusión local en redes, recomendaciones entre usuarios, enfoque comunitario.                                                                |
+| **Productos y Servicios**          | Planes de comida personalizados, reservas especiales, horarios flexibles, seguimiento nutricional.                             | Planes semanales con platos listos, opciones vegetarianas, veganas y sin gluten. Envío a domicilio con refrigeración.                                       | Planes alimenticios personalizados con soporte nutricional y seguimiento por app.                                                                            | Menús diarios caseros, reservas por porciones o menús semanales.                                                                              |
+| **Precios y Costos**               | Moderados, con buena relación valor-beneficio por la personalización y soporte.                                                | Regulares a altos, dependiendo del número de platos y frecuencia.                                                                                            | Regulares, con buena relación valor-precio por la asesoría incluida.                                                                                           | Bajos, ideal para el consumidor promedio.                                                                                                     |
+| **Canales de Distribución**        | Web y app. Entregas programadas desde cocineros y restaurantes aliados.                                                        | Plataforma web, entregas programadas con cadena de frío.                                                                                                     | App móvil, sitio web, entregas diarias programadas.                                                                                                            | Pedidos por web, redes o WhatsApp. Entregas con motorizados independientes.                                                                  |
+| **Fortalezas**                     | Personalización, acceso multiplataforma, recomendaciones inteligentes.                                                          | Rapidez, variedad, comodidad, buena presentación.                                                                                                            | Personalización, respaldo profesional, tecnología fácil de usar.                                                                                               | Sabor casero, cercanía, precio accesible, impacto social.                                                                                     |
+| **Oportunidades**                  | Expansión, alianzas con empresas y lanzamientos de nuevos productos.                                                           | Expansión a otras ciudades, alianzas con empresas, añadir nuevos horarios.                                                                                   | Lanzar snacks saludables, integración con apps de ejercicio, convenios corporativos.                                                                         | Expandir zonas de cobertura, lanzar app propia, acuerdos con organizaciones sociales.                                                        |
+| **Debilidades**                    | Dependencia logística y necesidad constante de diferenciación.                                                                 | Dependencia logística y percepción de precio frente a cocinar en casa.                                                                                       | Dificultades logísticas en expansión y gestión de calidad por zona.                                                                                           | Escalabilidad limitada, control de calidad y normativas sanitarias.                                                                          |
+| **Amenazas**                       | Competencia de apps de delivery y servicios similares con mayor visibilidad.                                                   | Competencia en servicios de comida saludable y apps de delivery con menú balanceado.                                                                         | Apps similares y servicios de delivery con menú saludable.                                                                                                     | Apps de delivery tradicionales y regulaciones del rubro alimentario informal.                                                                |
+                               |
+
+
+### Estrategias y tácticas frente a competidores
+
+#### 1. Diferenciación a través de Personalización Inteligente
+
+- **Fortaleza utilizada:** Personalización de planes de comida, recomendaciones inteligentes.  
+- **Oportunidad aprovechada:** Usuarios que buscan opciones alineadas a sus hábitos, salud y estilo de vida.  
+
+- **Estrategia:**  
+  Desarrollar algoritmos que optimicen las recomendaciones de comida según historial, objetivos nutricionales y comportamiento del usuario.
+
+- **Táctica:**  
+  Implementar inteligencia artificial para adaptar planes en tiempo real y mostrar sugerencias dinámicas en función de preferencias, historial de pedidos y metas alimenticias.
+
+#### 2. Enfoque en Segmentos Desatendidos (trabajadores con poco tiempo y adultos)
+
+- **Fortaleza utilizada:** Flexibilidad en horarios y entrega personalizada.  
+- **Oportunidad aprovechada:** Segmentos que no son atendidos por apps tradicionales de delivery.  
+
+- **Estrategia:**  
+  Desarrollar experiencias personalizadas para perfiles con necesidades específicas (por ejemplo, comidas bajas en sodio, para adultos mayores o personas con dietas especiales).
+
+- **Táctica:**  
+  Realizar estudios de mercado, adaptar los menús según cada perfil y lanzar campañas dirigidas en redes, centros de trabajo y comunidades.
+
+#### 3. Precios accesibles con modelo escalable de suscripción
+
+- **Fortaleza utilizada:** Relación valor-precio y modelo personalizable.  
+- **Oportunidad aprovechada:** Alta demanda por soluciones prácticas sin altos costos.  
+
+- **Estrategia:**  
+  Ofrecer planes escalables con suscripción mensual que se ajusten al presupuesto del usuario.
+
+- **Táctica:**  
+  Diseñar paquetes con distintos niveles de personalización y frecuencia de entrega, permitiendo upgrades progresivos.
+
+#### 4. Alianzas con restaurantes, cocineros independientes
+
+- **Fortaleza utilizada:** Red de proveedores verificados y flexibilidad en la oferta.  
+- **Oportunidad aprovechada:** Ampliación del catálogo de comidas y aumento de confianza.  
+
+- **Estrategia:**  
+  Crear una red colaborativa para diversificar la oferta y ampliar el alcance.
+
+- **Táctica:**  
+  Firmar acuerdos con pequeños restaurantes y cocineros locales, integrándolos como socios estratégicos dentro de la plataforma.
+
+#### 5. Atención al cliente y seguimiento personalizado
+
+- **Fortaleza utilizada:** Panel de control con progreso y objetivos.  
+- **Oportunidad aprovechada:** Usuarios que valoran un acompañamiento personalizado.  
+
+- **Estrategia:**  
+  Ofrecer atención diferenciada, resolutiva y con foco en la experiencia del cliente.
+
+- **Táctica:**  
+  Implementar canales de soporte en tiempo real, seguimiento automatizado por nutrición y encuestas de satisfacción periódicas.
+
+## Competidores
+
+### Diseño de Entrevistas
+
+| Segmento de Usuario                                         | Pregunta Nº | Pregunta                                                                                                                                         |
+|-------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Profesionales jóvenes con rutinas exigentes**             | 1           | ¿Qué tan complicado te resulta organizar tus comidas entre el trabajo y otras actividades?                                                      |
+|                                                             | 2           | ¿Qué tan importante es para ti tener tus comidas resueltas durante el día?                                                                      |
+|                                                             | 3           | ¿Cómo sueles manejar tus comidas en la semana?                                                                                                   |
+|                                                             | 4           | ¿Te interesaría una opción que te ayude a planificar tus comidas sin complicarte?                                                               |
+|                                                             | 5           | ¿Has usado alguna app o servicio que te facilite el tema de las comidas? ¿Cómo fue tu experiencia?                                              |
+|                                                             | 6           | ¿Usarías una app como FoodHeaven, que organiza tus comidas semanales con opciones variadas, listas para disfrutar y entregas programadas? ¿Por qué sí o no? |
+| **Personas interesadas en mejorar su alimentación y ahorrar tiempo** | 1           | ¿Qué tan difícil te resulta organizar tus comidas durante la semana?                                                                            |
+|                                                             | 2           | ¿Qué tan importante es para ti comer mejor sin perder tiempo en planificar o cocinar?                                                           |
+|                                                             | 3           | ¿Qué haces actualmente para mejorar tu alimentación y ahorrar tiempo?                                                                           |
+|                                                             | 4           | ¿Te gustaría contar con una opción que te ayude a elegir y recibir tus comidas de forma más sencilla?                                           |
+|                                                             | 5           | ¿Has probado algún servicio que te facilite el tema de las comidas?                                                                             |
+|                                                             | 6           | ¿Usarías una app como FoodHeaven, que te ofrece comidas variadas y programadas según tus preferencias, sin tener que preocuparte por organizar todo tú? |
+
+### Registro de entrevistas
+
+### Análisis de entrevistas
+
 
 # Subir Parte2 
 
