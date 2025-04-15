@@ -22,7 +22,7 @@ En EuroCausas, creemos que la buena alimentación es clave para una vida equilib
 **Carrera:** Ingeniería de Software  
 **Descripción:**  
 Soy puntual, lo que me permite realizar todos los trabajos a tiempo. Me gusta tener buena comunicación con el equipo. |
-| ![Cardenas](Images/SantiagoCárdenas.png) | **Nombre:** [Nombre completo]  
+| ![Cardenas](Images/Santiago Cárdenas.png) | **Nombre:** [Nombre completo]  
 **Código de estudiante:** [Código]  
 **Carrera:** [Carrera]  
 **Descripción:**  
