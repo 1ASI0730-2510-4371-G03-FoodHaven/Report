@@ -22,10 +22,11 @@ En EuroCausas, creemos que la buena alimentación es clave para una vida equilib
 **Carrera:** Ingeniería de Software  
 **Descripción:**  
 Soy puntual, lo que me permite realizar todos los trabajos a tiempo. Me gusta tener buena comunicación con el equipo. |
-| ![Cardenas](Images/Cardenas.jpg) | **Nombre:** [Nombre completo]  
-**Código de estudiante:** [Código]  
-**Carrera:** [Carrera]  
-**Descripción:**  
+| ![Cardenas](Images/Cardenas.jpg) | **Nombre:** [Santiago Iván Cárdenas Concha]  
+**Código de estudiante:** U202311207  
+**Carrera:** Ingeniería de Software
+**Descripción:**
+Soy responsable, creativo y siempre trato de apoyar al equipo en todo hasta el final.
 [Descripción personal.] |
 | ![Suarez](Images/Suarez.png) | **Nombre:** [Nombre de Suárez]  
 **Código de estudiante:** [Código]  
