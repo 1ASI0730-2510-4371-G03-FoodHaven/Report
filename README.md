@@ -22,10 +22,11 @@ En EuroCausas, creemos que la buena alimentación es clave para una vida equilib
 **Carrera:** Ingeniería de Software  
 **Descripción:**  
 Soy puntual, lo que me permite realizar todos los trabajos a tiempo. Me gusta tener buena comunicación con el equipo. |
-| ![Cardenas](Images/Cardenas.png) | **Nombre:** [Nombre completo]  
-**Código de estudiante:** [Código]  
-**Carrera:** [Carrera]  
-**Descripción:**  
+| ![Cardenas](Images/Cardenas.jpg) | **Nombre:** Santiago Iván Cárdenas Concha  
+**Código de estudiante:** U202311207  
+**Carrera:** Ingeniería de Software
+**Descripción:**
+Soy responsable, creativo y siempre trato de apoyar al equipo en todo hasta el final.
 [Descripción personal.] |
 | ![Suarez](Images/Suarez.png) | **Nombre:** [Nombre de Suárez]  
 **Código de estudiante:** [Código]  
@@ -468,4 +469,422 @@ Las necesidades identificadas en los segmentos objetivo para la aplicación Food
 - **Meal Suggestion Engine (Motor de Sugerencias)**: Algoritmo que recomienda combinaciones de comidas basadas en preferencias, historial y objetivos del usuario.
 
 - **Dashboard (Panel de Control)**: Vista general donde el usuario puede gestionar su plan actual, sus preferencias, historial y suscripciones.
+
+=======
+
+## Comparativa de FoodHeaven y Competidores
+
+| **Categoría**                        | **FoodHeaven**                                                                                                                                                       | **Repeat**                                                                                                                                                   | **ManzanaVerde**                                                                                                                                              | **Tappers**                                                                                                                                    |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre**                          | FoodHeaven                                                                                                                                                           | Repeat                                                                                                                                                        | ManzanaVerde                                                                                                                                                   | Tappers                                                                                                                                        |
+| **Logo**                            | ![FoodHeaven](Images/FoodHeaven.PNG)                                                                                                                                                                | ![Repeat](Images/Repeat.PNG)                                                                                                                                                         | ![Manzana](Images/Manzana.PNG)                                                                                                                                                          | ![tapper](Images/tapper.PNG)                                                                                                                                          |
+| **Perfil / Overview**              | Plataforma web de suscripción que permite planificar comidas semanales de forma personalizada, conectando a usuarios con cocineros y restaurantes. Ideal para personas con poco tiempo que desean comer bien sin cocinar. | Servicio de suscripción de comidas saludables listas para calentar y consumir en 3 minutos, pensado para personas con estilo de vida acelerado.            | Startup peruana que combina comida saludable personalizada con asesoría nutricional a través de app y entregas diarias.                                       | Plataforma que conecta comensales con cocineras locales para ofrecer comida casera a domicilio.                                              |
+| **Ventaja Competitiva**            | Ahorra tiempo con menús personalizados. Ofrece control nutricional, variedad y acceso a proveedores verificados, todo desde una sola plataforma.                      | Ahorro de tiempo con alimentos balanceados, sin necesidad de cocinar. Ofrece planes flexibles adaptados a distintas metas nutricionales.                     | Comidas diseñadas por nutricionistas, adaptadas por objetivos, con seguimiento del progreso.                                                                 | Comida tradicional, accesible y auténtica, preparada por amas de casa.                                                                        |
+| **Mercado Objetivo**               | Adultos jóvenes, profesionales y familias en zonas urbanas del Perú, que buscan alimentación saludable sin complicarse.                                              | Adultos jóvenes y profesionales urbanos en Perú, que buscan soluciones prácticas y saludables sin invertir tiempo en cocinar.                               | Personas interesadas en salud, pérdida de peso o mantenimiento físico, en Perú y otros países de Latinoamérica.                                               | Trabajadores, estudiantes y familias que buscan comida económica y sabrosa, principalmente en Lima.                                          |
+| **Estrategias de Marketing**       | Redes sociales, influencers de vida saludable, promociones y contenido educativo.                                              | Campañas en redes sociales, uso de influencers de fitness y nutrición, retargeting digital, promociones en primeras compras.                                 | Contenido educativo, publicidad en redes sociales, recomendaciones por clientes.                                                                             | Difusión local en redes, recomendaciones entre usuarios, enfoque comunitario.                                                                |
+| **Productos y Servicios**          | Planes de comida personalizados, reservas especiales, horarios flexibles, seguimiento nutricional.                             | Planes semanales con platos listos, opciones vegetarianas, veganas y sin gluten. Envío a domicilio con refrigeración.                                       | Planes alimenticios personalizados con soporte nutricional y seguimiento por app.                                                                            | Menús diarios caseros, reservas por porciones o menús semanales.                                                                              |
+| **Precios y Costos**               | Moderados, con buena relación valor-beneficio por la personalización y soporte.                                                | Regulares a altos, dependiendo del número de platos y frecuencia.                                                                                            | Regulares, con buena relación valor-precio por la asesoría incluida.                                                                                           | Bajos, ideal para el consumidor promedio.                                                                                                     |
+| **Canales de Distribución**        | Web y app. Entregas programadas desde cocineros y restaurantes aliados.                                                        | Plataforma web, entregas programadas con cadena de frío.                                                                                                     | App móvil, sitio web, entregas diarias programadas.                                                                                                            | Pedidos por web, redes o WhatsApp. Entregas con motorizados independientes.                                                                  |
+| **Fortalezas**                     | Personalización, acceso multiplataforma, recomendaciones inteligentes.                                                          | Rapidez, variedad, comodidad, buena presentación.                                                                                                            | Personalización, respaldo profesional, tecnología fácil de usar.                                                                                               | Sabor casero, cercanía, precio accesible, impacto social.                                                                                     |
+| **Oportunidades**                  | Expansión, alianzas con empresas y lanzamientos de nuevos productos.                                                           | Expansión a otras ciudades, alianzas con empresas, añadir nuevos horarios.                                                                                   | Lanzar snacks saludables, integración con apps de ejercicio, convenios corporativos.                                                                         | Expandir zonas de cobertura, lanzar app propia, acuerdos con organizaciones sociales.                                                        |
+| **Debilidades**                    | Dependencia logística y necesidad constante de diferenciación.                                                                 | Dependencia logística y percepción de precio frente a cocinar en casa.                                                                                       | Dificultades logísticas en expansión y gestión de calidad por zona.                                                                                           | Escalabilidad limitada, control de calidad y normativas sanitarias.                                                                          |
+| **Amenazas**                       | Competencia de apps de delivery y servicios similares con mayor visibilidad.                                                   | Competencia en servicios de comida saludable y apps de delivery con menú balanceado.                                                                         | Apps similares y servicios de delivery con menú saludable.                                                                                                     | Apps de delivery tradicionales y regulaciones del rubro alimentario informal.                                                                |
+                               |
+
+
+### Estrategias y tácticas frente a competidores
+
+#### 1. Diferenciación a través de Personalización Inteligente
+
+- **Fortaleza utilizada:** Personalización de planes de comida, recomendaciones inteligentes.  
+- **Oportunidad aprovechada:** Usuarios que buscan opciones alineadas a sus hábitos, salud y estilo de vida.  
+
+- **Estrategia:**  
+  Desarrollar algoritmos que optimicen las recomendaciones de comida según historial, objetivos nutricionales y comportamiento del usuario.
+
+- **Táctica:**  
+  Implementar inteligencia artificial para adaptar planes en tiempo real y mostrar sugerencias dinámicas en función de preferencias, historial de pedidos y metas alimenticias.
+
+#### 2. Enfoque en Segmentos Desatendidos (trabajadores con poco tiempo y adultos)
+
+- **Fortaleza utilizada:** Flexibilidad en horarios y entrega personalizada.  
+- **Oportunidad aprovechada:** Segmentos que no son atendidos por apps tradicionales de delivery.  
+
+- **Estrategia:**  
+  Desarrollar experiencias personalizadas para perfiles con necesidades específicas (por ejemplo, comidas bajas en sodio, para adultos mayores o personas con dietas especiales).
+
+- **Táctica:**  
+  Realizar estudios de mercado, adaptar los menús según cada perfil y lanzar campañas dirigidas en redes, centros de trabajo y comunidades.
+
+#### 3. Precios accesibles con modelo escalable de suscripción
+
+- **Fortaleza utilizada:** Relación valor-precio y modelo personalizable.  
+- **Oportunidad aprovechada:** Alta demanda por soluciones prácticas sin altos costos.  
+
+- **Estrategia:**  
+  Ofrecer planes escalables con suscripción mensual que se ajusten al presupuesto del usuario.
+
+- **Táctica:**  
+  Diseñar paquetes con distintos niveles de personalización y frecuencia de entrega, permitiendo upgrades progresivos.
+
+#### 4. Alianzas con restaurantes, cocineros independientes
+
+- **Fortaleza utilizada:** Red de proveedores verificados y flexibilidad en la oferta.  
+- **Oportunidad aprovechada:** Ampliación del catálogo de comidas y aumento de confianza.  
+
+- **Estrategia:**  
+  Crear una red colaborativa para diversificar la oferta y ampliar el alcance.
+
+- **Táctica:**  
+  Firmar acuerdos con pequeños restaurantes y cocineros locales, integrándolos como socios estratégicos dentro de la plataforma.
+
+#### 5. Atención al cliente y seguimiento personalizado
+
+- **Fortaleza utilizada:** Panel de control con progreso y objetivos.  
+- **Oportunidad aprovechada:** Usuarios que valoran un acompañamiento personalizado.  
+
+- **Estrategia:**  
+  Ofrecer atención diferenciada, resolutiva y con foco en la experiencia del cliente.
+
+- **Táctica:**  
+  Implementar canales de soporte en tiempo real, seguimiento automatizado por nutrición y encuestas de satisfacción periódicas.
+
+## Competidores
+
+### Diseño de Entrevistas
+
+| Segmento de Usuario                                         | Pregunta Nº | Pregunta                                                                                                                                         |
+|-------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Profesionales jóvenes con rutinas exigentes**             | 1           | ¿Qué tan complicado te resulta organizar tus comidas entre el trabajo y otras actividades?                                                      |
+|                                                             | 2           | ¿Qué tan importante es para ti tener tus comidas resueltas durante el día?                                                                      |
+|                                                             | 3           | ¿Cómo sueles manejar tus comidas en la semana?                                                                                                   |
+|                                                             | 4           | ¿Te interesaría una opción que te ayude a planificar tus comidas sin complicarte?                                                               |
+|                                                             | 5           | ¿Has usado alguna app o servicio que te facilite el tema de las comidas? ¿Cómo fue tu experiencia?                                              |
+|                                                             | 6           | ¿Usarías una app como FoodHeaven, que organiza tus comidas semanales con opciones variadas, listas para disfrutar y entregas programadas? ¿Por qué sí o no? |
+| **Personas interesadas en mejorar su alimentación y ahorrar tiempo** | 1           | ¿Qué tan difícil te resulta organizar tus comidas durante la semana?                                                                            |
+|                                                             | 2           | ¿Qué tan importante es para ti comer mejor sin perder tiempo en planificar o cocinar?                                                           |
+|                                                             | 3           | ¿Qué haces actualmente para mejorar tu alimentación y ahorrar tiempo?                                                                           |
+|                                                             | 4           | ¿Te gustaría contar con una opción que te ayude a elegir y recibir tus comidas de forma más sencilla?                                           |
+|                                                             | 5           | ¿Has probado algún servicio que te facilite el tema de las comidas?                                                                             |
+|                                                             | 6           | ¿Usarías una app como FoodHeaven, que te ofrece comidas variadas y programadas según tus preferencias, sin tener que preocuparte por organizar todo tú? |
+
+### Registro de entrevistas
+
+### Análisis de entrevistas
+
+
+## 2.3 Needfinding
+
+Las necesidades identificadas en los segmentos objetivo para la aplicación FoodHaven son las siguientes:
+
+### Segmento #1: Profesionales jóvenes con rutinas exigentes
+
+- **Alimentación práctica y rápida**:  
+  Solución que les permita recibir comida lista para consumir sin tener que cocinar ni preocuparse por planificar sus comidas.
+
+- **Flexibilidad en horarios y entregas**:  
+  Opciones de programación de entrega según su disponibilidad, incluyendo horarios fuera del estándar laboral.
+
+- **Variedad y personalización**:  
+  Planes alimenticios que se adapten a sus gustos y objetivos personales (por ejemplo, mantener peso, ganar masa muscular, etc.).
+
+- **Experiencia sin fricciones**:  
+  Una plataforma digital intuitiva, rápida y con métodos de pago y renovación de suscripción automatizados.
+
+- **Bienestar y productividad**:  
+  Opciones de comidas que les ayuden a mantener energía y concentración durante el día, sin afectar su ritmo de trabajo.
+
+### Segmento #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo
+
+- **Optimización del uso energético**:  
+  Plataforma que facilite la monitorización avanzada del consumo de energía para grandes volúmenes, ayudando a identificar áreas de mejora y optimización.
+
+- **Reducción de costos**:  
+  Herramientas para analizar y gestionar el consumo energético con el objetivo de reducir costos operativos y mejorar la eficiencia.
+
+- **Gestión de sostenibilidad**:  
+  Funcionalidades que ayuden a las empresas a cumplir con sus objetivos de sostenibilidad a largo plazo, mitigando la volatilidad de los costos energéticos.
+
+- **Implementación de tecnologías avanzadas**:  
+  Soluciones tecnológicas para una gestión más efectiva y detallada del consumo energético, adaptadas a las necesidades de grandes corporaciones y sectores industriales.
+
+- **Alertas y notificaciones**:  
+  Sistema de alertas para gestionar posibles sobreconsumos y oportunidades de optimización, asegurando una operación continua y eficiente.
+
+- **Seguridad operativa**:  
+  Funcionalidades que permitan establecer alertas automáticas en caso de anomalías, garantizando la seguridad del entorno operativo y permitiendo acciones rápidas para corregir problemas antes de que se conviertan en incidentes graves.
+
+### User Persona
+
+**Segmento #1: Profesionales jóvenes con rutinas exigentes**
+<p align="left">
+  <img src="Images/userpersona1.PNG" alt="UserPersona1" width="500">
+</p>
+
+**Segmento #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo**
+<p align="left">
+  <img src="Images/userpersona2.PNG" alt="UserPersona2" width="500">
+</p>
+
+### User Task Matrix
+
+### Ernesto Rodas
+
+<p align="left">
+  <img src="Images/usertask1.PNG" alt="usertask1" width="500">
+</p>
+
+### Mariana Cerna
+
+<p align="left">
+  <img src="Images/usertask2.PNG" alt="usertask2" width="500">
+</p>
+
+### User Journey Mapping
+
+**Segmento #1: Profesionales jóvenes con rutinas exigentes**
+
+<p align="left">
+  <img src="Images/userjourney1.PNG" alt="userjourney1" width="500">
+</p>
+
+**Segmento #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo**
+
+<p align="left">
+  <img src="Images/userjourney2.PNG" alt="userjourney2" width="500">
+</p>
+
+### Empathy Mapping
+
+**Segmento #1: Profesionales jóvenes con rutinas exigentes**
+
+<p align="left">
+  <img src="Images/empathy1.PNG" alt="empathy1" width="500">
+</p>
+
+**Segmento #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo**
+
+<p align="left">
+  <img src="Images/empathy2.PNG" alt="empathy2" width="500">
+</p>
+
+### As-is Scenario Mapping
+
+**Segmento #1: Profesionales jóvenes con rutinas exigentes**
+
+| **Categoría** | **Planificación General de Comidas** | **Evaluación de Comidas y Hábitos Alimenticios** | **Ajuste y Adopción de Nuevas Estrategias Alimenticias** |
+|--------------|---------------------------------------|--------------------------------------------------|-----------------------------------------------------------|
+| **Doing**     | - Planifica comidas sin herramientas específicas. <br> - Usa libretas o apps básicas sin seguimiento. <br> - Busca recetas saludables, aunque no siempre se ajustan a sus metas. | - Revisa cómo se siente después de comer sin seguimiento. <br> - Consulta info en línea pero no la integra. <br> - Usa apps de control, pero sin sugerencias personalizadas. | - Prueba dietas sin seguimiento. <br> - Compra alimentos saludables sin saber si los aprovecha. <br> - Ajusta su dieta, pero no sostiene los cambios. |
+| **Thinking**   | - “Podría organizar mejor mis comidas, pero no tengo tiempo ni herramientas que me funcionen bien.” <br> - “¿Son estas recetas las mejores para mi estilo de vida y mis metas?” | - “Necesito una herramienta más eficiente para planificar y controlar lo que como.” <br> - “Sé que mis hábitos alimenticios pueden mejorar, pero no sé cómo analizarlos bien.” | - “Me gustaría ver resultados claros de mis esfuerzos, pero no tengo cómo medirlos.” <br> - “Una herramienta estructurada me ayudaría a seguir mis hábitos y medir mi progreso.” |
+| **Feeling**    | - Frustración por falta de tiempo y organización. <br> - Inseguridad sobre si sus decisiones alimenticias son correctas. | - Ansiedad por querer mejorar sin un sistema claro. <br> - Frustración al no saber qué cambiar. <br> - Incertidumbre sobre si está haciendo lo mejor para su salud. | - Confusión al integrar información de distintas fuentes. <br> - Esperanza al ver mejoras. <br> - Nerviosismo por no saber si las estrategias serán sostenibles. <br> - Alivio parcial con dudas. |
+
+**Segmento #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo**
+
+| **Categoría** | **Monitoreo de Alimentación y Planificación de Comidas** | **Identificación de Ineficiencias en la Planificación de Alimentación** | **Implementación de Soluciones de Alimentación Saludable y Eficiente** |
+|--------------|------------------------------------------------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------|
+| **Doing**     | - Revisa semanalmente opciones de comida sin continuidad.<br>- Intenta balancear su alimentación sin saber si cubre sus necesidades.<br>- Compra o programa entregas según conveniencia, sin planificación semanal. | - Nota patrones poco saludables como comida rápida frecuente o saltarse comidas.<br>- Revisa manualmente lo que ha consumido, sin metodología clara.<br>- Consulta fuentes digitales o especialistas, pero le cuesta validar la información. | - Aplica recomendaciones de blogs, pero sin constancia.<br>- Programa entregas por conveniencia sin visión a largo plazo.<br>- Realiza cambios como reducir harinas o aumentar vegetales, sin seguimiento.<br>- Explora plataformas tecnológicas, pero no encuentra una que integre todo. |
+| **Thinking**   | - “Planificar lo que voy a comer me toma más tiempo del que tengo.”<br>- “No sé si lo que como realmente se ajusta a mis objetivos.”<br>- “Necesito una forma más simple de organizar mis comidas.” | - “Mis hábitos alimenticios no están siendo tan buenos como podrían.”<br>- “Como lo primero que encuentro sin pensar si es bueno para mí.”<br>- “Tal vez una herramienta me ayudaría a mejorar mi alimentación.” | - “Estoy intentando mejorar, pero no sé si voy por buen camino.”<br>- “Las soluciones online no se ajustan a mi ritmo de vida.”<br>- “Quisiera una plataforma que me diga qué elegir y cuándo.”<br>- “Si esto se automatiza, puedo enfocarme en otras cosas sin sacrificar mi salud.” |
+| **Feeling**    | - Frustración por tener que pensar cada día qué comer.<br>- Alivio ocasional cuando encuentra opciones que parecen adecuadas.<br>- Culpa por elegir comida poco saludable por falta de tiempo. | - Inseguridad sobre la calidad nutricional de sus decisiones.<br>- Ansiedad por no cumplir sus metas alimentarias.<br>- Frustración por no ver resultados visibles. | - Curiosidad por soluciones estructuradas.<br>- Esperanza al probar nuevas herramientas o recomendaciones.<br>- Desánimo cuando no logra constancia.<br>- Nerviosismo por depender de sistemas que no sabe si podrá sostener.<br>- Alivio al ver pequeñas
+
+## Ubiquitous Language
+
+- **User (Usuario)**: Persona que utiliza la plataforma para organizar y personalizar sus comidas semanales. Puede suscribirse a planes y ajustar sus preferencias alimentarias.
+
+- **Meal Plan (Plan de Comidas)**: Conjunto de comidas organizadas para la semana, diseñadas según las preferencias del usuario. Puede incluir desayuno, almuerzo, cena y snacks.
+
+- **Meal (Comida)**: Cada una de las opciones alimentarias que el usuario puede seleccionar dentro de su plan. Incluye nombre, ingredientes y valor nutricional.
+
+- **Combination (Combinación)**: Agrupación de comidas elegida por el usuario para un día específico dentro del plan. Puede variar según las preferencias alimentarias.
+
+- **Subscription (Suscripción)**: Modalidad flexible que permite al usuario acceder a los servicios de organización de comidas. Puede ser semanal, mensual o personalizada.
+
+- **Nutritional Preferences (Preferencias Nutricionales)**: Configuraciones establecidas por el usuario que determinan restricciones (como sin gluten, sin lactosa, vegano, etc.) y objetivos (como perder peso, ganar masa, etc.).
+
+- **Calendar (Calendario)**: Vista organizada por días de la semana donde se muestra el plan alimenticio asignado o personalizado por el usuario.
+
+- **Meal History (Historial de Comidas)**: Registro de combinaciones y planes utilizados por el usuario en semanas anteriores, útil para seguimiento o repetir menús.
+
+- **Customization (Personalización)**: Funcionalidad que permite al usuario ajustar el plan según gustos, alergias o tiempos disponibles.
+
+- **Meal Suggestion Engine (Motor de Sugerencias)**: Algoritmo que recomienda combinaciones de comidas basadas en preferencias, historial y objetivos del usuario.
+
+- **Dashboard (Panel de Control)**: Vista general donde el usuario puede gestionar su plan actual, sus preferencias, historial y suscripciones.
+
+
+# Capítulo 3: Requirements Specification
+
+## 3.1 To-Be Scenario Mapping
+
+**Segmento #1: Profesionales jóvenes con rutinas exigentes**
+
+| **Categoría** | **Monitoreo de Alimentación y Planificación de Comidas** | **Identificación de Ineficiencias en la Planificación de Alimentación** | **Implementación de Soluciones de Alimentación Saludable y Eficiente** |
+|--------------|------------------------------------------------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------|
+| **Doing**     | - Utiliza la app FoodHeaven para crear un plan semanal de comidas ajustado a su rutina y metas personales.<br>- Recibe recomendaciones automáticas según preferencias, historial y objetivos nutricionales.<br>- Configura sus entregas según los horarios disponibles en su agenda.<br> | - Revisa los informes y análisis que la app proporciona sobre su consumo de alimentos y las áreas en las que puede mejorar.<br>- Usa la app para ajustar su planificación de comidas basándose en datos precisos sobre su dieta pasada y las sugerencias de la plataforma.<br>- Consulta las recomendaciones de la app para mejorar su dieta de forma práctica y basada en sus preferencias.<br> | -Aplica las recomendaciones de la app y ajusta la planificación de comidas según los resultados de las métricas y las sugerencias de la plataforma.<br>- Usa la app para realizar un seguimiento continuo de su progreso y asegurar que sus hábitos alimenticios se mantengan saludables.<br>- Prueba nuevas funcionalidades que le ayudan a optimizar la compra de ingredientes o recibir opciones especiales para días muy ocupados. |
+| **Thinking**   | - Pienso que ahora mi planificación de comidas es mucho más eficiente y adaptada a mis necesidades.<br>- Me siento más seguro de que las recomendaciones que recibo son relevantes y adecuadas para mi salud y estilo de vida.<br>- Pienso que la app ha simplificado una tarea que solía ser muy tediosa.<br> | - Pienso que ahora tengo una forma clara de identificar las áreas donde puedo mejorar mi alimentación.<br>- Me siento más capaz de hacer ajustes en mi dieta con base en datos y análisis detallados que la app me ofrece.<br>- Pienso que la app me ayuda a ver el impacto de mis decisiones alimenticias a lo largo del tiempo.<br> | - Pienso que las soluciones que la app me ofrece están realmente mejorando mi alimentación de manera práctica.<br>- Me siento confiado en que la app me ayuda a cumplir mis metas nutricionales con mayor facilidad.<br>- Pienso que ahora tengo una forma efectiva de seguir mi progreso y ajustar mis hábitos en tiempo real. |
+| **Feeling**    | - Siento alivio al ver que puedo organizar mis comidas sin tanto esfuerzo.<br>- Siento satisfacción al recibir recomendaciones que se alinean con mis objetivos de salud.<br>- Siento confianza en que ahora tengo más control sobre mi alimentación.<br> | - Siento mayor confianza al poder identificar las ineficiencias de mi alimentación y corregirlas.<br>- Siento tranquilidad al saber que tengo herramientas para mejorar mis hábitos alimenticios de manera eficiente.<br>- Siento que la app está ayudando a maximizar mi salud y bienestar.| <br>- Siento satisfacción al ver los resultados positivos de las recomendaciones y ajustes en mi dieta. <br>-Siento alivio al saber que puedo seguir mi dieta y objetivos sin tener que complicarme la vida. <br>-Siento gratitud por tener una solución eficiente que se adapta perfectamente a mi rutina diaria. |
+
+**Segmento #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo**
+
+| **Categoría** | **Planificación General de Comidas** | **Evaluación de Comidas y Hábitos Alimenticios** | **Ajuste y Adopción de Nuevas Estrategias Alimenticias** |
+|--------------|-------------------------------------|-------------------------------------------------|--------------------------------------------------------|
+| **Doing**     | - Utiliza FoodHeaven para planificar sus comidas semanales, eligiendo entre opciones preconfiguradas o personalizadas según sus metas.<br>- Configura los horarios de entrega y selecciona los días en los que desea recibir sus comidas.<br>- La app sugiere menús alineados con sus preferencias y estilo de vida. | - Consulta el historial de consumo dentro del panel de control para verificar si sus elecciones están alineadas con sus objetivos.<br>- Revisa los gráficos y estadísticas sobre calorías, frecuencia de consumo de ciertos alimentos y balance general.<br>- Compara su progreso semanal respecto a sus metas iniciales, usando indicadores visuales. | - Aplica recomendaciones de la app para variar su dieta, incorporar alimentos más saludables y mantener un mejor balance.<br>- Activa funciones que le permiten recibir recordatorios sobre hábitos saludables o probar combinaciones nuevas.<br>- Utiliza funciones como listas inteligentes de compras, recetas rápidas o propuestas para días con menos disponibilidad de tiempo. |
+| **Thinking**   | - “Ahora puedo organizar mis comidas en minutos y saber que estoy cumpliendo mis metas.”<br>- “Esta app me ahorra tiempo y me ayuda a comer mejor sin pensarlo tanto.”<br>- “Puedo planificar sin tener que buscar recetas por todos lados.” | - “Me gusta ver cómo mis hábitos están mejorando poco a poco.”<br>- “Puedo detectar fácilmente cuándo me desvío de mis objetivos.”<br>- “La app me da claridad sobre lo que debo cambiar y por qué.” | - “Las recomendaciones que me ofrece la app me ayudan a mantenerme motivado.”<br>- “Siento que con estos ajustes puedo lograr una alimentación más estable y balanceada.”<br>- “La plataforma me ofrece justo lo que necesito, sin abrumarme con información innecesaria.” |
+| **Feeling**    | - Se siente aliviado al no tener que preocuparse cada día por decidir qué comer.<br>- Siente seguridad al saber que las opciones están adaptadas a sus objetivos.<br>- Siente gratitud por tener una herramienta que le permite ahorrar tiempo y alimentarse bien. | - Se siente motivado al visualizar su progreso y entender cómo mejorar.<br>- Se siente satisfecho al ver que está desarrollando mejores hábitos.<br>- Siente tranquilidad al contar con un sistema claro y constante. | - Se siente esperanzado al implementar cambios sostenibles sin esfuerzo.<br>- Siente confianza en las decisiones que toma con ayuda de la app.<br>- Siente orgullo al notar que su alimentación mejora de forma constante y realista. |
+
+## User Stories
+
+### Epic
+
+### EP01 - Registro y Gestión de Perfil
+**Descripción:**  
+Como usuario, quiero crear y gestionar mi cuenta y perfil en una plataforma accesible desde cualquier dispositivo, para utilizar FoodHeaven de forma personalizada y segura.
+
+| **User Story ID** | **Título**                              |
+|-------------------|-----------------------------------------|
+| US01              | Registro de usuario                     |
+| US02              | Inicio de sesión seguro                 |
+| US03              | Configuración de preferencias dietéticas en el perfil |
+| US04              | Gestión de dirección de entrega en el perfil |
+| US05              | Acceso a la plataforma desde múltiples dispositivos |
+| US06              | Edición del perfil de usuario desde la app |
+
+### EP02 - Personalización de Plan de Comidas Semanal
+**Descripción:**  
+Como usuario, quiero personalizar mi plan de comidas semanal (desayuno, almuerzo, cena u otras combinaciones) para adaptarlo a mis gustos, necesidades nutricionales y horario.
+
+| **User Story ID** | **Título**                              |
+|-------------------|-----------------------------------------|
+| US07              | Selección de combinación de comidas del plan |
+| US08              | Selección de platos para cada día de la semana |
+| US09              | Modificación de platos en el plan antes de confirmar |
+| US10              | Filtrado de platos según preferencias dietéticas |
+| US11              | Guardado y confirmación del plan semanal |
+| US12              | Confirmación de la programación de entregas |
+| US13              | Reserva para eventos especiales         |
+
+### EP03 - Seguimiento de Dieta y Contador de Calorías
+**Descripción:**  
+Como usuario, quiero hacer seguimiento de mi dieta a través de un contador de calorías integrado para mantener un registro de mi consumo calórico y cumplir mis objetivos de salud.
+
+| **User Story ID** | **Título**                              |
+|-------------------|-----------------------------------------|
+| US14              | Consulta del valor calórico de cada plato |
+| US15              | Visualización del total de calorías diarias del plan |
+| US16              | Visualización del total de calorías semanales del plan |
+| US17              | Configuración de objetivo de ingesta calórica |
+| US18              | Alertas por exceder objetivo calórico   |
+
+### EP04 - Recomendaciones Personalizadas
+**Descripción:**  
+Como usuario, quiero recibir recomendaciones de comidas y planes basadas en mis gustos, historial y objetivos nutricionales, para descubrir nuevas opciones que se ajusten a mis necesidades.
+
+| **User Story ID** | **Título**                              |
+|-------------------|-----------------------------------------|
+| US19              | Sugerencias de platos durante la planificación semanal |
+| US20              | Recomendaciones de menús completos según perfil de usuario |
+| US21              | Notificaciones de nuevos platos acordes a sus preferencias |
+| US22              | Sugerencia de alternativas saludables a platos seleccionados |
+
+### EP05 - Panel de Control del Usuario
+**Descripción:**  
+Como usuario, quiero utilizar un panel de control personal que muestre mi historial de consumo, metas alimenticias y progreso, para evaluar mi desempeño y mantener la motivación en mi plan alimenticio.
+
+| **User Story ID** | **Título**                              |
+|-------------------|-----------------------------------------|
+| US23              | Visualización del historial de consumo de comidas |
+| US24              | Resumen de consumo calórico a lo largo del tiempo |
+| US25              | Notificaciones sobre patrones alimenticios detectados |
+
+### EP06 - Gestión de Suscripción y Pagos
+**Descripción:**  
+Como usuario, quiero gestionar mi suscripción a FoodHeaven (selección de plan, pagos y renovaciones) para mantener el servicio activo de acuerdo a mis necesidades y presupuesto.
+
+| **User Story ID** | **Título**                              |
+|-------------------|-----------------------------------------|
+| US26              | Selección de plan de suscripción adecuado |
+| US27              | Registro de método de pago seguro       |
+| US28              | Renovación automática de suscripción    |
+| US29              | Cambio de plan de suscripción           |
+| US30              | Cancelación o pausa de suscripción      |
+
+| ID Épica | Épica                          | ID Historia de Usuario | Título Historia de Usuario                    | Descripción HU                                                                                   | Criterios de Aceptación                                                                                                                                                                                                                                                                                      |
+|----------|--------------------------------|-------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| EP01     | Registro y Gestión de Perfil   | US01                    | Registro de usuario                           | Como nuevo usuario, quiero registrarme fácilmente en la plataforma para empezar a utilizar los servicios de FoodHeaven. | **Escenario 1:** Registro básico: Dado que soy un usuario nuevo, cuando ingreso mis datos requeridos y los envío, entonces se debe crear mi cuenta y mostrarme un mensaje de bienvenida. <br> **Escenario 2:** Validación de campos obligatorios: Dado que estoy completando el formulario, cuando omito un campo obligatorio, entonces el sistema debe mostrar un mensaje de error. <br> **Escenario 3:** Confirmación de correo electrónico: Dado que me he registrado, cuando el sistema envíe un correo de confirmación, entonces debo poder activarlo para finalizar mi registro. |
+| EP01     | Registro y Gestión de Perfil   | US02                    | Inicio de sesión seguro                       | Como usuario registrado, quiero iniciar sesión de forma segura para acceder a mi cuenta sin inconvenientes. | **Escenario 1:** Inicio correcto: Dado que soy un usuario registrado, cuando ingreso credenciales válidas, entonces debo acceder a mi panel sin errores. <br> **Escenario 2:** Contraseña incorrecta: Dado que soy un usuario, cuando ingreso una contraseña incorrecta, entonces el sistema debe mostrar un mensaje de error. <br> **Escenario 3:** Sesión segura: Dado que he iniciado sesión, cuando permanezco inactivo cierto tiempo, entonces el sistema debe cerrar la sesión automáticamente. |
+| EP01     | Registro y Gestión de Perfil   | US03                    | Configuración de preferencias dietéticas en el perfil | Como usuario, quiero establecer mis preferencias dietéticas para recibir opciones alimenticias adecuadas. | **Escenario 1:** Configuración inicial: Dado que accedo a mi perfil, cuando elijo mis preferencias, entonces estas se deben guardar correctamente. <br> **Escenario 2:** Edición de preferencias: Dado que ya configuré mis preferencias, cuando deseo modificarlas, entonces el sistema debe actualizar los datos. <br> **Escenario 3:** Aplicación automática: Dado que ya tengo preferencias guardadas, cuando consulto platos, entonces solo se deben mostrar los que coincidan. |
+| EP01     | Registro y Gestión de Perfil   | US04                    | Gestión de dirección de entrega en el perfil   | Como usuario, quiero agregar y gestionar mis direcciones de entrega para recibir mis pedidos correctamente. | **Escenario 1:** Registro de nueva dirección: Dado que estoy en mi perfil, cuando agrego una dirección válida, entonces esta se debe guardar correctamente. <br> **Escenario 2:** Modificación de dirección: Dado que ya tengo una dirección registrada, cuando la edito, entonces el sistema debe actualizarla sin errores. <br> **Escenario 3:** Dirección inválida: Dado que ingreso una dirección, cuando esta es inválida o incompleta, entonces el sistema debe mostrar una advertencia. |
+| EP01     | Registro y Gestión de Perfil   | US05                    | Acceso a la plataforma desde múltiples dispositivos | Como usuario, quiero poder acceder a mi cuenta desde cualquier dispositivo para tener flexibilidad de uso. | **Escenario 1:** Acceso desde dispositivo nuevo: Dado que inicio sesión desde otro dispositivo, cuando ingreso mis credenciales, entonces el sistema debe permitirme el acceso. <br> **Escenario 2:** Sesión activa en varios dispositivos: Dado que estoy conectado desde varios lugares, cuando navego en ambos, entonces la información debe mantenerse sincronizada. <br> **Escenario 3:** Seguridad en múltiples sesiones: Dado que tengo sesión activa en un dispositivo, cuando cierro sesión en otro, entonces se debe cerrar en todos si elijo esa opción. |
+| EP01     | Registro y Gestión de Perfil   | US06                    | Edición del perfil de usuario desde la app     | Como usuario, quiero poder editar mi perfil desde la aplicación para poder tener más versatilidad. | **Escenario 1:** Acceso a la edición del perfil: Dado que estoy en la aplicación y he iniciado sesión, cuando accedo a la sección de perfil, entonces debo ver una opción para editar mis datos personales. <br> **Escenario 2:** Guardado de selección personalizada: Dado que he modificado mis datos del perfil, cuando guardo los cambios, entonces el sistema debe actualizar la información y mostrar una confirmación de éxito. <br> **Escenario 3:** Validación de combinaciones: Dado que intento editar mi perfil, cuando dejo campos obligatorios vacíos o ingreso datos inválidos, entonces se debe mostrar un mensaje de error indicando qué campos requieren corrección. |
+| EP02     | Personalización de Plan de Comidas Semanal | US07                    | Selección de combinación de comidas del plan   | Como usuario, quiero elegir qué comidas incluir en mi plan para definir cuántas recibiré al día. | **Escenario 1:** Selección de comidas: Dado que estoy armando mi plan, cuando selecciono desayuno, almuerzo y/o cena, entonces el sistema debe actualizar mi plan con esas comidas. <br> **Escenario 2:** Combinación personalizada: Dado que elijo solo desayuno y cena, cuando guardo la selección, entonces solo esas dos deben incluirse en el plan semanal. <br> **Escenario 3:** Cambios antes de guardar: Dado que estoy seleccionando, cuando modifico mi combinación, entonces los cambios deben reflejarse de inmediato. |
+| EP02     | Personalización de Plan de Comidas Semanal | US08                    | Selección de platos para cada día de la semana  | Como usuario, quiero elegir los platos específicos para cada día para tener control total de mi menú. | **Escenario 1:** Menú diario: Dado que estoy en la planificación, cuando selecciono un plato para el lunes, entonces este debe guardarse para ese día. <br> **Escenario 2:** Menú completo: Dado que selecciono para toda la semana, cuando guardo el plan, entonces el sistema debe registrar los platos por día. <br> **Escenario 3:** Verificación visual: Dado que he seleccionado platos, cuando reviso el calendario semanal, entonces debo ver los platos asignados a cada fecha. |
+| EP02     | Personalización de Plan de Comidas Semanal | US09                    | Modificación de platos en el plan antes de confirmar | Como usuario, quiero poder cambiar platos antes de confirmar el plan para ajustar decisiones de último momento. | **Escenario 1:** Cambio de plato: Dado que ya asigné un plato, cuando decido reemplazarlo, entonces el sistema debe permitir editarlo sin errores. <br> **Escenario 2:** Confirmación de cambios: Dado que realizo modificaciones, cuando guardo el plan, entonces los nuevos platos deben sustituir a los anteriores. <br> **Escenario 3:** Cancelación de cambios: Dado que inicié una modificación, cuando decido cancelar, entonces el sistema debe mantener los platos anteriores. |
+| EP02     | Personalización de Plan de Comidas Semanal | US10                    | Filtrado de platos según preferencias dietéticas | Como usuario, quiero filtrar los platos según mis preferencias para ver solo opciones que se alineen a mis necesidades. | **Escenario 1:** Filtros activos: Dado que accedo al catálogo, cuando selecciono filtros como “vegetariano”, entonces solo deben mostrarse opciones vegetarianas. <br> **Escenario 2:** Combinación de filtros: Dado que uso más de un filtro, cuando aplico la búsqueda, entonces solo deben aparecer platos que cumplan todos los criterios. <br> **Escenario 3:** Reinicio de filtros: Dado que tengo filtros activos, cuando los borro, entonces deben mostrarse todos los platos disponibles. |
+| EP02     | Personalización de Plan de Comidas Semanal | US11                    | Guardado y confirmación del plan semanal       | Como usuario, quiero guardar mi plan semanal personalizado para que se programe automáticamente. | **Escenario 1:** Plan completo: Dado que he seleccionado todas las comidas, cuando confirmo el plan, entonces el sistema debe guardar la configuración. <br> **Escenario 2:** Confirmación visible: Dado que confirmé el plan, cuando reviso mi calendario, entonces debe mostrarse el resumen del plan semanal. <br> **Escenario 3:** Edición posterior: Dado que ya confirmé, cuando deseo editarlo, entonces debe permitirme modificar antes de cierta fecha. |
+| EP02     | Personalización de Plan de Comidas Semanal | US12                    | Confirmación de la programación de entregas     | Como usuario, quiero confirmar la programación de entregas para recibir los platos en los horarios deseados. | **Escenario 1:** Selección de horarios: Dado que he armado el plan, cuando elijo los horarios de entrega, entonces el sistema debe mostrarlos para confirmar. <br> **Escenario 2:** Recordatorio: Dado que programé entregas, cuando se acerque el día, entonces debo recibir una notificación. <br> **Escenario 3:** Modificación de horarios: Dado que ya programé, cuando deseo cambiar la hora, entonces debe ser posible si no ha vencido el plazo. |
+| EP02     | Personalización de Plan de Comidas Semanal | US13                    | Reserva para eventos especiales                | Como usuario, quiero reservar platos para ocasiones especiales para planificar con anticipación. | **Escenario 1:** Opción de evento: Dado que accedo a mi perfil, cuando indico una fecha especial, entonces puedo seleccionar un menú especial. <br> **Escenario 2:** Confirmación de reserva: Dado que seleccioné el menú, cuando confirmo la reserva, entonces el sistema debe programarla para ese día. <br> **Escenario 3:** Modificación de reserva: Dado que tengo una reserva, cuando deseo modificarla, entonces debo poder hacerlo hasta una fecha límite. |
+| EP03     | Seguimiento de Dieta y Contador de Calorías | US14                    | Consulta del valor calórico de cada plato       | Como usuario, quiero ver el valor calórico de cada plato antes de seleccionarlo, para tomar decisiones informadas según mis necesidades. | **Escenario 1:** Visualización básica: Dado que el usuario está revisando un plato, cuando abre la vista detallada del plato, entonces debe mostrarse claramente el valor calórico total del mismo. <br> **Escenario 2:** Acceso desde buscador: Dado que el usuario busca platos en la plataforma, cuando accede a la lista de resultados, entonces cada plato debe mostrar una etiqueta con su cantidad de calorías. <br> **Escenario 3:** Visualización desde historial: Dado que el usuario accede a su historial de consumo, cuando revisa un plato ya seleccionado, entonces debe poder ver el valor calórico que tenía ese plato. |
+| EP03     | Seguimiento de Dieta y Contador de Calorías | US15                    | Visualización del total de calorías diarias del plan | Como usuario, quiero ver cuántas calorías consumiré por día según mi plan semanal para evaluar si está equilibrado. | **Escenario 1:** Cálculo automático: Dado que el usuario selecciona platos en su plan, cuando visualiza el resumen diario, entonces la app debe mostrar la suma total de calorías por día. <br> **Escenario 2:** Resumen diario actualizado: Dado que el usuario modifica un plato, cuando el cambio es confirmado, entonces el total de calorías del día correspondiente debe actualizarse automáticamente. <br> **Escenario 3:** Acceso desde panel de planificación: Dado que el usuario está personalizando su plan semanal, cuando accede a un día específico, entonces puede ver el total calórico de ese día en una sección destacada. |
+| EP03     | Seguimiento de Dieta y Contador de Calorías | US16                    | Visualización del total de calorías semanales del plan                    | Como usuario, quiero ver el total de calorías del plan semanal para tener una visión general de mi dieta. | **Escenario 1: Suma semanal automática**<br> Dado que el usuario tiene un plan confirmado, cuando abre el resumen semanal, entonces la app debe mostrar el total de calorías sumadas de los siete días.<br> **Escenario 2: Comparación visual**<br> Dado que el usuario revisa su resumen, cuando consulta el gráfico de calorías, entonces debe visualizar barras comparativas por día y total semanal.<br> **Escenario 3: Revisión post-entrega**<br> Dado que ha finalizado la semana, cuando revisa el historial del plan, entonces la app debe conservar y mostrar la suma semanal correspondiente. |
+| EP03     | Seguimiento de Dieta y Contador de Calorías | US17                    | Configuración de objetivo de ingesta calórica                              | Como usuario, quiero establecer un objetivo calórico diario para mantener el control de mi dieta.           | **Escenario 1: Ingreso inicial**<br> Dado que el usuario accede por primera vez a esta función, cuando ingresa un número de calorías objetivo, entonces el sistema debe guardar esta meta y mostrarla como referencia.<br> **Escenario 2: Edición del objetivo**<br> Dado que el usuario desea cambiar su meta, cuando accede a la configuración, entonces puede modificar el número de calorías objetivo.<br> **Escenario 3: Verificación**<br> Dado que el usuario consulta su plan diario, cuando el consumo se acerque al objetivo, entonces el sistema debe mostrar el porcentaje cumplido. |
+| EP03     | Seguimiento de Dieta y Contador de Calorías | US18                    | Alertas por exceder objetivo calórico                                      | Como usuario, quiero recibir alertas cuando exceda mi meta calórica diaria para tomar decisiones más conscientes. | **Escenario 1: Alerta preventiva**<br> Dado que el usuario añade un plato, cuando este excede el límite calórico restante, entonces la app debe mostrar una advertencia antes de confirmar.<br> **Escenario 2: Notificación posterior**<br> Dado que el usuario ha superado el objetivo, cuando revisa su resumen diario, entonces debe visualizar una alerta destacando el exceso.<br> **Escenario 3: Personalización de alertas**<br> Dado que el usuario desea modificar la forma de notificación, cuando accede a la configuración, entonces puede activar/desactivar alertas visuales o por notificación. |
+| EP04     | Recomendaciones Personalizadas            | US19                    | Sugerencias de platos durante la planificación semanal                    | Como usuario, quiero ver sugerencias automáticas de platos mientras planifico mis comidas para descubrir nuevas opciones compatibles. | **Escenario 1: Sugerencias visibles**<br> Dado que el usuario está seleccionando platos, cuando accede a una comida vacía, entonces debe ver una lista de platos sugeridos.<br> **Escenario 2: Basado en historial**<br> Dado que el usuario ha usado la app previamente, cuando abre el planificador, entonces las sugerencias deben basarse en elecciones anteriores.<br> **Escenario 3: Personalización**<br> Dado que el usuario quiere refinar sugerencias, cuando modifica sus preferencias, entonces las nuevas sugerencias deben actualizarse. |
+| EP04     | Recomendaciones Personalizadas            | US20                    | Recomendaciones de menús completos según perfil de usuario                | Como usuario, quiero recibir sugerencias de planes completos para facilitar la organización de mi semana sin pensar demasiado. | **Escenario 1: Generación automática de menús**<br> Dado que el usuario accede a sugerencias, cuando selecciona “menú semanal recomendado”, entonces debe visualizar un plan completo preconfigurado.<br> **Escenario 2: Adaptación automática**<br> Dado que el usuario cambia sus preferencias, cuando accede a esta sección, entonces las recomendaciones deben reflejar los nuevos parámetros.<br> **Escenario 3: Aprobación parcial**<br> Dado que el usuario revisa un menú completo, cuando decide no aceptar todos los platos, entonces debe poder reemplazar algunos sin perder el resto del plan. |
+| EP04     | Recomendaciones Personalizadas            | US21                    | Notificaciones de nuevos platos acordes a sus preferencias                | Como usuario, quiero recibir alertas cuando haya platos nuevos que se ajusten a mis gustos.                | **Escenario 1: Alerta de novedad**<br> Dado que hay un nuevo plato en la base de datos, cuando este coincide con los gustos del usuario, entonces el sistema debe notificarlo.<br> **Escenario 2: Configuración de preferencias**<br> Dado que el usuario desea controlar las notificaciones, cuando ajusta su configuración, entonces puede activar o desactivar las notificaciones.<br> **Escenario 3: Acceso a platos sugeridos**<br> Dado que el usuario recibe una notificación, cuando hace clic en ella, entonces debe ser dirigido al detalle del plato. |
+| EP04     | Recomendaciones Personalizadas            | US22                    | Sugerencia de alternativas saludables a platos seleccionados              | Como usuario, quiero que se me sugieran opciones más saludables cuando seleccione un plato alto en calorías. | **Escenario 1: Alerta preventiva**<br> Dado que el usuario elige un plato alto en calorías, cuando lo agrega al plan, entonces debe recibir una sugerencia de alternativa saludable.<br> **Escenario 2: Visualización de beneficios**<br> Dado que el sistema sugiere un reemplazo, cuando el usuario consulta la alternativa, entonces debe mostrarse una comparativa de calorías.<br> **Escenario 3: Opción de ignorar**<br> Dado que el usuario prefiere no cambiar, cuando rechaza la sugerencia, entonces la app debe conservar el plato original. |
+| EP05     | Panel de Control del Usuario              | US23                    | Visualización del historial de consumo de comidas                         | Como usuario, quiero ver el historial de las comidas que he consumido, para poder revisar qué platos elegí anteriormente y tomar mejores decisiones en el futuro. | **Escenario 1: Acceso al historial**<br> Dado que el usuario está en su panel de control, cuando accede a la sección de historial, entonces debe ver una lista cronológica de los platos que ha consumido.<br> **Escenario 2: Detalle de cada comida**<br> Dado que el usuario selecciona un plato del historial, cuando hace clic en el mismo, entonces debe ver el detalle completo, incluyendo nombre, fecha, calorías y porciones.<br> **Escenario 3: Filtro por fechas**<br> Dado que el usuario quiere revisar un periodo específico, cuando filtra por fechas, entonces la app debe mostrar solo las comidas correspondientes a ese rango. |
+| EP05     | Panel de Control del Usuario              | US24                    | Resumen de consumo calórico a lo largo del tiempo                         | Como usuario, quiero ver un resumen visual de mi consumo calórico diario y semanal, para identificar si estoy siguiendo un patrón saludable. | **Escenario 1: Gráfico de calorías diarias**<br> Dado que el usuario accede al panel de control, cuando elige la vista diaria, entonces debe ver un gráfico con el total calórico por día.<br> **Escenario 2: Comparación semanal**<br> Dado que el usuario accede a la vista semanal, cuando selecciona una semana, entonces debe ver un promedio calórico comparado con el objetivo.<br> **Escenario 3: Indicadores de sobrepaso o déficit**<br> Dado que el usuario ha superado o no alcanzado su objetivo, cuando ve el resumen, entonces debe visualizar alertas o indicadores visuales (colores, íconos, etc.). |
+| EP05     | Panel de Control del Usuario              | US25                    | Notificaciones sobre patrones alimenticios detectados                     | Como usuario, quiero recibir notificaciones si la app detecta hábitos repetitivos o poco saludables, para corregirlos y mejorar mi dieta. | **Escenario 1: Detección de repetición excesiva**<br> Dado que el usuario consume frecuentemente los mismos platos, cuando esto se detecta en el historial, entonces debe mostrarse una notificación sugiriendo mayor variedad.<br> **Escenario 2: Detección de desequilibrio calórico**<br> Dado que hay varios días con exceso o déficit de calorías, cuando esto se identifique, entonces debe enviarse una notificación informando el patrón.<br> **Escenario 3: Configuración de alertas**<br> Dado que el usuario desea ajustar la frecuencia o tipo de notificaciones, cuando accede a la configuración de su perfil, entonces debe poder activar, desactivar o personalizar las notificaciones. |
+| EP06         | Gestión de Suscripción y Pagos    | US26                       | Selección de plan de suscripción adecuado                              | Como usuario, quiero elegir entre diferentes planes de suscripción, para contratar el que mejor se ajuste a mi presupuesto y frecuencia de uso.             | **Escenario 1: Vista de planes disponibles**<br>Dado que el usuario accede a la sección de suscripción<br>Cuando entra a “ver planes”<br>Entonces debe visualizar una lista con opciones detalladas (precio, frecuencia, beneficios).<br><br>**Escenario 2: Selección de plan**<br>Dado que el usuario elige un plan<br>Cuando lo selecciona y lo confirma<br>Entonces debe quedar registrado como su plan activo.<br><br>**Escenario 3: Confirmación visual y por correo**<br>Dado que el usuario finaliza la selección del plan<br>Cuando el proceso se completa<br>Entonces debe recibir una notificación en la app y por correo. |
+| EP06         | Gestión de Suscripción y Pagos    | US27                       | Registro de método de pago seguro                                      | Como usuario, quiero registrar un método de pago seguro, para asegurar mis transacciones dentro de la plataforma.                                            | **Escenario 1: Registro de tarjeta o billetera digital**<br>Dado que el usuario no ha registrado ningún método<br>Cuando accede a la sección de pagos<br>Entonces debe poder añadir una tarjeta o medio de pago digital.<br><br>**Escenario 2: Validación del método de pago**<br>Dado que el usuario ingresa los datos<br>Cuando los envía<br>Entonces el sistema debe validarlos con el proveedor correspondiente.<br><br>**Escenario 3: Seguridad de la información**<br>Dado que los datos son sensibles<br>Cuando son almacenados<br>Entonces deben estar cifrados y no visibles por terceros. |
+| EP06         | Gestión de Suscripción y Pagos    | US28                       | Renovación automática de suscripción                                   | Como usuario, quiero activar o desactivar la renovación automática, para tener control sobre la continuidad de mi plan.                                      | **Escenario 1: Activación de renovación automática**<br>Dado que el usuario desea no preocuparse por renovar<br>Cuando activa la opción<br>Entonces el sistema debe renovar el plan automáticamente al final del periodo.<br><br>**Escenario 2: Desactivación por parte del usuario**<br>Dado que no desea que se renueve sin su consentimiento<br>Cuando desactiva la función<br>Entonces el sistema debe respetar la elección y no cobrar al vencer el plan.<br><br>**Escenario 3: Confirmación de configuración**<br>Dado que el usuario cambia el estado de la renovación<br>Cuando lo guarda<br>Entonces debe recibir una confirmación visual inmediata. |
+| EP06         | Gestión de Suscripción y Pagos    | US29                       | Cambio de plan de suscripción                                          | Como usuario, quiero cambiar de plan en cualquier momento, para ajustar mi servicio a nuevas necesidades o presupuesto.                                      | **Escenario 1: Vista de planes disponibles para cambio**<br>Dado que el usuario desea cambiar su plan<br>Cuando accede a la opción<br>Entonces debe ver las otras opciones compatibles.<br><br>**Escenario 2: Confirmación de cambio**<br>Dado que selecciona un nuevo plan<br>Cuando lo confirma<br>Entonces el cambio debe aplicarse al inicio del siguiente ciclo.<br><br>**Escenario 3: Notificación del cambio**<br>Dado que el cambio fue exitoso<br>Cuando el proceso termina<br>Entonces debe notificarse al usuario por correo y en la plataforma. |
+| EP06         | Gestión de Suscripción y Pagos    | US30                       | Cancelación o pausa de suscripción                                     | Como usuario, quiero poder cancelar o pausar mi suscripción, para detener temporal o permanentemente el servicio según mi situación.                        | **Escenario 1: Solicitud de cancelación o pausa**<br>Dado que el usuario desea suspender su suscripción<br>Cuando accede a la configuración<br>Entonces debe ver las opciones de cancelación y pausa.<br><br>**Escenario 2: Confirmación obligatoria**<br>Dado que selecciona una de las opciones<br>Cuando confirma su decisión<br>Entonces debe mostrarse un resumen de las consecuencias y confirmación final.<br><br>**Escenario 3: Reversibilidad**<br>Dado que el usuario desea reactivar el servicio<br>Cuando accede nuevamente<br>Entonces debe tener la opción de reactivar su suscripción sin perder sus datos. |
+## Impact Mapping
+
+<p align="left">
+  <img src="Images/impact.PNG" alt="impact" width="500">
+</p>
+
+## Product Backlog
+
+| **Orden** | **User Story ID** | **Título**                                              | **Descripción**                                                                                                           | **Prioridad** | **Story Points (1/2/3/5/8)** |
+|-----------|-------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------|----------------------------|
+| 1         | US01              | Registro de usuario                                     | Como nuevo usuario, quiero registrarme fácilmente en la plataforma para empezar a utilizar los servicios de FoodHeaven.   | Alta          | 5                          |
+| 2         | US02              | Inicio de sesión seguro                                 | Como usuario registrado, quiero iniciar sesión de forma segura para acceder a mi cuenta sin inconvenientes.              | Media         | 3                          |
+| 3         | US03              | Configuración de preferencias dietéticas en el perfil   | Como usuario, quiero establecer mis preferencias dietéticas para recibir opciones alimenticias adecuadas.                 | Media         | 5                          |
+| 4         | US04              | Gestión de dirección de entrega en el perfil            | Como usuario, quiero agregar y gestionar mis direcciones de entrega para recibir mis pedidos correctamente.                | Alta          | 2                          |
+| 5         | US05              | Acceso a la plataforma desde múltiples dispositivos     | Como usuario, quiero poder acceder a mi cuenta desde cualquier dispositivo para tener flexibilidad de uso.               | Media         | 5                          |
+| 6         | US06              | Edición del perfil de usuario desde la app              | Como usuario, quiero poder editar mi perfil desde la aplicación para poder tener más versatilidad.                        | Baja          | 3                          |
+| 7         | US07              | Selección de combinación de comidas del plan            | Como usuario, quiero elegir qué comidas incluir en mi plan para definir cuántas recibiré al día.                           | Alta          | 5                          |
+| 8         | US08              | Selección de platos para cada día de la semana          | Como usuario, quiero elegir los platos específicos para cada día para tener control total de mi menú.                     | Alta          | 5                          |
+| 9         | US09              | Modificación de platos en el plan antes de confirmar    | Como usuario, quiero poder cambiar platos antes de confirmar el plan para ajustar decisiones de último momento.            | Media         | 3                          |
+| 10        | US10              | Filtrado de platos según preferencias dietéticas        | Como usuario, quiero filtrar los platos según mis preferencias para ver solo opciones que se alineen a mis necesidades.     | Media         | 3                          |
+| 11        | US11              | Guardado y confirmación del plan semanal               | Como usuario, quiero guardar mi plan semanal personalizado para que se programe automáticamente.                          | Media         | 5                          |
+| 12        | US12              | Confirmación de la programación de entregas             | Como usuario, quiero confirmar la programación de entregas para recibir los platos en los horarios deseados.               | Media         | 2                          |
+| 13        | US13              | Reserva para eventos especiales                         | Como usuario, quiero reservar platos para ocasiones especiales para planificar con anticipación.                         | Media         | 5                          |
+| 14        | US14              | Consulta del valor calórico de cada plato               | Como usuario, quiero ver el valor calórico de cada plato antes de seleccionarlo, para tomar decisiones informadas.        | Alta          | 5                          |
+| 15        | US15              | Visualización del total de calorías diarias del plan    | Como usuario, quiero ver cuántas calorías consumiré por día según mi plan semanal para evaluar si está equilibrado.       | Alta          | 5                          |
+| 16        | US16              | Visualización del total de calorías semanales del plan | Como usuario, quiero ver el total de calorías del plan semanal para tener una visión general de mi dieta.                | Media         | 3                          |
+| 17        | US17              | Configuración de objetivo de ingesta calórica           | Como usuario, quiero establecer un objetivo calórico diario para mantener el control de mi dieta.                         | Baja          | 5                          |
+| 18        | US18              | Alertas por exceder objetivo calórico                   | Como usuario, quiero recibir alertas cuando exceda mi meta calórica diaria para tomar decisiones más conscientes.         | Media         | 3                          |
+| 19        | US19              | Sugerencias de platos durante la planificación semanal  | Como usuario, quiero ver sugerencias automáticas de platos mientras planifico mis comidas para descubrir nuevas opciones.   | Baja          | 2                          |
+| 20        | US20              | Recomendaciones de menús completos según perfil de usuario | Como usuario, quiero recibir sugerencias de planes completos para facilitar la organización de mi semana sin pensar demasiado. | Baja          | 2                          |
+| 21        | US21              | Notificaciones de nuevos platos acordes a sus preferencias | Como usuario, quiero recibir alertas cuando haya platos nuevos que se ajusten a mis gustos.                              | Media         | 5                          |
+| 22        | US22              | Sugerencia de alternativas saludables a platos seleccionados | Como usuario, quiero que se me sugieran opciones más saludables cuando seleccione un plato alto en calorías.             | Media         | 3                          |
+| 23        | US23              | Visualización del historial de consumo de comidas      | Como usuario, quiero ver el historial de las comidas que he consumido, para poder revisar qué platos elegí anteriormente.  | Media         | 5                          |
+| 24        | US24              | Resumen de consumo calórico a lo largo del tiempo       | Como usuario, quiero ver un resumen visual de mi consumo calórico diario y semanal, para identificar si estoy siguiendo un patrón saludable. | Alta          | 5                          |
+| 25        | US25              | Notificaciones sobre patrones alimenticios detectados  | Como usuario, quiero recibir notificaciones si la app detecta hábitos repetitivos o poco saludables, para corregirlos y mejorar mi dieta. | Media         | 3                          |
+| 26        | US26              | Selección de plan de suscripción adecuado               | Como usuario, quiero elegir entre diferentes planes de suscripción, para contratar el que mejor se ajuste a mi presupuesto y frecuencia de uso. | Alta          | 8                          |
+| 27        | US27              | Registro de método de pago seguro                       | Como usuario, quiero registrar un método de pago seguro, para asegurar mis transacciones dentro de la plataforma.         | Alta          | 8                          |
+| 28        | US28              | Renovación automática de suscripción                    | Como usuario, quiero activar o desactivar la renovación automática, para tener control sobre la continuidad de mi plan.   | Media         | 5                          |
+| 29        | US29              | Cambio de plan de suscripción                           | Como usuario, quiero cambiar de plan en cualquier momento, para ajustar mi servicio a nuevas necesidades o presupuesto.    | Media         | 3                          |
+| 30        | US30              | Cancelación o pausa de suscripción                      | Como usuario, quiero poder cancelar o pausar mi suscripción, para detener temporal o permanentemente el servicio según mi situación. | Media         | 3                          |
+
+### Product Backlog en Trello
+
+<p align="left">
+  <img src="Images/trello.PNG" alt="trello" width="500">
+</p>
+
+[Product Backlog FoodHeaven - Trello](https://trello.com/invite/b/67fc295c88272e8c0a6aede4/ATTI837fada1a371ec99383211e7d16ad1658C4ABAB3/product-backlog-foodheaven)
 
