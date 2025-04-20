@@ -1142,3 +1142,219 @@ Como usuario, quiero gestionar mi suscripción a FoodHeaven (selección de plan,
 
 [Product Backlog FoodHeaven - Trello](https://trello.com/invite/b/67fc295c88272e8c0a6aede4/ATTI837fada1a371ec99383211e7d16ad1658C4ABAB3/product-backlog-foodheaven)
 
+# Capítulo IV: Product Design
+
+## Style Guidelines
+
+FoodHeaven es una plataforma web diseñada para transformar la manera en que las personas organizan su alimentación diaria, especialmente aquellas con rutinas exigentes o poco tiempo para cocinar. A través de un sistema de suscripción flexible, permite programar y recibir comidas semanales de forma sencilla, práctica y personalizada. Con herramientas digitales intuitivas, FoodHeaven facilita la planificación de la semana, ayudando a crear una rutina alimenticia ordenada, sin complicaciones y adaptada al estilo de vida moderno.
+
+Esta sección contiene una guía visual estructurada que reúne todos los elementos de diseño aplicados en la plataforma FoodHeaven. Desde tipografías y paletas de colores hasta componentes gráficos clave, se organiza todo en dos bloques: General Style Guidelines y Web Style Guidelines, para garantizar una identidad visual coherente y funcional. Gracias a esta consistencia, se ofrece una experiencia de usuario clara, accesible y unificada, tanto en la versión web como en dispositivos móviles, reforzando el propósito de la plataforma: simplificar la alimentación diaria de forma moderna y eficiente.
+
+### General Style Guidelines
+
+El branding de FoodHeaven constituye la base de su identidad visual y ha sido pensado para transmitir sus valores esenciales: organización alimentaria, accesibilidad y bienestar a medida. Con una estética contemporánea, amigable y cercana, la marca busca representar la experiencia de una alimentación gestionada digitalmente, generando una imagen visual que inspire confianza y cercanía. Su logotipo, colores y tipografía reflejan orden, energía y simplicidad, cualidades que refuerzan la facilidad con la que los usuarios pueden planificar y recibir sus comidas. Toda la línea visual está en sintonía con el enfoque práctico e inclusivo de la plataforma, permitiendo que personas con diferentes estilos de vida se sientan parte de una comunidad que valora el equilibrio y la comodidad en su alimentación diaria.
+
+#### Tipografía
+
+La tipografía de FoodHeaven cumple una función clave en reflejar su identidad, aportando una sensación de calidez, simplicidad y cercanía en la interacción con los usuarios. Se optó por 2 fuentes que garantizarán una experiencia de lectura clara y agradable en todo tipo de dispositivos y formatos.
+
+**Logo:** El logotipo de FoodHeaven utiliza la tipografía Helvetica, una elección que refuerza su identidad visual con elegancia y modernidad. Reconocida por su diseño limpio y atemporal, Helvetica aporta una estética profesional y accesible que conecta eficazmente con una audiencia contemporánea. Su estructura equilibrada y legibilidad excepcional garantizan una presencia sólida en entornos digitales, adaptándose perfectamente a diversas plataformas sin perder claridad ni impacto visual.
+
+Además, la neutralidad de Helvetica permite que el mensaje de la marca se destaque sin distracciones, ofreciendo una versatilidad que ha sido aprovechada por numerosas empresas globales en sus identidades visuales. Esta característica la convierte en una herramienta poderosa para transmitir confianza y profesionalismo, cualidades esenciales para una plataforma como FoodHeaven que busca resonar emocionalmente con su público objetivo.
+
+**Texto General:** Para la interfaz de la aplicación web de FoodHeaven, se ha optado por la tipografía Poppins, una fuente sans serif geométrica que combina modernidad y calidez. Su diseño limpio y monolineal, junto con una altura de x generosa, facilita una lectura fluida en diversas plataformas y tamaños de pantalla. La familia tipográfica ofrece una amplia gama de pesos (desde light hasta bold), lo que permite estructurar eficazmente la jerarquía visual del contenido y mejorar la experiencia del usuario. Además, Poppins es reconocida por su legibilidad y versatilidad en entornos digitales, adaptándose perfectamente a las necesidades de accesibilidad y diseño contemporáneo.
+
+<p align="left">
+  <img src="Images/imagen1.PNG" alt="imagen1" width="500">
+</p>
+
+#### Colores
+
+La paleta de colores de FoodHeaven ha sido cuidadosamente seleccionada para reflejar una estética natural, saludable y acogedora. Los tonos verdes y neutros promueven una sensación de calma, frescura y conexión con lo orgánico. A continuación, se describe cada color y su uso en la aplicación:
+
+**Colores principales:**
+
+- **Verde Intenso (#307D33):** Este tono representa la frescura, naturalidad y confianza que FoodHeaven busca transmitir en cada comida. Su profundidad comunica solidez y equilibrio, evocando ingredientes frescos y una alimentación ordenada.
+- **Verde Claro (#53C758):** Complementa al verde principal con una energía más luminosa y accesible. Aporta dinamismo, optimismo y vitalidad al entorno visual, alineándose con la idea de una rutina alimenticia más simple y eficiente.
+- **Blanco (#FFFFFF):** Presente como color de fondo y en elementos clave, el blanco potencia la claridad visual, la limpieza estética y la sensación de orden. Transmite transparencia y confianza en el servicio.
+
+**Colores secundarios:**
+
+- **Negro (#000000):** Utilizado para contrastes tipográficos y algunos detalles, este color aporta estructura, elegancia y profesionalismo. Permite destacar información relevante y mantiene una lectura clara.
+- **Gris (#808080):** Su uso en textos secundarios y descripciones genera una jerarquía visual sutil y moderna. Este tono neutro equilibra el diseño y aporta sobriedad sin restar calidez.
+- **Amarillo (#FFC107):** Presente en las estrellas de reseñas, este tono aporta calidez, cercanía y valoración positiva. Transmite la satisfacción del usuario y añade un toque emocional a la experiencia visual.
+
+<p align="left">
+  <img src="Images/imagen2.PNG" alt="imagen2" width="500">
+</p>
+
+#### Espaciado
+
+**Botones:**  
+Los botones principales de FoodHeaven, como “Iniciar sesión”, “Regístrate” y “Elegir plan”, utilizan un diseño con bordes redondeados (border-radius: 50px) y una tipografía clara en Poppins. Se ha definido un padding aproximado de 1rem vertical y 2rem horizontal (como se evidencia en `.signin-button`, `.login-button` y `.portada-button`), lo que garantiza una zona clickeable amplia, mejorando la accesibilidad táctil en dispositivos móviles y manteniendo la coherencia visual en todo el sitio. Además, los botones cuentan con efectos de hover que refuerzan la interactividad, cambiando de color a un tono verde más claro (`--second-color`).
+
+**Separación entre textos:**  
+Para asegurar una lectura fluida, se ha establecido una separación clara entre los elementos de texto como títulos (`h1`, `h2`) y párrafos (`p`). Estos usan un `margin-bottom` general de 1rem, lo cual evita que los bloques textuales se vean saturados y permite una jerarquía visual más legible, especialmente en secciones como “¿Cómo funciona?” y “Reseñas”.
+
+**Espaciado entre componentes:**  
+Componentes clave como las tarjetas de servicios (`.servicio`) y tarjetas de precios (`.precio-card`) incorporan un `margin-bottom` de 1.5rem y un padding interno generoso, facilitando la diferenciación entre bloques de contenido y mejorando el ritmo visual en el scroll de la página. En el caso de `.precio-card`, el padding llega hasta 6rem en pantallas grandes, aportando mayor elegancia visual.
+
+**Espaciado entre secciones principales:**  
+Cada sección del sitio (por ejemplo, `#servicios`, `#precios`, `#contactanos`) aplica un padding vertical mínimo de 2rem y puede ampliarse hasta 6rem en vistas desktop, de acuerdo con las media queries utilizadas. Este espaciado proporciona una estructura ordenada y balanceada en todo el layout, contribuyendo a una experiencia de navegación más cómoda y estética tanto en dispositivos móviles como en pantallas grandes.
+
+#### Iconografía
+
+En FoodHeaven, los íconos cumplen un rol clave al facilitar la comprensión de las funciones dentro de la plataforma. Estos elementos gráficos, simples y visualmente intuitivos, permiten que los usuarios identifiquen con rapidez cada sección o acción, ya sea desde una computadora o un dispositivo móvil.
+
+El uso de íconos no solo mejora la estética visual de la interfaz, sino que también agiliza la navegación y hace más accesible el contenido. Gracias a su carácter universal, estos símbolos trascienden el lenguaje escrito, permitiendo que cualquier persona, sin importar su idioma o experiencia previa, pueda desenvolverse con naturalidad dentro del entorno digital de FoodHeaven. Se emplea la biblioteca **Bootstrap Icons**, lo que asegura una estética moderna, coherente y responsiva en diferentes dispositivos.
+
+<p align="left">
+  <img src="Images/imagen1.PNG" alt="imagen3" width="500">
+</p>
+
+#### Tono de Comunicación y Lenguaje Aplicado
+
+El tono de FoodHeaven es cercano, práctico y motivador, diseñado para generar una conexión de confianza con los usuarios que buscan mejorar su alimentación sin complicaciones. La plataforma acompaña a las personas en la organización de sus comidas diarias, facilitando la elección de planes alimentarios personalizados, el acceso a opciones saludables y la gestión eficiente del tiempo. Por ello, el tono se mantiene claro y positivo, transmitiendo sencillez, bienestar y compromiso con una experiencia alimentaria equilibrada.
+
+En cuanto al lenguaje, se utiliza un estilo directo y comprensible, evitando tecnicismos o estructuras complejas. Todo el contenido está pensado para ser accesible a personas con diferentes niveles de conocimiento sobre nutrición o tecnología. Se emplea un lenguaje amigable que destaca los beneficios de una alimentación organizada, con una voz cercana, dinámica y enfocada en soluciones prácticas.
+
+Este enfoque comunicativo busca crear una experiencia simple, motivadora y funcional, alineada con los valores de FoodHeaven: simplificar la vida diaria, promover el bienestar personal y facilitar el acceso a una alimentación consciente y personalizada.
+
+### Web Style Guidelines
+
+Para las Style Guidelines de la página web de FoodHeaven, hemos decidido mantener el uso exclusivo de la fuente **Poppins**, seleccionada por su diseño moderno, limpio y amigable para la lectura digital. Esta tipografía refleja perfectamente el espíritu de la plataforma: accesible, natural y enfocada en el bienestar.
+
+También hemos decidido mantener la paleta de colores, ya que se utiliza de forma coherente y estratégica para transmitir sensaciones de frescura, confianza y conexión con lo natural. Estos colores no solo aportan una estética armoniosa, sino que también ayudan a los usuarios a navegar de manera intuitiva por el sitio, reforzando visualmente las acciones clave.
+
+## Information Architecture
+
+### Organization Systems
+
+**Landing Page:**  
+
+<p align="left">
+  <img src="Images/imagen4.PNG" alt="imagen4" width="500">
+</p>
+
+Este sistema de organización asegura una navegación intuitiva y lógica para los usuarios, permitiendo una experiencia fluida mientras interactúan con la plataforma.
+
+
+### Labeling Systems
+
+La interfaz de FoodHeaven ha sido estructurada pensando en la simplicidad y la fluidez de navegación, brindando a los usuarios una experiencia ágil y sin fricciones. El objetivo es que cualquier persona pueda acceder rápidamente a la información o funcionalidad que necesita, sin distracciones ni pasos innecesarios. Para ello, se ha optado por un diseño limpio, organizado y con etiquetas breves pero claras, que guían la interacción de forma intuitiva. A continuación, se detalla el conjunto de etiquetas empleadas dentro de la plataforma y su propósito dentro de la estructura del sitio:
+
+### SEO Tags and Meta Tags
+
+html
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- SEO Tags -->
+    <title>FoodHeaven - Organiza tus Comidas Semanales de Forma Fácil</title>
+
+    <!-- Meta Tags -->
+    <meta name="description" content="FoodHeaven te ayuda a planificar y recibir tus comidas saludables de manera fácil, conectando proveedores y ajustando tus preferencias nutricionales." />
+    <meta name="keywords" content="planificación de comidas, comida saludable, suscripción de comida, proveedores de comida, nutrición, dieta, comida semanal, planes de comida" />
+    <meta name="author" content="FoodHeaven Team" />
+    
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="FoodHeaven - Organiza tus Comidas Semanales de Forma Fácil" />
+    <meta property="og:description" content="Organiza tus comidas de la semana con FoodHeaven. Recibe recomendaciones personalizadas según tus preferencias y necesidades nutricionales." />
+    <meta property="og:image" content="https://tusitio.com/images/og-image.jpg" />
+    <meta property="og:url" content="https://tusitio.com" />
+    <meta property="og:type" content="website" />
+
+    <!-- Twitter Card Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="FoodHeaven - Organiza tus Comidas Semanales de Forma Fácil" />
+    <meta name="twitter:description" content="Organiza tus comidas de la semana con FoodHeaven. Recibe recomendaciones personalizadas según tus preferencias y necesidades nutricionales." />
+    <meta name="twitter:image" content="https://tusitio.com/images/og-image.jpg" />
+
+    <!-- Favicon -->
+    <link rel="icon" href="images/favicon.png" alt="Logo" />
+
+    <!-- Enlaces de hojas de estilo -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
+    <link rel="stylesheet" href="css/style.css" />
+
+    <!-- Fuente Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <!-- Contenido de la página aquí -->
+  </body>
+</html>
+
+### Searching Systems
+
+En esta sección se explica cómo el equipo implementará los sistemas de búsqueda dentro del producto digital para garantizar una experiencia de usuario fluida, evitando que los usuarios se sientan perdidos al tratar de localizar información relevante.
+
+#### Opciones de Búsqueda
+
+- **Barra de Búsqueda Global**: Habrá una barra de búsqueda visible en todas las pantallas principales, que permitirá al usuario buscar productos, proveedores, recetas y planes de suscripción. Estará situada de forma prominente en la parte superior y accesible desde cualquier vista.
+- **Búsqueda por Categorías**: Los usuarios podrán buscar contenido a través de categorías predefinidas como "Comidas Especiales", "Planes de Suscripción", "Proveedores Personalizados", entre otros. Estas estarán visibles como filtros en la página principal de búsqueda.
+
+#### Filtros de Búsqueda
+
+- **Por Tipo de Comida**: "Desayuno", "Almuerzo", "Cena", "Snacks".
+- **Por Restricciones Nutricionales**: "Vegetariano", "Sin Gluten", "Bajo en Carbohidratos", "Alto en Proteínas", etc.
+- **Por Proveedor**: Filtro por ubicación, tipo de proveedor (restaurante, chef personal), y opciones de entrega.
+- **Por Plan de Suscripción**: Filtros por frecuencia (semanal, mensual) y cantidad de comidas.
+- **Por Precio**: Rango de precios ajustable según el presupuesto del usuario.
+
+#### Presentación de los Datos Post-Búsqueda
+
+- Resultados en formato de tarjetas (cards) con:
+  - Imagen representativa
+  - Nombre del ítem
+  - Descripción breve
+  - Precio (si aplica)
+  - Botón de acción: agregar al carrito, suscribirse o ver más detalles
+- **Ordenación**: "Relevancia", "Precio Ascendente", "Precio Descendente", "Valoración"
+
+#### Navegación Posterior a la Búsqueda
+
+- Filtros seleccionados visibles en la parte superior de los resultados
+- **Paginación** si hay muchos resultados
+- **Vistas de Resultados**: Vista tipo lista o cuadrícula
+
+#### Ayuda y Sugerencias
+
+- **Sugerencias de Búsqueda**: Autocompletado con palabras clave y categorías
+- **Mensajes de error** amigables con sugerencias
+- **Guía de Uso**: Tutorial o mensaje emergente explicando cómo usar la barra de búsqueda y filtros
+
+### Navigation Systems
+
+En esta sección, se describen las acciones y técnicas que guiarán a los usuarios a través de la Landing Page y las aplicaciones, permitiéndoles cumplir sus metas e interactuar de manera satisfactoria con el producto.
+
+#### Landing Page: Introducción y Orientación
+
+- **CTAs**: Botones destacados como "Empieza Ahora", "Explora nuestros Servicios", "Ver Planes de Suscripción", y "Más Información"
+- **Contenido Visual Atractivo**: Imágenes, vídeos y gráficos de alta calidad
+- **Scroll de Contenido**: Información presentada secuencialmente (introducción → servicios → cómo funciona → testimonios → suscripciones)
+
+#### Navegación en la Web Application
+
+- **Proceso de Registro**: Simplificado, con opción de correo/redes sociales y barra de progreso
+- **Tour Interactivo**: Opcional, presentado en el primer acceso
+- **Pantalla Principal**: Accesos destacados a funciones clave con animaciones suaves
+- **Menú de Navegación Intuitivo**: Menú lateral o superior con secciones como "Inicio", "Servicios", "Comidas", "Planes de Suscripción", "Perfil", "Ayuda", "Configuración"
+- **Seguimiento de Progreso**: Indicador visual del estado en el proceso
+
+#### Acciones de Navegación Específicas
+
+- **Feedback Visual y Sonoro**: Animaciones, sonidos suaves y mensajes emergentes tras acciones
+- **Sugerencias Inteligentes**: Basadas en el comportamiento y preferencias del usuario
+- **Accesibilidad**: Compatible con lectores de pantalla, alto contraste, atajos de teclado
+- **Mensajes Contextuales**: Explicaciones adicionales según el contexto (modales o tooltips)
+
+#### Soporte y Ayuda Continua
+
+- **Botón de Ayuda Flotante**: Acceso a FAQ, guías, soporte directo
+- **Chatbot o Asistente Virtual**: Respuestas instantáneas y guía interactiva
