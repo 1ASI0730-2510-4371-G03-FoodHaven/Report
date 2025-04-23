@@ -1358,3 +1358,38 @@ En esta sección, se describen las acciones y técnicas que guiarán a los usuar
 
 - **Botón de Ayuda Flotante**: Acceso a FAQ, guías, soporte directo
 - **Chatbot o Asistente Virtual**: Respuestas instantáneas y guía interactiva
+  
+## Landing Page UI Design
+
+### Landing Page Wireframe
+
+<p align="left">
+  <img src="Images/lpw1.PNG" alt="lpw1" width="500">
+</p>
+<p align="left">
+  <img src="Images/lpw2.PNG" alt="lpw2" width="500">
+</p>
+
+### Landing Page Mock-up
+
+<p align="left">
+  <img src="Images/lpm1.PNG" alt="lpm1" width="500">
+</p>
+<p align="left">
+  <img src="Images/lpm2.PNG" alt="lpm2" width="500">
+</p>
+<p align="left">
+  <img src="Images/lpm3.PNG" alt="lpm3" width="500">
+</p>
+
+## Web Applications UX/UI Design
+
+### Web Applications Wireframes
+
+### Web Applications Wireflow Diagrams
+
+### Web Applications Mock-ups
+
+### Web Applications User Flow Diagrams
+
+## Web Applications Prototyping
