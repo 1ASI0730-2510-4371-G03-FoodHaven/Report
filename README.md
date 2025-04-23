@@ -1396,7 +1396,279 @@ En esta sección, se describen las acciones y técnicas que guiarán a los usuar
 
 # Subir Cap 4 - Parte 1()
 
-# Subir Cap 4 - Parte 2()
+### Class Dictionary
+
+#### Clase: Usuario
+
+**Atributos:**
+- id_usuario: int  
+- nombre: string  
+- email: string  
+- contraseña: string  
+- edad: int  
+- sexo: string  
+- distrito: string  
+- fecha_registro: datetime  
+
+**Métodos:**
+- registrarUsuario()  
+- iniciarSesion()  
+- actualizarPerfil()  
+- eliminarUsuario()  
+- obtenerHistorialPedidos()  
+
+#### Clase: TipoProveedor
+
+**Atributos:**
+- id_tipo_proveedor: int  
+- descripcion: string  
+
+**Métodos:**
+- listarTiposProveedor()  
+- registrarTipoProveedor()  
+- actualizarDescripcion()  
+- eliminarTipoProveedor()  
+
+#### Clase: Proveedor
+
+**Atributos:**
+- id_proveedor: int  
+- nombre: string  
+- id_tipo_proveedor: int  
+- distrito: string  
+- contacto: string  
+
+**Métodos:**
+- registrarProveedor()  
+- actualizarProveedor()  
+- listarProveedores()  
+- eliminarProveedor()  
+
+#### Clase: TipoComida
+
+**Atributos:**
+- id_tipo_comida: int  
+- descripcion: string  
+
+**Métodos:**
+- listarTiposComida()  
+- agregarTipoComida()  
+- actualizarTipoComida()  
+- eliminarTipoComida()  
+
+#### Clase: Comida
+
+**Atributos:**
+- id_comida: int  
+- nombre: string  
+- descripcion: string  
+- calorias: int  
+- id_tipo_comida: int  
+- id_proveedor: int  
+- es_especial: boolean  
+
+**Métodos:**
+- registrarComida()  
+- obtenerComidasPorTipo()  
+- marcarComoEspecial()  
+- eliminarComida()  
+
+#### Clase: PlanComidas
+
+**Atributos:**
+- id_plan: int  
+- id_usuario: int  
+- fecha_inicio: date  
+- fecha_fin: date  
+
+**Métodos:**
+- crearPlan()  
+- obtenerPlanUsuario()  
+- actualizarFechasPlan()  
+- eliminarPlan()  
+
+#### Clase: DetallePlanComidas
+
+**Atributos:**
+- id_detalle: int  
+- id_plan: int  
+- id_comida: int  
+- fecha: date  
+- horario: string  
+
+**Métodos:**
+- agregarComidaAPlan()  
+- listarComidasPorFecha()  
+- eliminarDetallePlan()  
+
+#### Clase: TipoMetodoPago
+
+**Atributos:**
+- id_tipo_metodo_pago: int  
+- descripcion: string  
+
+**Métodos:**
+- listarTiposMetodoPago()  
+- registrarTipoMetodoPago()  
+- eliminarTipoMetodoPago()  
+
+#### Clase: MetodoPago
+
+**Atributos:**
+- id_metodo_pago: int  
+- id_tipo_metodo_pago: int  
+- monto: decimal  
+
+**Métodos:**
+- registrarMetodoPago()  
+- actualizarMonto()  
+- obtenerDetalleMetodoPago()  
+
+#### Clase: Pedido
+
+**Atributos:**
+- id_pedido: int  
+- id_usuario: int  
+- fecha_pedido: date  
+- id_metodo_pago: int  
+- total: decimal  
+- estado: string  
+
+**Métodos:**
+- registrarPedido()  
+- cambiarEstadoPedido()  
+- obtenerPedidosPorUsuario()  
+
+#### Clase: DetallePedido
+
+**Atributos:**
+- id_detalle_pedido: int  
+- id_pedido: int  
+- id_comida: int  
+- cantidad: int  
+- subtotal: decimal  
+
+**Métodos:**
+- agregarItemPedido()  
+- calcularSubtotal()  
+- eliminarDetallePedido()  
+
+#### Clase: DetalleEntrega
+**Atributos:**
+- id_entrega: int  
+- id_pedido: int  
+- direccion_entrega: string  
+- referencia: string  
+- fecha: date  
+- hora: time  
+- estado: string  
+
+**Métodos:**
+- programarEntrega()  
+- actualizarEstadoEntrega()  
+- obtenerDetalleEntrega()  
+
+## Database Design
+
+La base de datos de **FoodHeaven** ha sido diseñada bajo un enfoque relacional, con el objetivo de asegurar la integridad de los datos, trazabilidad de los pedidos, y eficiencia en la gestión de planes alimenticios personalizados. Cada tabla representa una entidad clave dentro del ecosistema del sistema, permitiendo una gestión integral tanto para los usuarios como para los proveedores de alimentos. La arquitectura considera aspectos fundamentales como métodos de pago, programación de entregas, planificación de comidas y categorización de alimentos.
+
+### Database Diagram
+
+#### Usuario
+
+- id_usuario: INT (PK)  
+- nombre: VARCHAR(100)  
+- email: VARCHAR(100) (UNIQUE)  
+- contraseña: VARCHAR(255)  
+- edad: INT  
+- sexo: VARCHAR(10)  
+- distrito: VARCHAR(100)  
+- fecha_registro: DATETIME  
+
+#### TipoProveedor
+
+- id_tipo_proveedor: INT (PK)  
+- descripcion: VARCHAR(50)  
+
+#### Proveedor
+
+- id_proveedor: INT (PK)  
+- nombre: VARCHAR(100)  
+- id_tipo_proveedor: INT (FK → TipoProveedor.id_tipo_proveedor)  
+- distrito: VARCHAR(100)  
+- contacto: VARCHAR(100)  
+
+#### TipoComida
+
+- id_tipo_comida: INT (PK)  
+- descripcion: VARCHAR(50)  
+
+#### Comida
+
+- id_comida: INT (PK)  
+- nombre: VARCHAR(100)  
+- descripcion: TEXT  
+- calorias: INT  
+- id_tipo_comida: INT (FK → TipoComida.id_tipo_comida)  
+- id_proveedor: INT (FK → Proveedor.id_proveedor)  
+- es_especial: BIT (DEFAULT 0)  
+
+#### PlanComidas
+
+- id_plan: INT (PK)  
+- id_usuario: INT (FK → Usuario.id_usuario)  
+- fecha_inicio: DATE  
+- fecha_fin: DATE  
+
+#### DetallePlanComidas
+
+- id_detalle: INT (PK)  
+- id_plan: INT (FK → PlanComidas.id_plan)  
+- id_comida: INT (FK → Comida.id_comida)  
+- fecha: DATE  
+- horario: VARCHAR(20)  
+
+#### TipoMetodoPago
+
+- id_tipo_metodo_pago: INT (PK)  
+- descripcion: VARCHAR(50)  
+
+#### MetodoPago
+
+- id_metodo_pago: INT (PK)  
+- id_tipo_metodo_pago: INT (FK → TipoMetodoPago.id_tipo_metodo_pago)  
+- monto: DECIMAL(10,2)  
+
+#### Pedido
+
+- id_pedido: INT (PK)  
+- id_usuario: INT (FK → Usuario.id_usuario)  
+- fecha_pedido: DATE  
+- id_metodo_pago: INT (FK → MetodoPago.id_metodo_pago)  
+- total: DECIMAL(10,2)  
+- estado: VARCHAR(20)  
+
+#### DetallePedido
+
+- id_detalle_pedido: INT (PK)  
+- id_pedido: INT (FK → Pedido.id_pedido)  
+- id_comida: INT (FK → Comida.id_comida)  
+- cantidad: INT  
+- subtotal: DECIMAL(10,2)  
+
+#### DetalleEntrega
+
+- id_entrega: INT (PK)  
+- id_pedido: INT (FK → Pedido.id_pedido)  
+- direccion_entrega: VARCHAR(200)  
+- referencia: TEXT  
+- fecha: DATE  
+- hora: TIME  
+- estado: VARCHAR(20)
+
+<p align="left">
+  <img src="Images/basedatos.PNG" alt="basedatos" width="500">
+</p>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
