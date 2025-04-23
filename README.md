@@ -577,7 +577,242 @@ Las necesidades identificadas en los segmentos objetivo para la aplicación Food
 
 - **Dashboard (Panel de Control)**: Vista general donde el usuario puede gestionar su plan actual, sus preferencias, historial y suscripciones.
 
-=======
+## Comparativa de FoodHeaven y Competidores
+
+| **Categoría**                        | **FoodHeaven**                                                                                                                                                       | **Repeat**                                                                                                                                                   | **ManzanaVerde**                                                                                                                                              | **Tappers**                                                                                                                                    |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre**                          | FoodHeaven                                                                                                                                                           | Repeat                                                                                                                                                        | ManzanaVerde                                                                                                                                                   | Tappers                                                                                                                                        |
+| **Logo**                            | ![FoodHeaven](Images/FoodHeaven.PNG)                                                                                                                                                                | ![Repeat](Images/Repeat.PNG)                                                                                                                                                         | ![Manzana](Images/Manzana.PNG)                                                                                                                                                          | ![tapper](Images/tapper.PNG)                                                                                                                                          |
+| **Perfil / Overview**              | Plataforma web de suscripción que permite planificar comidas semanales de forma personalizada, conectando a usuarios con cocineros y restaurantes. Ideal para personas con poco tiempo que desean comer bien sin cocinar. | Servicio de suscripción de comidas saludables listas para calentar y consumir en 3 minutos, pensado para personas con estilo de vida acelerado.            | Startup peruana que combina comida saludable personalizada con asesoría nutricional a través de app y entregas diarias.                                       | Plataforma que conecta comensales con cocineras locales para ofrecer comida casera a domicilio.                                              |
+| **Ventaja Competitiva**            | Ahorra tiempo con menús personalizados. Ofrece control nutricional, variedad y acceso a proveedores verificados, todo desde una sola plataforma.                      | Ahorro de tiempo con alimentos balanceados, sin necesidad de cocinar. Ofrece planes flexibles adaptados a distintas metas nutricionales.                     | Comidas diseñadas por nutricionistas, adaptadas por objetivos, con seguimiento del progreso.                                                                 | Comida tradicional, accesible y auténtica, preparada por amas de casa.                                                                        |
+| **Mercado Objetivo**               | Adultos jóvenes, profesionales y familias en zonas urbanas del Perú, que buscan alimentación saludable sin complicarse.                                              | Adultos jóvenes y profesionales urbanos en Perú, que buscan soluciones prácticas y saludables sin invertir tiempo en cocinar.                               | Personas interesadas en salud, pérdida de peso o mantenimiento físico, en Perú y otros países de Latinoamérica.                                               | Trabajadores, estudiantes y familias que buscan comida económica y sabrosa, principalmente en Lima.                                          |
+| **Estrategias de Marketing**       | Redes sociales, influencers de vida saludable, promociones y contenido educativo.                                              | Campañas en redes sociales, uso de influencers de fitness y nutrición, retargeting digital, promociones en primeras compras.                                 | Contenido educativo, publicidad en redes sociales, recomendaciones por clientes.                                                                             | Difusión local en redes, recomendaciones entre usuarios, enfoque comunitario.                                                                |
+| **Productos y Servicios**          | Planes de comida personalizados, reservas especiales, horarios flexibles, seguimiento nutricional.                             | Planes semanales con platos listos, opciones vegetarianas, veganas y sin gluten. Envío a domicilio con refrigeración.                                       | Planes alimenticios personalizados con soporte nutricional y seguimiento por app.                                                                            | Menús diarios caseros, reservas por porciones o menús semanales.                                                                              |
+| **Precios y Costos**               | Moderados, con buena relación valor-beneficio por la personalización y soporte.                                                | Regulares a altos, dependiendo del número de platos y frecuencia.                                                                                            | Regulares, con buena relación valor-precio por la asesoría incluida.                                                                                           | Bajos, ideal para el consumidor promedio.                                                                                                     |
+| **Canales de Distribución**        | Web y app. Entregas programadas desde cocineros y restaurantes aliados.                                                        | Plataforma web, entregas programadas con cadena de frío.                                                                                                     | App móvil, sitio web, entregas diarias programadas.                                                                                                            | Pedidos por web, redes o WhatsApp. Entregas con motorizados independientes.                                                                  |
+| **Fortalezas**                     | Personalización, acceso multiplataforma, recomendaciones inteligentes.                                                          | Rapidez, variedad, comodidad, buena presentación.                                                                                                            | Personalización, respaldo profesional, tecnología fácil de usar.                                                                                               | Sabor casero, cercanía, precio accesible, impacto social.                                                                                     |
+| **Oportunidades**                  | Expansión, alianzas con empresas y lanzamientos de nuevos productos.                                                           | Expansión a otras ciudades, alianzas con empresas, añadir nuevos horarios.                                                                                   | Lanzar snacks saludables, integración con apps de ejercicio, convenios corporativos.                                                                         | Expandir zonas de cobertura, lanzar app propia, acuerdos con organizaciones sociales.                                                        |
+| **Debilidades**                    | Dependencia logística y necesidad constante de diferenciación.                                                                 | Dependencia logística y percepción de precio frente a cocinar en casa.                                                                                       | Dificultades logísticas en expansión y gestión de calidad por zona.                                                                                           | Escalabilidad limitada, control de calidad y normativas sanitarias.                                                                          |
+| **Amenazas**                       | Competencia de apps de delivery y servicios similares con mayor visibilidad.                                                   | Competencia en servicios de comida saludable y apps de delivery con menú balanceado.                                                                         | Apps similares y servicios de delivery con menú saludable.                                                                                                     | Apps de delivery tradicionales y regulaciones del rubro alimentario informal.                                                                |
+                               |
+
+### Estrategias y tácticas frente a competidores
+
+#### 1. Diferenciación a través de Personalización Inteligente
+
+- **Fortaleza utilizada:** Personalización de planes de comida, recomendaciones inteligentes.  
+- **Oportunidad aprovechada:** Usuarios que buscan opciones alineadas a sus hábitos, salud y estilo de vida.  
+
+- **Estrategia:**  
+  Desarrollar algoritmos que optimicen las recomendaciones de comida según historial, objetivos nutricionales y comportamiento del usuario.
+
+- **Táctica:**  
+  Implementar inteligencia artificial para adaptar planes en tiempo real y mostrar sugerencias dinámicas en función de preferencias, historial de pedidos y metas alimenticias.
+
+#### 2. Enfoque en Segmentos Desatendidos (trabajadores con poco tiempo y adultos)
+
+- **Fortaleza utilizada:** Flexibilidad en horarios y entrega personalizada.  
+- **Oportunidad aprovechada:** Segmentos que no son atendidos por apps tradicionales de delivery.  
+
+- **Estrategia:**  
+  Desarrollar experiencias personalizadas para perfiles con necesidades específicas (por ejemplo, comidas bajas en sodio, para adultos mayores o personas con dietas especiales).
+
+- **Táctica:**  
+  Realizar estudios de mercado, adaptar los menús según cada perfil y lanzar campañas dirigidas en redes, centros de trabajo y comunidades.
+
+#### 3. Precios accesibles con modelo escalable de suscripción
+
+- **Fortaleza utilizada:** Relación valor-precio y modelo personalizable.  
+- **Oportunidad aprovechada:** Alta demanda por soluciones prácticas sin altos costos.  
+
+- **Estrategia:**  
+  Ofrecer planes escalables con suscripción mensual que se ajusten al presupuesto del usuario.
+
+- **Táctica:**  
+  Diseñar paquetes con distintos niveles de personalización y frecuencia de entrega, permitiendo upgrades progresivos.
+
+#### 4. Alianzas con restaurantes, cocineros independientes
+
+- **Fortaleza utilizada:** Red de proveedores verificados y flexibilidad en la oferta.  
+- **Oportunidad aprovechada:** Ampliación del catálogo de comidas y aumento de confianza.  
+
+- **Estrategia:**  
+  Crear una red colaborativa para diversificar la oferta y ampliar el alcance.
+
+- **Táctica:**  
+  Firmar acuerdos con pequeños restaurantes y cocineros locales, integrándolos como socios estratégicos dentro de la plataforma.
+
+#### 5. Atención al cliente y seguimiento personalizado
+
+- **Fortaleza utilizada:** Panel de control con progreso y objetivos.  
+- **Oportunidad aprovechada:** Usuarios que valoran un acompañamiento personalizado.  
+
+- **Estrategia:**  
+  Ofrecer atención diferenciada, resolutiva y con foco en la experiencia del cliente.
+
+- **Táctica:**  
+  Implementar canales de soporte en tiempo real, seguimiento automatizado por nutrición y encuestas de satisfacción periódicas.
+
+## Competidores
+
+### Diseño de Entrevistas
+
+| Segmento de Usuario                                         | Pregunta Nº | Pregunta                                                                                                                                         |
+|-------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Profesionales jóvenes con rutinas exigentes**             | 1           | ¿Qué tan complicado te resulta organizar tus comidas entre el trabajo y otras actividades?                                                      |
+|                                                             | 2           | ¿Qué tan importante es para ti tener tus comidas resueltas durante el día?                                                                      |
+|                                                             | 3           | ¿Cómo sueles manejar tus comidas en la semana?                                                                                                   |
+|                                                             | 4           | ¿Te interesaría una opción que te ayude a planificar tus comidas sin complicarte?                                                               |
+|                                                             | 5           | ¿Has usado alguna app o servicio que te facilite el tema de las comidas? ¿Cómo fue tu experiencia?                                              |
+|                                                             | 6           | ¿Usarías una app como FoodHeaven, que organiza tus comidas semanales con opciones variadas, listas para disfrutar y entregas programadas? ¿Por qué sí o no? |
+| **Personas interesadas en mejorar su alimentación y ahorrar tiempo** | 1           | ¿Qué tan difícil te resulta organizar tus comidas durante la semana?                                                                            |
+|                                                             | 2           | ¿Qué tan importante es para ti comer mejor sin perder tiempo en planificar o cocinar?                                                           |
+|                                                             | 3           | ¿Qué haces actualmente para mejorar tu alimentación y ahorrar tiempo?                                                                           |
+|                                                             | 4           | ¿Te gustaría contar con una opción que te ayude a elegir y recibir tus comidas de forma más sencilla?                                           |
+|                                                             | 5           | ¿Has probado algún servicio que te facilite el tema de las comidas?                                                                             |
+|                                                             | 6           | ¿Usarías una app como FoodHeaven, que te ofrece comidas variadas y programadas según tus preferencias, sin tener que preocuparte por organizar todo tú? |
+
+### Registro de entrevistas
+
+### Análisis de entrevistas
+
+
+## 2.3 Needfinding
+
+Las necesidades identificadas en los segmentos objetivo para la aplicación FoodHaven son las siguientes:
+
+### Segmento #1: Profesionales jóvenes con rutinas exigentes
+
+- **Alimentación práctica y rápida**:  
+  Solución que les permita recibir comida lista para consumir sin tener que cocinar ni preocuparse por planificar sus comidas.
+
+- **Flexibilidad en horarios y entregas**:  
+  Opciones de programación de entrega según su disponibilidad, incluyendo horarios fuera del estándar laboral.
+
+- **Variedad y personalización**:  
+  Planes alimenticios que se adapten a sus gustos y objetivos personales (por ejemplo, mantener peso, ganar masa muscular, etc.).
+
+- **Experiencia sin fricciones**:  
+  Una plataforma digital intuitiva, rápida y con métodos de pago y renovación de suscripción automatizados.
+
+- **Bienestar y productividad**:  
+  Opciones de comidas que les ayuden a mantener energía y concentración durante el día, sin afectar su ritmo de trabajo.
+
+### Segmento #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo
+
+- **Optimización del uso energético**:  
+  Plataforma que facilite la monitorización avanzada del consumo de energía para grandes volúmenes, ayudando a identificar áreas de mejora y optimización.
+
+- **Reducción de costos**:  
+  Herramientas para analizar y gestionar el consumo energético con el objetivo de reducir costos operativos y mejorar la eficiencia.
+
+- **Gestión de sostenibilidad**:  
+  Funcionalidades que ayuden a las empresas a cumplir con sus objetivos de sostenibilidad a largo plazo, mitigando la volatilidad de los costos energéticos.
+
+- **Implementación de tecnologías avanzadas**:  
+  Soluciones tecnológicas para una gestión más efectiva y detallada del consumo energético, adaptadas a las necesidades de grandes corporaciones y sectores industriales.
+
+- **Alertas y notificaciones**:  
+  Sistema de alertas para gestionar posibles sobreconsumos y oportunidades de optimización, asegurando una operación continua y eficiente.
+
+- **Seguridad operativa**:  
+  Funcionalidades que permitan establecer alertas automáticas en caso de anomalías, garantizando la seguridad del entorno operativo y permitiendo acciones rápidas para corregir problemas antes de que se conviertan en incidentes graves.
+
+### User Persona
+
+**Segmento #1: Profesionales jóvenes con rutinas exigentes**
+<p align="left">
+  <img src="Images/userpersona1.PNG" alt="UserPersona1" width="500">
+</p>
+
+**Segmento #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo**
+<p align="left">
+  <img src="Images/userpersona2.PNG" alt="UserPersona2" width="500">
+</p>
+
+### User Task Matrix
+
+### Ernesto Rodas
+
+<p align="left">
+  <img src="Images/usertask1.PNG" alt="usertask1" width="500">
+</p>
+
+### Mariana Cerna
+
+<p align="left">
+  <img src="Images/usertask2.PNG" alt="usertask2" width="500">
+</p>
+
+### User Journey Mapping
+
+**Segmento #1: Profesionales jóvenes con rutinas exigentes**
+
+<p align="left">
+  <img src="Images/userjourney1.PNG" alt="userjourney1" width="500">
+</p>
+
+**Segmento #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo**
+
+<p align="left">
+  <img src="Images/userjourney2.PNG" alt="userjourney2" width="500">
+</p>
+
+### Empathy Mapping
+
+**Segmento #1: Profesionales jóvenes con rutinas exigentes**
+
+<p align="left">
+  <img src="Images/empathy1.PNG" alt="empathy1" width="500">
+</p>
+
+**Segmento #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo**
+
+<p align="left">
+  <img src="Images/empathy2.PNG" alt="empathy2" width="500">
+</p>
+
+### As-is Scenario Mapping
+
+**Segmento #1: Profesionales jóvenes con rutinas exigentes**
+
+| **Categoría** | **Planificación General de Comidas** | **Evaluación de Comidas y Hábitos Alimenticios** | **Ajuste y Adopción de Nuevas Estrategias Alimenticias** |
+|--------------|---------------------------------------|--------------------------------------------------|-----------------------------------------------------------|
+| **Doing**     | - Planifica comidas sin herramientas específicas. <br> - Usa libretas o apps básicas sin seguimiento. <br> - Busca recetas saludables, aunque no siempre se ajustan a sus metas. | - Revisa cómo se siente después de comer sin seguimiento. <br> - Consulta info en línea pero no la integra. <br> - Usa apps de control, pero sin sugerencias personalizadas. | - Prueba dietas sin seguimiento. <br> - Compra alimentos saludables sin saber si los aprovecha. <br> - Ajusta su dieta, pero no sostiene los cambios. |
+| **Thinking**   | - “Podría organizar mejor mis comidas, pero no tengo tiempo ni herramientas que me funcionen bien.” <br> - “¿Son estas recetas las mejores para mi estilo de vida y mis metas?” | - “Necesito una herramienta más eficiente para planificar y controlar lo que como.” <br> - “Sé que mis hábitos alimenticios pueden mejorar, pero no sé cómo analizarlos bien.” | - “Me gustaría ver resultados claros de mis esfuerzos, pero no tengo cómo medirlos.” <br> - “Una herramienta estructurada me ayudaría a seguir mis hábitos y medir mi progreso.” |
+| **Feeling**    | - Frustración por falta de tiempo y organización. <br> - Inseguridad sobre si sus decisiones alimenticias son correctas. | - Ansiedad por querer mejorar sin un sistema claro. <br> - Frustración al no saber qué cambiar. <br> - Incertidumbre sobre si está haciendo lo mejor para su salud. | - Confusión al integrar información de distintas fuentes. <br> - Esperanza al ver mejoras. <br> - Nerviosismo por no saber si las estrategias serán sostenibles. <br> - Alivio parcial con dudas. |
+
+**Segmento #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo**
+
+| **Categoría** | **Monitoreo de Alimentación y Planificación de Comidas** | **Identificación de Ineficiencias en la Planificación de Alimentación** | **Implementación de Soluciones de Alimentación Saludable y Eficiente** |
+|--------------|------------------------------------------------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------|
+| **Doing**     | - Revisa semanalmente opciones de comida sin continuidad.<br>- Intenta balancear su alimentación sin saber si cubre sus necesidades.<br>- Compra o programa entregas según conveniencia, sin planificación semanal. | - Nota patrones poco saludables como comida rápida frecuente o saltarse comidas.<br>- Revisa manualmente lo que ha consumido, sin metodología clara.<br>- Consulta fuentes digitales o especialistas, pero le cuesta validar la información. | - Aplica recomendaciones de blogs, pero sin constancia.<br>- Programa entregas por conveniencia sin visión a largo plazo.<br>- Realiza cambios como reducir harinas o aumentar vegetales, sin seguimiento.<br>- Explora plataformas tecnológicas, pero no encuentra una que integre todo. |
+| **Thinking**   | - “Planificar lo que voy a comer me toma más tiempo del que tengo.”<br>- “No sé si lo que como realmente se ajusta a mis objetivos.”<br>- “Necesito una forma más simple de organizar mis comidas.” | - “Mis hábitos alimenticios no están siendo tan buenos como podrían.”<br>- “Como lo primero que encuentro sin pensar si es bueno para mí.”<br>- “Tal vez una herramienta me ayudaría a mejorar mi alimentación.” | - “Estoy intentando mejorar, pero no sé si voy por buen camino.”<br>- “Las soluciones online no se ajustan a mi ritmo de vida.”<br>- “Quisiera una plataforma que me diga qué elegir y cuándo.”<br>- “Si esto se automatiza, puedo enfocarme en otras cosas sin sacrificar mi salud.” |
+| **Feeling**    | - Frustración por tener que pensar cada día qué comer.<br>- Alivio ocasional cuando encuentra opciones que parecen adecuadas.<br>- Culpa por elegir comida poco saludable por falta de tiempo. | - Inseguridad sobre la calidad nutricional de sus decisiones.<br>- Ansiedad por no cumplir sus metas alimentarias.<br>- Frustración por no ver resultados visibles. | - Curiosidad por soluciones estructuradas.<br>- Esperanza al probar nuevas herramientas o recomendaciones.<br>- Desánimo cuando no logra constancia.<br>- Nerviosismo por depender de sistemas que no sabe si podrá sostener.<br>- Alivio al ver pequeñas
+
+## Ubiquitous Language
+
+- **User (Usuario)**: Persona que utiliza la plataforma para organizar y personalizar sus comidas semanales. Puede suscribirse a planes y ajustar sus preferencias alimentarias.
+
+- **Meal Plan (Plan de Comidas)**: Conjunto de comidas organizadas para la semana, diseñadas según las preferencias del usuario. Puede incluir desayuno, almuerzo, cena y snacks.
+
+- **Meal (Comida)**: Cada una de las opciones alimentarias que el usuario puede seleccionar dentro de su plan. Incluye nombre, ingredientes y valor nutricional.
+
+- **Combination (Combinación)**: Agrupación de comidas elegida por el usuario para un día específico dentro del plan. Puede variar según las preferencias alimentarias.
+
+- **Subscription (Suscripción)**: Modalidad flexible que permite al usuario acceder a los servicios de organización de comidas. Puede ser semanal, mensual o personalizada.
+
+- **Nutritional Preferences (Preferencias Nutricionales)**: Configuraciones establecidas por el usuario que determinan restricciones (como sin gluten, sin lactosa, vegano, etc.) y objetivos (como perder peso, ganar masa, etc.).
+
+- **Calendar (Calendario)**: Vista organizada por días de la semana donde se muestra el plan alimenticio asignado o personalizado por el usuario.
+
+- **Meal History (Historial de Comidas)**: Registro de combinaciones y planes utilizados por el usuario en semanas anteriores, útil para seguimiento o repetir menús.
+
+- **Customization (Personalización)**: Funcionalidad que permite al usuario ajustar el plan según gustos, alergias o tiempos disponibles.
+
+- **Meal Suggestion Engine (Motor de Sugerencias)**: Algoritmo que recomienda combinaciones de comidas basadas en preferencias, historial y objetivos del usuario.
+
+- **Dashboard (Panel de Control)**: Vista general donde el usuario puede gestionar su plan actual, sus preferencias, historial y suscripciones.
 
 ## Comparativa de FoodHeaven y Competidores
 
@@ -817,7 +1052,6 @@ Las necesidades identificadas en los segmentos objetivo para la aplicación Food
 
 - **Dashboard (Panel de Control)**: Vista general donde el usuario puede gestionar su plan actual, sus preferencias, historial y suscripciones.
 
-
 # Capítulo 3: Requirements Specification
 
 ## 3.1 To-Be Scenario Mapping
@@ -914,6 +1148,16 @@ Como usuario, quiero gestionar mi suscripción a FoodHeaven (selección de plan,
 | US29              | Cambio de plan de suscripción           |
 | US30              | Cancelación o pausa de suscripción      |
 
+### EP07 - Exploración como Visitante
+
+| User Story ID | Título                          |
+|---------------|----------------------------------|
+| US31          | Visualizar información general sobre SplitEasy desde la landing page              |
+| US32          | Conocer las funciones principales para representantes y miembros del hogar         |
+| US33          | Explorar beneficios del sistema de aportes proporcionales  |
+| US34          | Ver ejemplos o simulaciones de cómo funciona la plataforma |
+| US35          | 	Acceder fácilmente al registro o login desde botones destacados |
+
 | ID Épica | Épica                          | ID Historia de Usuario | Título Historia de Usuario                    | Descripción HU                                                                                   | Criterios de Aceptación                                                                                                                                                                                                                                                                                      |
 |----------|--------------------------------|-------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | EP01     | Registro y Gestión de Perfil   | US01                    | Registro de usuario                           | Como nuevo usuario, quiero registrarme fácilmente en la plataforma para empezar a utilizar los servicios de FoodHeaven. | **Escenario 1:** Registro básico: Dado que soy un usuario nuevo, cuando ingreso mis datos requeridos y los envío, entonces se debe crear mi cuenta y mostrarme un mensaje de bienvenida. <br> **Escenario 2:** Validación de campos obligatorios: Dado que estoy completando el formulario, cuando omito un campo obligatorio, entonces el sistema debe mostrar un mensaje de error. <br> **Escenario 3:** Confirmación de correo electrónico: Dado que me he registrado, cuando el sistema envíe un correo de confirmación, entonces debo poder activarlo para finalizar mi registro. |
@@ -946,6 +1190,12 @@ Como usuario, quiero gestionar mi suscripción a FoodHeaven (selección de plan,
 | EP06         | Gestión de Suscripción y Pagos    | US28                       | Renovación automática de suscripción                                   | Como usuario, quiero activar o desactivar la renovación automática, para tener control sobre la continuidad de mi plan.                                      | **Escenario 1: Activación de renovación automática**<br>Dado que el usuario desea no preocuparse por renovar<br>Cuando activa la opción<br>Entonces el sistema debe renovar el plan automáticamente al final del periodo.<br><br>**Escenario 2: Desactivación por parte del usuario**<br>Dado que no desea que se renueve sin su consentimiento<br>Cuando desactiva la función<br>Entonces el sistema debe respetar la elección y no cobrar al vencer el plan.<br><br>**Escenario 3: Confirmación de configuración**<br>Dado que el usuario cambia el estado de la renovación<br>Cuando lo guarda<br>Entonces debe recibir una confirmación visual inmediata. |
 | EP06         | Gestión de Suscripción y Pagos    | US29                       | Cambio de plan de suscripción                                          | Como usuario, quiero cambiar de plan en cualquier momento, para ajustar mi servicio a nuevas necesidades o presupuesto.                                      | **Escenario 1: Vista de planes disponibles para cambio**<br>Dado que el usuario desea cambiar su plan<br>Cuando accede a la opción<br>Entonces debe ver las otras opciones compatibles.<br><br>**Escenario 2: Confirmación de cambio**<br>Dado que selecciona un nuevo plan<br>Cuando lo confirma<br>Entonces el cambio debe aplicarse al inicio del siguiente ciclo.<br><br>**Escenario 3: Notificación del cambio**<br>Dado que el cambio fue exitoso<br>Cuando el proceso termina<br>Entonces debe notificarse al usuario por correo y en la plataforma. |
 | EP06         | Gestión de Suscripción y Pagos    | US30                       | Cancelación o pausa de suscripción                                     | Como usuario, quiero poder cancelar o pausar mi suscripción, para detener temporal o permanentemente el servicio según mi situación.                        | **Escenario 1: Solicitud de cancelación o pausa**<br>Dado que el usuario desea suspender su suscripción<br>Cuando accede a la configuración<br>Entonces debe ver las opciones de cancelación y pausa.<br><br>**Escenario 2: Confirmación obligatoria**<br>Dado que selecciona una de las opciones<br>Cuando confirma su decisión<br>Entonces debe mostrarse un resumen de las consecuencias y confirmación final.<br><br>**Escenario 3: Reversibilidad**<br>Dado que el usuario desea reactivar el servicio<br>Cuando accede nuevamente<br>Entonces debe tener la opción de reactivar su suscripción sin perder sus datos. |
+| EP07     | Exploración como Visitante | US31   | Visualizar información general sobre SplitEasy desde la landing page | Como visitante, quiero ver información clara sobre SplitEasy desde la página principal para entender su propósito. | - Escenario 1: Acceso inicial<br>Dado que el visitante acceda a la landing page,<br>Cuando cargue la vista,<br>Entonces verá un resumen claro de qué es SplitEasy y cómo funciona.<br><br>- Escenario 2: Responsive design<br>Dado que acceda desde móvil o PC,<br>Entonces la información debe estar adecuadamente adaptada. |
+| EP07     | Exploración como Visitante | US32   | Conocer las funciones principales para representantes y miembros del hogar | Como visitante, quiero conocer las funcionalidades para cada tipo de usuario para decidir si me interesa. | - Escenario 1: Sección de funciones<br>Dado que esté en la landing,<br>Cuando haga scroll o clic en “Funciones”,<br>Entonces verá tarjetas explicativas para representantes y miembros.<br><br>- Escenario 2: Enlaces internos<br>Dado que seleccione una función,<br>Entonces será redirigido a más detalles en la misma página. |
+| EP07     | Exploración como Visitante | US33   | Explorar beneficios del sistema de aportes proporcionales | Como visitante, quiero entender cómo funciona el sistema proporcional de aportes para saber si me conviene. | - Escenario 1: Sección explicativa<br>Dado que acceda a la landing,<br>Cuando llegue a la sección de “Sistema proporcional”,<br>Entonces verá un texto y/o animación que explica con claridad su funcionamiento.<br><br>- Escenario 2: Comprensión clara<br>Dado que lea el contenido,<br>Entonces entenderá con ejemplos simples los beneficios del sistema. |
+| EP07     | Exploración como Visitante | US34   | Ver ejemplos o simulaciones de cómo funciona la plataforma | Como visitante, quiero ver ejemplos o simulaciones para imaginarme cómo sería usar la plataforma. | - Escenario 1: Acceso a simulaciones<br>Dado que esté en la sección “¿Cómo funciona?”,<br>Cuando haga clic en “Ver ejemplo”,<br>Entonces se mostrará una simulación o demo visual del flujo de uso.<br><br>- Escenario 2: Casos ilustrativos<br>Dado que revise los ejemplos,<br>Entonces identificará casos similares a su situación real. |
+| EP07     | Exploración como Visitante | US35   | Acceder fácilmente al registro o login desde botones destacados | Como visitante, quiero tener botones claros para registrarme o iniciar sesión desde cualquier parte de la landing. | - Escenario 1: Botón fijo en el header<br>Dado que navegue por la landing,<br>Cuando quiera registrarse,<br>Entonces podrá hacer clic en un botón visible en la parte superior.<br><br>- Escenario 2: Llamados a la acción<br>Dado que lea una sección que le interese,<br>Entonces verá un botón que lo invita a registrarse o iniciar sesión. |
+
 ## Impact Mapping
 
 <p align="left">
@@ -986,6 +1236,11 @@ Como usuario, quiero gestionar mi suscripción a FoodHeaven (selección de plan,
 | 28        | US28              | Renovación automática de suscripción                    | Como usuario, quiero activar o desactivar la renovación automática, para tener control sobre la continuidad de mi plan.   | Media         | 5                          |
 | 29        | US29              | Cambio de plan de suscripción                           | Como usuario, quiero cambiar de plan en cualquier momento, para ajustar mi servicio a nuevas necesidades o presupuesto.    | Media         | 3                          |
 | 30        | US30              | Cancelación o pausa de suscripción                      | Como usuario, quiero poder cancelar o pausar mi suscripción, para detener temporal o permanentemente el servicio según mi situación. | Media         | 3                          |
+| 31     | US31           | Visualizar información general desde la landing page    | Como visitante, quiero ver información clara sobre SplitEasy desde la landing.                   | Baja      | 2             |
+| 32     | US32           | Conocer las funciones principales de los usuarios       | Como visitante, quiero conocer las funciones para decidir si me interesa registrarme.            | Baja      | 2             |
+| 33     | US33           | Explorar beneficios del sistema de aportes proporcionales| Como visitante, quiero entender cómo funciona el sistema proporcional de aportes.                | Media      | 3             |
+| 34     | US34           | Ver ejemplos o simulaciones de cómo funciona la plataforma | Como visitante, quiero ver simulaciones para imaginar cómo sería usar la plataforma.             | Media      | 3             |
+| 35     | US35           | Acceder fácilmente al registro o login desde botones    | Como visitante, quiero ver botones destacados para iniciar sesión o registrarme rápidamente.     | Muy Baja     | 1             |
 
 ### Product Backlog en Trello
 
@@ -994,4 +1249,264 @@ Como usuario, quiero gestionar mi suscripción a FoodHeaven (selección de plan,
 </p>
 
 [Product Backlog FoodHeaven - Trello](https://trello.com/invite/b/67fc295c88272e8c0a6aede4/ATTI837fada1a371ec99383211e7d16ad1658C4ABAB3/product-backlog-foodheaven)
+
+# Capítulo IV: Product Design
+
+## Style Guidelines
+
+FoodHeaven es una plataforma web diseñada para transformar la manera en que las personas organizan su alimentación diaria, especialmente aquellas con rutinas exigentes o poco tiempo para cocinar. A través de un sistema de suscripción flexible, permite programar y recibir comidas semanales de forma sencilla, práctica y personalizada. Con herramientas digitales intuitivas, FoodHeaven facilita la planificación de la semana, ayudando a crear una rutina alimenticia ordenada, sin complicaciones y adaptada al estilo de vida moderno.
+
+Esta sección contiene una guía visual estructurada que reúne todos los elementos de diseño aplicados en la plataforma FoodHeaven. Desde tipografías y paletas de colores hasta componentes gráficos clave, se organiza todo en dos bloques: General Style Guidelines y Web Style Guidelines, para garantizar una identidad visual coherente y funcional. Gracias a esta consistencia, se ofrece una experiencia de usuario clara, accesible y unificada, tanto en la versión web como en dispositivos móviles, reforzando el propósito de la plataforma: simplificar la alimentación diaria de forma moderna y eficiente.
+
+### General Style Guidelines
+
+El branding de FoodHeaven constituye la base de su identidad visual y ha sido pensado para transmitir sus valores esenciales: organización alimentaria, accesibilidad y bienestar a medida. Con una estética contemporánea, amigable y cercana, la marca busca representar la experiencia de una alimentación gestionada digitalmente, generando una imagen visual que inspire confianza y cercanía. Su logotipo, colores y tipografía reflejan orden, energía y simplicidad, cualidades que refuerzan la facilidad con la que los usuarios pueden planificar y recibir sus comidas. Toda la línea visual está en sintonía con el enfoque práctico e inclusivo de la plataforma, permitiendo que personas con diferentes estilos de vida se sientan parte de una comunidad que valora el equilibrio y la comodidad en su alimentación diaria.
+
+#### Tipografía
+
+La tipografía de FoodHeaven cumple una función clave en reflejar su identidad, aportando una sensación de calidez, simplicidad y cercanía en la interacción con los usuarios. Se optó por 2 fuentes que garantizarán una experiencia de lectura clara y agradable en todo tipo de dispositivos y formatos.
+
+**Logo:** El logotipo de FoodHeaven utiliza la tipografía Helvetica, una elección que refuerza su identidad visual con elegancia y modernidad. Reconocida por su diseño limpio y atemporal, Helvetica aporta una estética profesional y accesible que conecta eficazmente con una audiencia contemporánea. Su estructura equilibrada y legibilidad excepcional garantizan una presencia sólida en entornos digitales, adaptándose perfectamente a diversas plataformas sin perder claridad ni impacto visual.
+
+Además, la neutralidad de Helvetica permite que el mensaje de la marca se destaque sin distracciones, ofreciendo una versatilidad que ha sido aprovechada por numerosas empresas globales en sus identidades visuales. Esta característica la convierte en una herramienta poderosa para transmitir confianza y profesionalismo, cualidades esenciales para una plataforma como FoodHeaven que busca resonar emocionalmente con su público objetivo.
+
+**Texto General:** Para la interfaz de la aplicación web de FoodHeaven, se ha optado por la tipografía Poppins, una fuente sans serif geométrica que combina modernidad y calidez. Su diseño limpio y monolineal, junto con una altura de x generosa, facilita una lectura fluida en diversas plataformas y tamaños de pantalla. La familia tipográfica ofrece una amplia gama de pesos (desde light hasta bold), lo que permite estructurar eficazmente la jerarquía visual del contenido y mejorar la experiencia del usuario. Además, Poppins es reconocida por su legibilidad y versatilidad en entornos digitales, adaptándose perfectamente a las necesidades de accesibilidad y diseño contemporáneo.
+
+<p align="left">
+  <img src="Images/imagen1.PNG" alt="imagen1" width="500">
+</p>
+
+#### Colores
+
+La paleta de colores de FoodHeaven ha sido cuidadosamente seleccionada para reflejar una estética natural, saludable y acogedora. Los tonos verdes y neutros promueven una sensación de calma, frescura y conexión con lo orgánico. A continuación, se describe cada color y su uso en la aplicación:
+
+**Colores principales:**
+
+- **Verde Intenso (#307D33):** Este tono representa la frescura, naturalidad y confianza que FoodHeaven busca transmitir en cada comida. Su profundidad comunica solidez y equilibrio, evocando ingredientes frescos y una alimentación ordenada.
+- **Verde Claro (#53C758):** Complementa al verde principal con una energía más luminosa y accesible. Aporta dinamismo, optimismo y vitalidad al entorno visual, alineándose con la idea de una rutina alimenticia más simple y eficiente.
+- **Blanco (#FFFFFF):** Presente como color de fondo y en elementos clave, el blanco potencia la claridad visual, la limpieza estética y la sensación de orden. Transmite transparencia y confianza en el servicio.
+
+**Colores secundarios:**
+
+- **Negro (#000000):** Utilizado para contrastes tipográficos y algunos detalles, este color aporta estructura, elegancia y profesionalismo. Permite destacar información relevante y mantiene una lectura clara.
+- **Gris (#808080):** Su uso en textos secundarios y descripciones genera una jerarquía visual sutil y moderna. Este tono neutro equilibra el diseño y aporta sobriedad sin restar calidez.
+- **Amarillo (#FFC107):** Presente en las estrellas de reseñas, este tono aporta calidez, cercanía y valoración positiva. Transmite la satisfacción del usuario y añade un toque emocional a la experiencia visual.
+
+<p align="left">
+  <img src="Images/imagen2.PNG" alt="imagen2" width="500">
+</p>
+
+#### Espaciado
+
+**Botones:**  
+Los botones principales de FoodHeaven, como “Iniciar sesión”, “Regístrate” y “Elegir plan”, utilizan un diseño con bordes redondeados (border-radius: 50px) y una tipografía clara en Poppins. Se ha definido un padding aproximado de 1rem vertical y 2rem horizontal (como se evidencia en `.signin-button`, `.login-button` y `.portada-button`), lo que garantiza una zona clickeable amplia, mejorando la accesibilidad táctil en dispositivos móviles y manteniendo la coherencia visual en todo el sitio. Además, los botones cuentan con efectos de hover que refuerzan la interactividad, cambiando de color a un tono verde más claro (`--second-color`).
+
+**Separación entre textos:**  
+Para asegurar una lectura fluida, se ha establecido una separación clara entre los elementos de texto como títulos (`h1`, `h2`) y párrafos (`p`). Estos usan un `margin-bottom` general de 1rem, lo cual evita que los bloques textuales se vean saturados y permite una jerarquía visual más legible, especialmente en secciones como “¿Cómo funciona?” y “Reseñas”.
+
+**Espaciado entre componentes:**  
+Componentes clave como las tarjetas de servicios (`.servicio`) y tarjetas de precios (`.precio-card`) incorporan un `margin-bottom` de 1.5rem y un padding interno generoso, facilitando la diferenciación entre bloques de contenido y mejorando el ritmo visual en el scroll de la página. En el caso de `.precio-card`, el padding llega hasta 6rem en pantallas grandes, aportando mayor elegancia visual.
+
+**Espaciado entre secciones principales:**  
+Cada sección del sitio (por ejemplo, `#servicios`, `#precios`, `#contactanos`) aplica un padding vertical mínimo de 2rem y puede ampliarse hasta 6rem en vistas desktop, de acuerdo con las media queries utilizadas. Este espaciado proporciona una estructura ordenada y balanceada en todo el layout, contribuyendo a una experiencia de navegación más cómoda y estética tanto en dispositivos móviles como en pantallas grandes.
+
+#### Iconografía
+
+En FoodHeaven, los íconos cumplen un rol clave al facilitar la comprensión de las funciones dentro de la plataforma. Estos elementos gráficos, simples y visualmente intuitivos, permiten que los usuarios identifiquen con rapidez cada sección o acción, ya sea desde una computadora o un dispositivo móvil.
+
+El uso de íconos no solo mejora la estética visual de la interfaz, sino que también agiliza la navegación y hace más accesible el contenido. Gracias a su carácter universal, estos símbolos trascienden el lenguaje escrito, permitiendo que cualquier persona, sin importar su idioma o experiencia previa, pueda desenvolverse con naturalidad dentro del entorno digital de FoodHeaven. Se emplea la biblioteca **Bootstrap Icons**, lo que asegura una estética moderna, coherente y responsiva en diferentes dispositivos.
+
+<p align="left">
+  <img src="Images/imagen1.PNG" alt="imagen3" width="500">
+</p>
+
+#### Tono de Comunicación y Lenguaje Aplicado
+
+El tono de FoodHeaven es cercano, práctico y motivador, diseñado para generar una conexión de confianza con los usuarios que buscan mejorar su alimentación sin complicaciones. La plataforma acompaña a las personas en la organización de sus comidas diarias, facilitando la elección de planes alimentarios personalizados, el acceso a opciones saludables y la gestión eficiente del tiempo. Por ello, el tono se mantiene claro y positivo, transmitiendo sencillez, bienestar y compromiso con una experiencia alimentaria equilibrada.
+
+En cuanto al lenguaje, se utiliza un estilo directo y comprensible, evitando tecnicismos o estructuras complejas. Todo el contenido está pensado para ser accesible a personas con diferentes niveles de conocimiento sobre nutrición o tecnología. Se emplea un lenguaje amigable que destaca los beneficios de una alimentación organizada, con una voz cercana, dinámica y enfocada en soluciones prácticas.
+
+Este enfoque comunicativo busca crear una experiencia simple, motivadora y funcional, alineada con los valores de FoodHeaven: simplificar la vida diaria, promover el bienestar personal y facilitar el acceso a una alimentación consciente y personalizada.
+
+### Web Style Guidelines
+
+Para las Style Guidelines de la página web de FoodHeaven, hemos decidido mantener el uso exclusivo de la fuente **Poppins**, seleccionada por su diseño moderno, limpio y amigable para la lectura digital. Esta tipografía refleja perfectamente el espíritu de la plataforma: accesible, natural y enfocada en el bienestar.
+
+También hemos decidido mantener la paleta de colores, ya que se utiliza de forma coherente y estratégica para transmitir sensaciones de frescura, confianza y conexión con lo natural. Estos colores no solo aportan una estética armoniosa, sino que también ayudan a los usuarios a navegar de manera intuitiva por el sitio, reforzando visualmente las acciones clave.
+
+## Information Architecture
+
+### Organization Systems
+
+**Landing Page:**  
+
+<p align="left">
+  <img src="Images/imagen4.PNG" alt="imagen4" width="500">
+</p>
+
+Este sistema de organización asegura una navegación intuitiva y lógica para los usuarios, permitiendo una experiencia fluida mientras interactúan con la plataforma.
+
+
+### Labeling Systems
+
+La interfaz de FoodHeaven ha sido estructurada pensando en la simplicidad y la fluidez de navegación, brindando a los usuarios una experiencia ágil y sin fricciones. El objetivo es que cualquier persona pueda acceder rápidamente a la información o funcionalidad que necesita, sin distracciones ni pasos innecesarios. Para ello, se ha optado por un diseño limpio, organizado y con etiquetas breves pero claras, que guían la interacción de forma intuitiva. A continuación, se detalla el conjunto de etiquetas empleadas dentro de la plataforma y su propósito dentro de la estructura del sitio:
+
+### SEO Tags and Meta Tags
+
+html
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- SEO Tags -->
+    <title>FoodHeaven - Organiza tus Comidas Semanales de Forma Fácil</title>
+
+    <!-- Meta Tags -->
+    <meta name="description" content="FoodHeaven te ayuda a planificar y recibir tus comidas saludables de manera fácil, conectando proveedores y ajustando tus preferencias nutricionales." />
+    <meta name="keywords" content="planificación de comidas, comida saludable, suscripción de comida, proveedores de comida, nutrición, dieta, comida semanal, planes de comida" />
+    <meta name="author" content="FoodHeaven Team" />
+    
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="FoodHeaven - Organiza tus Comidas Semanales de Forma Fácil" />
+    <meta property="og:description" content="Organiza tus comidas de la semana con FoodHeaven. Recibe recomendaciones personalizadas según tus preferencias y necesidades nutricionales." />
+    <meta property="og:image" content="https://tusitio.com/images/og-image.jpg" />
+    <meta property="og:url" content="https://tusitio.com" />
+    <meta property="og:type" content="website" />
+
+    <!-- Twitter Card Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="FoodHeaven - Organiza tus Comidas Semanales de Forma Fácil" />
+    <meta name="twitter:description" content="Organiza tus comidas de la semana con FoodHeaven. Recibe recomendaciones personalizadas según tus preferencias y necesidades nutricionales." />
+    <meta name="twitter:image" content="https://tusitio.com/images/og-image.jpg" />
+
+    <!-- Favicon -->
+    <link rel="icon" href="images/favicon.png" alt="Logo" />
+
+    <!-- Enlaces de hojas de estilo -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
+    <link rel="stylesheet" href="css/style.css" />
+
+    <!-- Fuente Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <!-- Contenido de la página aquí -->
+  </body>
+</html>
+
+### Searching Systems
+
+En esta sección se explica cómo el equipo implementará los sistemas de búsqueda dentro del producto digital para garantizar una experiencia de usuario fluida, evitando que los usuarios se sientan perdidos al tratar de localizar información relevante.
+
+#### Opciones de Búsqueda
+
+- **Barra de Búsqueda Global**: Habrá una barra de búsqueda visible en todas las pantallas principales, que permitirá al usuario buscar productos, proveedores, recetas y planes de suscripción. Estará situada de forma prominente en la parte superior y accesible desde cualquier vista.
+- **Búsqueda por Categorías**: Los usuarios podrán buscar contenido a través de categorías predefinidas como "Comidas Especiales", "Planes de Suscripción", "Proveedores Personalizados", entre otros. Estas estarán visibles como filtros en la página principal de búsqueda.
+
+#### Filtros de Búsqueda
+
+- **Por Tipo de Comida**: "Desayuno", "Almuerzo", "Cena", "Snacks".
+- **Por Restricciones Nutricionales**: "Vegetariano", "Sin Gluten", "Bajo en Carbohidratos", "Alto en Proteínas", etc.
+- **Por Proveedor**: Filtro por ubicación, tipo de proveedor (restaurante, chef personal), y opciones de entrega.
+- **Por Plan de Suscripción**: Filtros por frecuencia (semanal, mensual) y cantidad de comidas.
+- **Por Precio**: Rango de precios ajustable según el presupuesto del usuario.
+
+#### Presentación de los Datos Post-Búsqueda
+
+- Resultados en formato de tarjetas (cards) con:
+  - Imagen representativa
+  - Nombre del ítem
+  - Descripción breve
+  - Precio (si aplica)
+  - Botón de acción: agregar al carrito, suscribirse o ver más detalles
+- **Ordenación**: "Relevancia", "Precio Ascendente", "Precio Descendente", "Valoración"
+
+#### Navegación Posterior a la Búsqueda
+
+- Filtros seleccionados visibles en la parte superior de los resultados
+- **Paginación** si hay muchos resultados
+- **Vistas de Resultados**: Vista tipo lista o cuadrícula
+
+#### Ayuda y Sugerencias
+
+- **Sugerencias de Búsqueda**: Autocompletado con palabras clave y categorías
+- **Mensajes de error** amigables con sugerencias
+- **Guía de Uso**: Tutorial o mensaje emergente explicando cómo usar la barra de búsqueda y filtros
+
+### Navigation Systems
+
+En esta sección, se describen las acciones y técnicas que guiarán a los usuarios a través de la Landing Page y las aplicaciones, permitiéndoles cumplir sus metas e interactuar de manera satisfactoria con el producto.
+
+#### Landing Page: Introducción y Orientación
+
+- **CTAs**: Botones destacados como "Empieza Ahora", "Explora nuestros Servicios", "Ver Planes de Suscripción", y "Más Información"
+- **Contenido Visual Atractivo**: Imágenes, vídeos y gráficos de alta calidad
+- **Scroll de Contenido**: Información presentada secuencialmente (introducción → servicios → cómo funciona → testimonios → suscripciones)
+
+#### Navegación en la Web Application
+
+- **Proceso de Registro**: Simplificado, con opción de correo/redes sociales y barra de progreso
+- **Tour Interactivo**: Opcional, presentado en el primer acceso
+- **Pantalla Principal**: Accesos destacados a funciones clave con animaciones suaves
+- **Menú de Navegación Intuitivo**: Menú lateral o superior con secciones como "Inicio", "Servicios", "Comidas", "Planes de Suscripción", "Perfil", "Ayuda", "Configuración"
+- **Seguimiento de Progreso**: Indicador visual del estado en el proceso
+
+#### Acciones de Navegación Específicas
+
+- **Feedback Visual y Sonoro**: Animaciones, sonidos suaves y mensajes emergentes tras acciones
+- **Sugerencias Inteligentes**: Basadas en el comportamiento y preferencias del usuario
+- **Accesibilidad**: Compatible con lectores de pantalla, alto contraste, atajos de teclado
+- **Mensajes Contextuales**: Explicaciones adicionales según el contexto (modales o tooltips)
+
+#### Soporte y Ayuda Continua
+
+- **Botón de Ayuda Flotante**: Acceso a FAQ, guías, soporte directo
+- **Chatbot o Asistente Virtual**: Respuestas instantáneas y guía interactiva
+  
+## Landing Page UI Design
+
+### Landing Page Wireframe
+
+<p align="left">
+  <img src="Images/lpw1.PNG" alt="lpw1" width="500">
+</p>
+<p align="left">
+  <img src="Images/lpw2.PNG" alt="lpw2" width="500">
+</p>
+
+### Landing Page Mock-up
+
+<p align="left">
+  <img src="Images/lpm1.PNG" alt="lpm1" width="500">
+</p>
+<p align="left">
+  <img src="Images/lpm2.PNG" alt="lpm2" width="500">
+</p>
+<p align="left">
+  <img src="Images/lpm3.PNG" alt="lpm3" width="500">
+</p>
+
+## Web Applications UX/UI Design
+
+### Web Applications Wireframes
+
+### Web Applications Wireflow Diagrams
+
+### Web Applications Mock-ups
+
+### Web Applications User Flow Diagrams
+
+## Web Applications Prototyping
+
+# Subir Cap 4 - Parte 1()
+
+# Subir Cap 4 - Parte 2()
+
+# Capítulo V: Product Implementation, Validation & Deployment
+
+# Subir Cap 5 - Parte 1()
 
