@@ -330,7 +330,115 @@ Este análisis es fundamental ya que nos informa sobre el contexto de la compete
 
 ### Registro de entrevistas
 
+#### Segmento objetivo #1: Profesionales jóvenes con rutinas exigentes
+
+<p align="left">
+  <img src="Images/entre1.PNG" alt="entre1" width="500">
+</p>
+
+##### Nombre: Nadia Concha
+- **Ocupación**: Docente de Ballet
+- **Edad**: 26
+- **Distrito**: Bellavista, Callao  
+- **Link**: [Entrevista Nadia Concha](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311207_upc_edu_pe/ES8V6tt-XbFJmP4HwCKZ0WYBr6da7raOfb7o44oyqI7fNQ?e=NRKOqH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+  
+**Resumen de la entrevista**:
+Nadia Concha, docente y bailarina profesional con una agenda exigente, encuentra difícil organizar sus comidas debido a su rutina. Recurría a menús comprados o soluciones rápidas como atún y galletas. Reconoce que la buena alimentación es clave para su rendimiento físico y, además de las comidas principales, necesita snacks. Actualmente depende de una conocida del mercado para sus comidas, pero está buscando opciones que le permitan planificar sus menús de manera sencilla y adaptada a su dieta saludable. Le interesa Food Heaven por su propuesta de personalización.
+
+<p align="left">
+  <img src="Images/entre2.PNG" alt="entre2" width="500">
+</p>
+
+##### Nombre: Ariana Rodriguez
+- **Ocupación**: Ingeniera Industrial
+- **Edad**: 26
+- **Distrito**: La Perla, Callao  
+- **Link**: [Entrevista Ariana Rodriguez](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311207_upc_edu_pe/EdM83YX86gBHgOVHYrIQBBwB_fSGrUW7CJVMhA8UCwE61g?e=ZkFg0W&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+  
+**Resumen de la entrevista**:
+Ariana, ingeniera industrial con jornada de trabajo de 8 a 5, encuentra difícil organizar sus comidas y, aunque usa el comedor del trabajo, a menudo no hay opciones disponibles por llegar tarde. Busca una opción para planificar sus comidas, especialmente ahora que está retomando el ejercicio. Le interesa Food Heaven porque ofrece control sobre lo que consume, variedad de opciones y la posibilidad de ahorrar tiempo sin sacrificar la calidad de su alimentación.
+
+<p align="left">
+  <img src="Images/entre3.PNG" alt="entre3" width="500">
+</p>
+
+##### Nombre: Giuliano Guzmán
+- **Ocupación**: Ingeniero Ambiental
+- **Edad**: 22
+- **Distrito**: SanMiguel  
+- **Link**: [Entrevista Giuliano Guzmán](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311207_upc_edu_pe/Ecu_NcjpgBdOqqt4x5lLCZIBcHTNwwMc4WHe1p7rcvLKeQ?e=TsfXfN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+  
+**Resumen de la entrevista**:
+Giuliano, estudiante de ingeniería ambiental y trabajador en un chifa, tiene una rutina exigente que le dificulta organizar sus comidas. Generalmente, desayuna bien, pero el almuerzo y la cena son improvisados. Le interesa Food Heaven por su propuesta de organización de comidas, ya que la variedad y la comodidad podrían complementar su actividad física y mejorar su bienestar.
+
+#### Segmento objetivo #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo
+
+<p align="left">
+  <img src="Images/entre4.PNG" alt="entre4" width="500">
+</p>
+
+##### Nombre: Dylan Campos
+- **Ocupación**: Estudiante
+- **Edad**: 20
+- **Distrito**: Cercado de Lima, Lima  
+- **Link**: [Entrevista Dylan Campos](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311207_upc_edu_pe/ESV8kH0wICxFuWtmq2vqFaMBcVZPxnDiuZ71ZzE7L5ATcA?e=iW6GOw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+  
+**Resumen de la entrevista**:
+Dylan, estudiante de derecho con entrenamiento diario, tiene dificultades para organizar sus comidas debido a la falta de tiempo. Actualmente, depende de suplementos y comida rápida, pero reconoce que mejorar su alimentación es importante. Aunque desconfía de las apps de comida, está dispuesto a probar Food Heaven si demuestra ser confiable y le facilita mantener una dieta adecuada sin perder tiempo.
+
+<p align="left">
+  <img src="Images/entre5.PNG" alt="entre5" width="500">
+</p>
+
+##### Nombre: Jorge Ocrospoma
+- **Ocupación**: Estudiante
+- **Edad**: 23
+- **Distrito**: San Isidro, Lima  
+- **Link**: [Entrevista Jorge Ocrospoma](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311207_upc_edu_pe/EVf3S7SsRCpLog_LzabHiq4B5L887qgb9uscG18Bw9wEog?e=telnhF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+  
+**Resumen de la entrevista**:
+Jorge, estudiante universitario y trabajador, tiene poco tiempo libre y suele improvisar sus comidas, recurriendo a comida en la calle o delivery. Aunque le preocupa la influencia de su alimentación en su rendimiento, busca una solución práctica y saludable. Considera que Food Heaven podría ajustarse bien a su ritmo de vida y le ayudaría a organizar sus comidas de manera más saludable.
+
+<p align="left">
+  <img src="Images/entre6.PNG" alt="entre6" width="500">
+</p>
+
+##### Nombre: Máximo Concha
+- **Ocupación**: Trabajador
+- **Edad**: 23
+- **Distrito**: Cercado de Lima, Lima  
+- **Link**: [Entrevista Máximo Concha](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311207_upc_edu_pe/EeGx_HhjsmpEjGQYKbnDJQkBLOPZWPxwsDBEHc_n77s_tQ?e=TdDbZm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+  
+**Resumen de la entrevista**:
+Máximo, estudiante de inglés y trabajador medio tiempo, tiene una rutina diaria exigente que le dificulta organizar sus comidas. A pesar de intentar cuidar su dieta, sus horarios y presupuesto limitado complican la planificación. Le interesa Food Heaven, especialmente por su capacidad de entregar comidas programadas y la opción de elegir platos saludables para la semana. También sugiere ofrecer un periodo gratuito para probar el servicio.
+
 ### Análisis de entrevistas
+
+#### Segmento #1: Profesionales jóvenes con rutinas exigentes
+
+##### Hallazgos:
+- Los entrevistados comparten una rutina diaria intensa y estructurada, lo que les dificulta mantener una alimentación adecuada. Sienten que improvisar sus comidas afecta su energía, rendimiento laboral y físico.
+- La mayoría no utiliza actualmente plataformas digitales relacionadas con comida saludable o planificación alimentaria, pero muestran una alta receptividad hacia soluciones tecnológicas que se adapten a sus horarios.
+- Valoran especialmente la posibilidad de contar con opciones personalizadas y organizadas, así como la idea de contar con un sistema que facilite la selección de platos saludables sin invertir tiempo adicional.
+- La falta de tiempo y la ausencia de hábitos de cocina impulsan a este grupo a depender de menús improvisados o pedidos informales, lo cual no siempre les garantiza calidad ni eficiencia.
+- Muestran interés en un servicio que combine practicidad, alimentación balanceada y entregas programadas, y que también contemple snacks o complementos según su estilo de vida activo.
+
+##### Conclusiones:
+Los jóvenes profesionales entrevistados evidencian una necesidad urgente de soluciones prácticas que les permitan organizar su alimentación diaria sin frenar su productividad. Este segmento tiene una actitud abierta hacia el uso de herramientas digitales si estas les permiten mantener una dieta saludable de manera sencilla, rápida y compatible con sus tiempos.  
+**FoodHeaven** tiene el potencial de convertirse en un recurso esencial para este grupo si enfatiza su facilidad de uso, la variedad de opciones saludables y la posibilidad de personalizar la experiencia según la rutina de cada usuario. La propuesta de valor se ve fortalecida al incluir entregas programadas y menús flexibles que les ahorren tiempo sin comprometer la calidad de su alimentación.
+
+#### Segmento objetivo #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo
+
+##### Hallazgos:
+- Este grupo muestra una fuerte intención de mejorar su alimentación, pero sus rutinas de estudio, trabajo y ejercicio dificultan una organización adecuada de sus comidas.
+- La mayoría opta por soluciones rápidas, como comida en la calle o delivery informal, lo que termina afectando sus hábitos y bienestar general.
+- Se valora positivamente la posibilidad de recibir comidas planificadas con anticipación y entregadas directamente, como forma de evitar pérdidas de tiempo y descuidos alimenticios.
+- Existe cierto escepticismo hacia apps de comida, especialmente si su experiencia pasada ha sido negativa por exceso de publicidad, falta de soluciones reales o poca personalización.
+- Las entrevistas reflejan interés por una interfaz amigable y funcional, con opciones claras, recomendaciones útiles y formatos de uso sencillos.
+
+##### Conclusiones:
+Los usuarios de este segmento buscan una solución concreta y confiable que les permita ahorrar tiempo y, al mismo tiempo, mejorar su calidad de alimentación. Aunque no todos tienen experiencia con apps similares, están dispuestos a probar plataformas que realmente aporten valor a su rutina y que les den control sobre lo que consumen.  
+**FoodHeaven** puede posicionarse estratégicamente en este segmento si ofrece una experiencia libre de fricciones, opciones saludables accesibles, y una comunicación clara que construya confianza desde el primer contacto. El enfoque debe estar en la eficiencia, personalización y facilidad de uso, con incentivos iniciales (como periodos de prueba) que motiven a explorar la plataforma.
 
 ## 2.3 Needfinding
 
