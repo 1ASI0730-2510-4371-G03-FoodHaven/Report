@@ -1394,7 +1394,74 @@ En esta sección, se describen las acciones y técnicas que guiarán a los usuar
 
 ## Web Applications Prototyping
 
-# Subir Cap 4 - Parte 1()
+## Domain-Driven Software Architecture
+
+El Domain Driven Design (DDD) busca lograr una comprensión común del dominio específico relacionado con el problema que se quiere resolver. Este enfoque facilita una mejor colaboración entre los desarrolladores y los especialistas en el tema, promoviendo una comunicación más efectiva. Más allá del uso de un lenguaje compartido, DDD incorpora una serie de patrones, metodologías y diagramas arquitectónicos que ayudan a alinear el desarrollo del software con las particularidades del dominio, fortaleciendo así una visión coherente y conjunta entre todos los involucrados.
+
+### Software Architecture Context Diagram
+
+#### System Context Diagram
+Representa los actores externos que interactúan con el sistema, así como sus relaciones principales con este. Permite visualizar el alcance general del sistema y su conexión con usuarios y sistemas externos.
+
+<p align="left">
+  <img src="Images/scd.PNG" alt="scd" width="500">
+</p>
+
+### Software Architecture Container Diagrams
+
+#### Container Diagram
+Este diagrama muestra los contenedores principales del sistema, como aplicaciones web, bases de datos o servicios, y cómo se comunican entre sí. Es útil para identificar la distribución de responsabilidades y tecnologías involucradas.
+
+<p align="left">
+  <img src="Images/cd.PNG" alt="cd" width="500">
+</p>
+
+### Software Architecture Components Diagrams
+
+#### Log-in Bounded Context
+Componentes relacionados con la autenticación y gestión de usuarios. Incluye clases como `Usuario`, con funcionalidades como `registrarUsuario()` o `iniciarSesion()`.
+
+<p align="left">
+  <img src="Images/lhc.PNG" alt="lhc" width="500">
+</p>
+
+#### Meal Plan Management Bounded Context
+Incluye la gestión de planes de comida (`PlanComidas`), sus detalles (`DetallePlanComidas`), y la relación con `Comida`. Este contexto permite crear, modificar y consultar planes de comida personalizados.
+
+<p align="left">
+  <img src="Images/mmbc.PNG" alt="mmbc" width="500">
+</p>
+
+#### Order and Delivery Bounded Context
+Agrupa entidades como `Pedido`, `DetallePedido` y `DetalleEntrega`. Este contexto se encarga del proceso completo de pedidos, desde su generación hasta la entrega.
+
+<p align="left">
+  <img src="Images/odbc.PNG" alt="odbc" width="500">
+</p>
+
+#### Supplier Management Bounded Context
+Incluye las entidades `Proveedor` y `TipoProveedor`. Administra la información y categorización de los proveedores de comida.
+
+<p align="left">
+  <img src="Images/spbc.PNG" alt="spbc" width="500">
+</p>
+
+#### Payment Processing Bounded Context
+Relaciona `MetodoPago` y `TipoMetodoPago`. Se encarga de registrar y procesar los métodos de pago utilizados por los usuarios.
+
+<p align="left">
+  <img src="Images/pbc.PNG" alt="pbc" width="500">
+</p>
+
+## Software Object-Oriented Design
+
+### Class Diagrams
+
+El diseño orientado a objetos se basa en clases que encapsulan atributos y comportamientos relacionados al dominio. A continuación se presentan las clases del sistema agrupadas según su funcionalidad:
+
+<p align="left">
+  <img src="Images/diagramac.PNG" alt="diagramac" width="500">
+</p>
 
 ### Class Dictionary
 
@@ -1669,8 +1736,4 @@ La base de datos de **FoodHeaven** ha sido diseñada bajo un enfoque relacional,
 <p align="left">
   <img src="Images/basedatos.PNG" alt="basedatos" width="500">
 </p>
-
-# Capítulo V: Product Implementation, Validation & Deployment
-
-# Subir Cap 5 - Parte 1()
 
