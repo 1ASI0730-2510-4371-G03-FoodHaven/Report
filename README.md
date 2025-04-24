@@ -10,8 +10,8 @@ Aplicaciones Web <br>
 
 <h2 align="center">INFORME</h2>
 
-<h3 align="center">Startup: WorkStation</h3>
-<p align="center"><strong>Producto:</strong></p>
+<h3 align="center">Startup: EuroCausas</h3>
+<p align="center"><strong>Producto: FoodHeaven</strong></p>
 
 <h3 align="center">Team Members:</h3>
 
