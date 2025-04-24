@@ -1880,6 +1880,43 @@ El diseño orientado a objetos se basa en clases que encapsulan atributos y comp
 - actualizarEstadoEntrega()  
 - obtenerDetalleEntrega()  
 
+## Clase: CarritoCompra
+
+### Atributos:
+- `id_carrito`: int  
+- `id_cliente`: int  
+- `productos`: List<(id_comida, cantidad)>
+
+### Métodos:
+- `añadirProducto(id_comida, cantidad)`  
+- `removerProducto(id_comida)`  
+- `pagarCarrito()`
+
+### Atributos:
+- `id_orden`: int  
+- `id_cliente`: int  
+- `fecha_compra`: date  
+- `estado`: string  
+- `precio_total`: decimal
+
+### Métodos:
+- `ordenarCompra()` 
+- `actualizarCompra()`  
+- `cancelarOrden()`
+
+## Clase: DetalleOrden
+
+### Atributos:
+- `id_detalle_orden`: int  
+- `id_orden`: int  
+- `direccion_entrega`: string  
+- `tipo_compra`: string 
+- `costo_envio`: decimal  
+- `dia_entrega`: date
+
+### Métodos:
+- `cancelarDetalleOrden()`
+
 ## Database Design
 
 La base de datos de **FoodHeaven** ha sido diseñada bajo un enfoque relacional, con el objetivo de asegurar la integridad de los datos, trazabilidad de los pedidos, y eficiencia en la gestión de planes alimenticios personalizados. Cada tabla representa una entidad clave dentro del ecosistema del sistema, permitiendo una gestión integral tanto para los usuarios como para los proveedores de alimentos. La arquitectura considera aspectos fundamentales como métodos de pago, programación de entregas, planificación de comidas y categorización de alimentos.
