@@ -1865,6 +1865,7 @@ El diseño orientado a objetos se basa en clases que encapsulan atributos y comp
 - eliminarDetallePedido()  
 
 #### Clase: DetalleEntrega
+
 **Atributos:**
 - id_entrega: int  
 - id_pedido: int  
@@ -1981,3 +1982,111 @@ La base de datos de **FoodHeaven** ha sido diseñada bajo un enfoque relacional,
   <img src="Images/basedatos.PNG" alt="basedatos" width="500">
 </p>
 
+# Capítulo V: Product Implementation, Validation & Deployment
+
+## Software Configuration Management
+
+### Software Development Environment Configuration
+
+### Requirements Management
+
+**Trello**:  
+Es una plataforma que permite organizar y supervisar el desarrollo de proyectos, especialmente aquellos que siguen metodologías ágiles. Se utilizará para representar visualmente y mantener actualizadas las tareas e historias de usuario correspondientes al sprint en curso.  
+[https://trello.com/es](https://trello.com/es)
+
+### Product UX/UI Design
+
+**Figma**:  
+Es una herramienta enfocada en la creación de prototipos y edición visual, ampliamente empleada en el diseño digital. En el contexto del proyecto, se utilizará específicamente para desarrollar los prototipos de la aplicación.  
+[https://www.figma.com/](https://www.figma.com/)
+
+### Software Development
+
+**Visual Studio Code**:  
+Es el entorno de desarrollo integrado (IDE) seleccionado para programar y compilar el código del proyecto, debido al conocimiento previo del equipo sobre esta herramienta. Su uso aporta valor al desarrollo gracias a su compatibilidad con múltiples sistemas operativos, la posibilidad de instalar extensiones útiles y su soporte para varios lenguajes de programación.  
+[https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+**HTML5**:  
+Lenguaje de marcado utilizado para estructurar el contenido de páginas web. En este proyecto, se empleará para definir la presentación de la información dentro de la interfaz de la aplicación.  
+[https://www.w3schools.com/html/html5_syntax.asp](https://www.w3schools.com/html/html5_syntax.asp)
+
+**CSS**:  
+Hojas de estilo en cascada que permiten controlar la apariencia y el diseño visual de los sitios web. Se implementará junto con HTML para definir el estilo de la aplicación.  
+[https://google.github.io/styleguide/htmlcssguide.html](https://google.github.io/styleguide/htmlcssguide.html)
+
+**JavaScript**:  
+Lenguaje de programación interpretado y orientado a objetos que se usará para desarrollar la interacción y funcionalidades de la interfaz del usuario en la plataforma.  [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+### Software Deployment
+
+**GitHub**:  
+Es una plataforma en la nube utilizada para almacenar y gestionar los repositorios del proyecto. Permitirá que los integrantes del equipo trabajen de forma colaborativa, realizando aportes y revisiones en tiempo real. El acceso a esta herramienta se realizará directamente desde los navegadores web de los usuarios.  
+[https://github.com/](https://github.com/)
+
+### Software Documentation and Project Management
+
+**GitHub**:  
+También se emplea como herramienta de documentación y gestión del proyecto, utilizando su funcionalidad de issues y wikis para registrar decisiones, avances y documentación técnica.  
+[https://github.com/](https://github.com/)
+
+### Source Code Management
+
+El equipo utiliza **Git** y **GitHub** para el control de versiones y la colaboración en los distintos productos.
+
+**Repositorios:**
+- Report: [https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Report.git](https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Report.git)
+- LandingPage: [https://github.com/1ASI0730-2510-4371-G03-FoodHaven/LandingPage.git](https://github.com/1ASI0730-2510-4371-G03-FoodHaven/LandingPage.git)
+
+**Modelo de ramas - GitFlow:**
+- `main`: Rama principal
+- `develop`: Rama de desarrollo
+- `feature/{nombre-funcionalidad}`: Funcionalidades nuevas (ej. `feature/user-authentication`)
+- `release/{version}`: Preparación de lanzamientos (ej. `release/1.0.0`)
+- `hotfix/{descripcion}`: Correcciones urgentes (ej. `hotfix/fix-login-redirect`)
+
+**Convenciones:**
+- **Versionado semántico**: `MAJOR.MINOR.PATCH` (ej. `1.0.0`)
+- **Mensajes de commit (Conventional Commits):**
+  - `feat`: agregar nueva funcionalidad
+  - `fix`: corrección de bug
+  - `docs`: cambios en documentación
+  - `style`: cambios de estilo sin afectar funcionalidad
+  - `refactor`: mejoras internas sin cambios funcionales
+  - `test`: añadir pruebas
+
+### Source Code Style Guide & Conventions
+
+#### HTML
+- **Cierre obligatorio de etiquetas**: `<p>Bienvenido a FoodHeaven</p>`
+- **Uso consistente de minúsculas**: `<img src="logo.png" alt="logo foodheaven">`
+- **Atributos entre comillas**: `<a href="#servicios" class="nav-link">Servicios</a>`
+- **Uso de `alt`, `width` y `height` en imágenes**: `<img src="images/imagenPortada.jpg" alt="Comida saludable" width="400" height="300">`
+
+#### CSS
+- **Nombres de clase descriptivos y breves**: `.hero-section`, `.login-button`
+- **Separación con guiones**: `.precio-card`, `#form-contacto`
+- **Omisión de unidades para cero**: `margin: 0;`
+- **Formato limpio y organizado**: Cada regla en líneas separadas
+
+#### JavaScript
+- **Estructura clara del DOM**: Usar `DOMContentLoaded` para esperar la carga completa
+- **Nombres de variables representativos**: `formContacto`, `correo`, `numero`
+- **Evitar funciones anidadas innecesarias**: Modularización del código
+
+Estas convenciones permiten que el desarrollo y mantenimiento de **FoodHeaven** se realice de forma eficiente, garantizando escalabilidad y facilidad de lectura para cualquier miembro del equipo.
+
+### Software Deployment Configuration
+
+**Landing Page:**
+- **Plataforma**: Vercel
+- **Proceso**: Conectado al repositorio de GitHub con despliegue automático en cada push a la rama `main`.
+
+**Frontend Web Application (Angular):**
+- **Plataforma**: Vercel
+- **Proceso**: Configuración con `vercel.json` para rutas personalizadas. Se despliega al hacer push a `main`.
+
+**Web Services (.NET Core API):**
+- **Plataforma**: Railway
+- **Proceso**: Uso de archivo `Dockerfile` para empaquetado de la API. Railway detecta cambios en la rama `main` y realiza despliegue continuo.
+
+Esta configuración asegura un ciclo de **integración y despliegue continuo (CI/CD)** alineado con buenas prácticas del desarrollo moderno.
