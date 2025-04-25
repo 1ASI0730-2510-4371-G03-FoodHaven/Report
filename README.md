@@ -1925,4 +1925,4 @@ UNICEF. (2022). Nutrición infantil y adolescente en el Perú. https://www.unice
 
 # Anexos
 ## Video de exposición TB1: 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311532_upc_edu_pe/EXf2yGz-k3dKtb_tWZZmrwYBFPLfNbsTDNMHGITiFUSa-w?e=TfjfK4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+https://upcedupe-my.sharepoint.com/personal/u202311532_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311532%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0730%2D4371%2DEuroCausas%2Dexpo%2Dtb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ef0268aa1%2Dfe49%2D4275%2D84d5%2D6803a3a50551
