@@ -881,7 +881,7 @@ Como usuario, quiero gestionar mi suscripción a FoodHeaven (selección de plan,
 ## 3.3. Impact Mapping
 
 <p align="left">
-  <img src="Images/impact.PNG" alt="impact" width="500">
+  <img src="Images/impactmap.PNG" alt="impact" width="500">
 </p>
 
 ## 3.4. Product Backlog
