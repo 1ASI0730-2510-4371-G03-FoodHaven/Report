@@ -1925,3 +1925,4 @@ UNICEF. (2022). Nutrición infantil y adolescente en el Perú. https://www.unice
 
 # Anexos
 ## Video de exposición TB1: 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311532_upc_edu_pe/EXf2yGz-k3dKtb_tWZZmrwYBFPLfNbsTDNMHGITiFUSa-w?e=TfjfK4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
