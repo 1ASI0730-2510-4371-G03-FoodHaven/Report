@@ -21,7 +21,7 @@ Aplicaciones Web <br>
 |--------------------------------------|--------------|
 |Paulo Percy Quincho Gamarra      |  U20191E562  |
 |Ricardo Fernando Cardenas Minaya |  U202310004  |
-|          |   |
+|Santiago Iván Cárdenas Concha    |  U202311207  |
 |       |  |
 
 
@@ -35,7 +35,7 @@ Aplicaciones Web <br>
 |---------|-------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | TB1     | 25/03/2025  | Santiago Iván Cárdenas Concha                                          | Desarrollo del capítulo I: Introducción                                                                                                             |
 |         | 29/03/2025  | Ricardo Fernando Cárdenas Minaya                                       | Desarrollo del capítulo II: Competidores                                                                                                            |
-|         | 29/03/2025  | Santiago Iván Cárdenas Concha, Luis Piero Zinadine Rodríguez Rodríguez, Ricardo Fernando Cárdenas Minaya | Desarrollo del capítulo II: Entrevistas                                                                                                             |
+|         | 29/03/2025  | Santiago Iván Cárdenas Concha| Desarrollo del capítulo II: Entrevistas                                                                                                             |
 |         | 30/03/2025  | Paulo Percy Quincho Gamarra                                            | Desarrollo del capítulo II: Needfinding                                                                                                             |
 |         | 08/04/2025  | Paulo Percy Quincho Gamarra                                            | Desarrollo del capítulo III: To-Be Scenario Mapping y Product Backlog                                                                              |
 |         | 10/04/2025  | Paulo Percy Quincho Gamarra, Luis Gustavo Román Pajuelo               | Desarrollo del capítulo III: User stories                                                                                                           |
