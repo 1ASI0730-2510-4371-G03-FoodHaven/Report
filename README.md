@@ -1222,87 +1222,87 @@ Las necesidades identificadas en los segmentos objetivo para la aplicación Food
 
 ### Epic
 
-### EP01 - Registro y Gestión de Perfil
+### EP01 - Experiencia de navegación en la landing page de FoodHeaven
 **Descripción:**  
-Como usuario, quiero crear y gestionar mi cuenta y perfil en una plataforma accesible desde cualquier dispositivo, para utilizar FoodHeaven de forma personalizada y segura.
+Como usuario, quiero navegar en una landing page clara, atractiva y funcional, para conocer FoodHeaven y explorar su propuesta, servicios y medios de contacto de forma intuitiva.
 
 | **User Story ID** | **Título**                              |
 |-------------------|-----------------------------------------|
-| US01              | Registro de usuario                     |
-| US02              | Inicio de sesión seguro                 |
-| US03              | Configuración de preferencias dietéticas en el perfil |
-| US04              | Gestión de dirección de entrega en el perfil |
-| US05              | Acceso a la plataforma desde múltiples dispositivos |
-| US06              | Edición del perfil de usuario desde la app |
+| US01              | Presentación de FoodHeaven              |
+| US02              | Acceso a la sección “Acerca de” desde la landing page |
+| US03              | Acceso a la sección “Servicios” desde la landing page |
+| US04              | Acceso a la sección “¿Cómo funciona?” desde la landing page |
+| US05              | Acceso a la sección “Precios” desde la landing page |
+| US06              | Acceso a la sección “Reseñas” desde la landing page |
+| US07              | Acceso a la sección “Contáctanos” desde la landing page |
+| US08              | Navegación mediante encabezado visible  |
+| US09              | Formulario de registro e inicio de sesión |
+| US10              | Diseño atractivo de la landing page     |
+| US11              | Estructura clara de la landing page     |
+| US12              | Elementos del pie de página             |
 
-### EP02 - Personalización de Plan de Comidas Semanal
+### EP02 - Registro y Gestión de Perfil
+**Descripción:**  
+Como usuario, quiero registrarme e iniciar sesión fácilmente desde cualquier dispositivo, y poder gestionar mis datos personales para utilizar FoodHeaven de forma segura y personalizada.
+
+| **User Story ID** | **Título**                              |
+|-------------------|-----------------------------------------|
+| US13              | Registro de usuario                     |
+| US14              | Inicio de sesión seguro                 |
+| US15              | Gestión de dirección de entrega en el perfil |
+| US16              | Edición del perfil de usuario desde la app |
+
+### EP03 - Personalización de Plan de Comidas Semanal
 **Descripción:**  
 Como usuario, quiero personalizar mi plan de comidas semanal (desayuno, almuerzo, cena u otras combinaciones) para adaptarlo a mis gustos, necesidades nutricionales y horario.
 
 | **User Story ID** | **Título**                              |
 |-------------------|-----------------------------------------|
-| US07              | Selección de combinación de comidas del plan |
-| US08              | Selección de platos para cada día de la semana |
-| US09              | Modificación de platos en el plan antes de confirmar |
-| US10              | Filtrado de platos según preferencias dietéticas |
-| US11              | Guardado y confirmación del plan semanal |
-| US12              | Confirmación de la programación de entregas |
-| US13              | Reserva para eventos especiales         |
+| US17              | Selección de combinación de comidas del plan |
+| US18              | Selección de platos para cada día de la semana |
+| US19              | Filtrado de platos según preferencias   |
+| US20              | Guardado y confirmación del plan semanal |
+| US21              | Confirmación de la programación de entregas |
 
-### EP03 - Seguimiento de Dieta y Contador de Calorías
+### EP04 - Seguimiento de Dieta y Contador de Calorías
 **Descripción:**  
 Como usuario, quiero hacer seguimiento de mi dieta a través de un contador de calorías integrado para mantener un registro de mi consumo calórico y cumplir mis objetivos de salud.
 
 | **User Story ID** | **Título**                              |
 |-------------------|-----------------------------------------|
-| US14              | Consulta del valor calórico de cada plato |
-| US15              | Visualización del total de calorías diarias del plan |
-| US16              | Visualización del total de calorías semanales del plan |
-| US17              | Configuración de objetivo de ingesta calórica |
-| US18              | Alertas por exceder objetivo calórico   |
+| US22              | Consulta del valor calórico de cada plato |
+| US23              | Visualización del total de calorías diarias del plan |
+| US24              | Visualización del total de calorías semanales del plan |
 
-### EP04 - Recomendaciones Personalizadas
+### EP05 - Recomendaciones Personalizadas
 **Descripción:**  
 Como usuario, quiero recibir recomendaciones de comidas y planes basadas en mis gustos, historial y objetivos nutricionales, para descubrir nuevas opciones que se ajusten a mis necesidades.
 
 | **User Story ID** | **Título**                              |
 |-------------------|-----------------------------------------|
-| US19              | Sugerencias de platos durante la planificación semanal |
-| US20              | Recomendaciones de menús completos según perfil de usuario |
-| US21              | Notificaciones de nuevos platos acordes a sus preferencias |
-| US22              | Sugerencia de alternativas saludables a platos seleccionados |
+| US25              | Sugerencias de platos durante la planificación semanal |
+| US26              | Recomendaciones de menús completos según perfil de usuario |
 
-### EP05 - Panel de Control del Usuario
+### EP06 - Panel de Control del Usuario
 **Descripción:**  
-Como usuario, quiero utilizar un panel de control personal que muestre mi historial de consumo, metas alimenticias y progreso, para evaluar mi desempeño y mantener la motivación en mi plan alimenticio.
+Como usuario, quiero consultar un panel de control con mi historial de consumo y progreso en el plan alimenticio, para evaluar mi avance y mantener la motivación.
 
 | **User Story ID** | **Título**                              |
 |-------------------|-----------------------------------------|
-| US23              | Visualización del historial de consumo de comidas |
-| US24              | Resumen de consumo calórico a lo largo del tiempo |
-| US25              | Notificaciones sobre patrones alimenticios detectados |
+| US27              | Visualización del historial de consumo de comidas |
+| US28              | Resumen de consumo calórico a lo largo del tiempo |
 
-### EP06 - Gestión de Suscripción y Pagos
+### EP07 - Gestión de Suscripción y Pagos
 **Descripción:**  
 Como usuario, quiero gestionar mi suscripción a FoodHeaven (selección de plan, pagos y renovaciones) para mantener el servicio activo de acuerdo a mis necesidades y presupuesto.
 
 | **User Story ID** | **Título**                              |
 |-------------------|-----------------------------------------|
-| US26              | Selección de plan de suscripción adecuado |
-| US27              | Registro de método de pago seguro       |
-| US28              | Renovación automática de suscripción    |
-| US29              | Cambio de plan de suscripción           |
-| US30              | Cancelación o pausa de suscripción      |
-
-### EP07 - Exploración como Visitante
-
-| User Story ID | Título                          |
-|---------------|----------------------------------|
-| US31          | Visualizar información general sobre SplitEasy desde la landing page              |
-| US32          | Conocer las funciones principales para representantes y miembros del hogar         |
-| US33          | Explorar beneficios del sistema de aportes proporcionales  |
-| US34          | Ver ejemplos o simulaciones de cómo funciona la plataforma |
-| US35          | 	Acceder fácilmente al registro o login desde botones destacados |
+| US29              | Selección de plan de suscripción        |
+| US30              | Registro de método de pago seguro       |
+| US31              | Renovación automática de suscripción    |
+| US32              | Cambio de plan de suscripción           |
+| US33              | Cancelación de suscripción              |
 
 | ID Épica | Épica                          | ID Historia de Usuario | Título Historia de Usuario                    | Descripción HU                                                                                   | Criterios de Aceptación                                                                                                                                                                                                                                                                                      |
 |----------|--------------------------------|-------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
