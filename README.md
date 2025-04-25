@@ -30,7 +30,7 @@ Aplicaciones Web <br>
 
 </div>
 
-<p align="center"><strong>Abril 2025</strong></p>
+<p align="center"><strong>Ciclo 2025-1</strong></p>
 
 # Registro de Versiones del Informe
 | Versión | Fecha       | Autor(es)                                                              | Descripción                                                                                                                                         |
