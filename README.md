@@ -1462,7 +1462,7 @@ En FoodHeaven, los íconos cumplen un rol clave al facilitar la comprensión de 
 El uso de íconos no solo mejora la estética visual de la interfaz, sino que también agiliza la navegación y hace más accesible el contenido. Gracias a su carácter universal, estos símbolos trascienden el lenguaje escrito, permitiendo que cualquier persona, sin importar su idioma o experiencia previa, pueda desenvolverse con naturalidad dentro del entorno digital de FoodHeaven. Se emplea la biblioteca **Bootstrap Icons**, lo que asegura una estética moderna, coherente y responsiva en diferentes dispositivos.
 
 <p align="left">
-  <img src="Images/imagen1.PNG" alt="imagen3" width="500">
+  <img src="Images/iconografia.PNG" alt="imagen3" width="500">
 </p>
 
 #### Tono de Comunicación y Lenguaje Aplicado
