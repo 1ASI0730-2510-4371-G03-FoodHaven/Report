@@ -186,7 +186,6 @@ Soy puntual, lo que me permite realizar todos los trabajos a tiempo. Me gusta te
 **Carrera:** Ingeniería de Software
 **Descripción:**
 Soy responsable, creativo y siempre trato de apoyar al equipo en todo hasta el final.
-[Descripción personal.] |
 | ![Suarez](Images/Suarez.png) | **Nombre:** [Nombre de Suárez]  
 **Código de estudiante:** [Código]  
 **Carrera:** [Carrera]  
