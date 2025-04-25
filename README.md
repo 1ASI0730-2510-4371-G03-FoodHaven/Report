@@ -145,10 +145,10 @@ Aplicaciones Web <br>
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
 # Project: FoodHaven
-# Chapter 1: Introduction
-# Startup Profile
+# Capítulo 1: Introduction
+## 1.1 Startup Profile
 
-##  Descripción de la Startup
+### 1.1.1.  Descripción de la Startup
 
 EuroCausas es una startup liderada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), dedicada a transformar la forma en que las personas organizan sus comidas diarias a través de soluciones digitales prácticas y personalizadas. Con el objetivo de brindar una alternativa eficiente y accesible para la gestión alimentaria, se ha desarrollado el proyecto FoodHaven, una innovadora plataforma web que facilita la organización de comidas semanales mediante un sistema de suscripción flexible.
 En EuroCausas, creemos que la buena alimentación es clave para una vida equilibrada, productiva y saludable. Sabemos que muchas personas enfrentan el desafío del tiempo y la planificación, por ello FoodHeaven busca convertirse en el aliado ideal para quienes desean resolver sus comidas de manera práctica, sin renunciar a la calidad ni al sabor. La plataforma permite combinar planes personalizados, reservar comidas especiales, elegir horarios de entrega y llevar un control nutricional mediante funciones como el contador de calorías y el seguimiento de dietas.
@@ -195,14 +195,14 @@ Soy creativo y dedicado en lo que hago. Estoy comprometido a dar lo mejor de mí
 **Descripción:**  
 [Descripción breve de la persona.] |
 
-##  Solution Profile
+## 1.2  Solution Profile
 
 FoodHeaven es una aplicación web diseñada para transformar la manera en que las personas planifican y disfrutan sus comidas diarias. A través de una plataforma intuitiva y flexible, permite a los usuarios organizar su alimentación semanal mediante planes de suscripción personalizados, adaptados a sus gustos, necesidades y horarios.
 La plataforma ofrece una amplia variedad de opciones para desayuno, almuerzo y cena, así como la posibilidad de reservar comidas especiales para ocasiones únicas. Además, conecta a los usuarios con una red diversa de proveedores, como restaurantes y cocineros independientes, funcionando como un intermediario que garantiza calidad, variedad y puntualidad.
 Con el objetivo de simplificar la rutina alimentaria y promover una alimentación consciente, FoodHeaven también incorpora funciones como el seguimiento de dietas y un contador de calorías, ofreciendo una experiencia completa, saludable y adaptada al ritmo de vida moderno.
 FoodHeaven busca convertirse en el aliado ideal para personas con agendas ocupadas, brindando una solución práctica y personalizada en un entorno digital moderno.
 
-##  Antecedentes y Problemática
+### 1.2.1  Antecedentes y Problemática
 
 Para comprender con mayor claridad las necesidades de los usuarios, es esencial realizar un análisis de antecedentes y problemáticas utilizando la técnica de las 5W’s y 2H’s. Según Lean Construction México, esta herramienta resulta fundamental para definir y desarrollar un plan estratégico (Álvarez, 2020). La información que se presenta a continuación ha sido obtenida aplicando dicha metodología.
 Las dos preguntas correspondientes a la letra "H" en la técnica “5W+2H” hacen referencia a “¿Cómo?” y “¿Cuánto?”. La pregunta “¿Cómo?” se centra en identificar de qué manera se llevan a cabo las acciones, lo cual resulta esencial para analizar y explicar cualquier situación. En el caso de FoodHeaven, esta pregunta nos permitirá explorar cómo lograremos captar el interés de personas con agendas ocupadas y cómo facilitaremos la conexión con proveedores de comida, como restaurantes y cocineros independientes. Por otro lado, la pregunta “¿Cuánto?” tiene como finalidad cuantificar la problemática y evaluar su dimensión. En este contexto, utilizaremos datos y estadísticas que nos ayuden a comprender mejor los hábitos alimenticios de nuestro público objetivo, la frecuencia con la que enfrentan dificultades para organizar sus comidas y el impacto económico que podría tener una solución como FoodHeaven en su día a día.
@@ -228,24 +228,24 @@ Las dos preguntas correspondientes a la letra "H" en la técnica “5W+2H” hac
 | | ¿Qué llevó a la persona a llegar a esta situación? | Falta de tiempo para cocinar, desinformación sobre nutrición, alimentos saludables costosos, y normalización de patrones alimenticios poco nutritivos. |
 | **How much (¿Cuánto?)** | Estadísticas que sustentan la problemática | - 49 % de peruanos siguen dietas bajas en grasa. <br> - 17 millones no pueden garantizar sus comidas diarias (FAO 2023). <br> - Mercado de delivery superará los $1.94 mil millones en 2025 (Statista 2024). <br> - La comida saludable es menos accesible y más cara (UNICEF 2022). |
 
-## Lean UX Process
+### 1.2.2 Lean UX Process
 
 El enfoque Lean UX se centra en el trabajo colaborativo para desarrollar productos de calidad, poniendo como prioridad la mejora de la experiencia del usuario y la satisfacción del cliente por encima de un diseño completamente perfeccionado. Esta metodología facilita una comprensión profunda de los objetivos del negocio, permitiendo integrar ideas de forma flexible y generar soluciones más eficaces (Lean UX y Lean Startup: potencia experiencia y diseño de producto, 2023).
 
-## Lean UX Problem Statements
+#### 1.2.2.1. Lean UX Problem Statements
 
 FoodHeaven es una plataforma que busca combinar la practicidad de un servicio de entrega con la personalización de una planificación alimentaria saludable. Más que un sistema de pedidos, su propósito es facilitar la organización de comidas semanales, promover una alimentación equilibrada y construir una comunidad de usuarios conectados con su bienestar y nutrición.
 Actualmente, la alimentación diaria enfrenta múltiples desafíos. La falta de tiempo, la sobrecarga de responsabilidades, el desconocimiento nutricional y la limitada oferta de servicios accesibles y personalizados dificultan que las personas puedan alimentarse de forma organizada y saludable. Además, los usuarios experimentan una gestión fragmentada de sus comidas, debiendo alternar entre apps de delivery, redes sociales y consultas nutricionales sin una solución centralizada que se ajuste a sus horarios, gustos y objetivos alimenticios.
 ¿Cómo podemos mejorar la experiencia digital de planificación alimentaria para facilitar el acceso a comidas personalizadas, promover una alimentación saludable y conectar a los usuarios con una red confiable de proveedores en una plataforma flexible, intuitiva y adaptada a su ritmo de vida?
 
-## Lean UX Assumptions
+#### 1.2.2.2. Lean UX Assumptions
 
-### Resultados del usuario
+##### 1.2.2.2.1 Resultados del usuario
 Los usuarios de FoodHeaven esperan una solución que les permita organizar y personalizar sus comidas semanales de forma rápida, sencilla y saludable. Buscan tener acceso a menús variados adaptados a sus preferencias alimenticias, restricciones dietéticas y horarios, todo desde una plataforma intuitiva que les ahorre tiempo y esfuerzo en la toma de decisiones diarias.  
 Además, desean contar con funcionalidades adicionales como el seguimiento de dietas, el contador de calorías, y la flexibilidad en la elección de horarios de entrega, con la tranquilidad de que están accediendo a opciones confiables y de calidad, proporcionadas por una red diversa de restaurantes y cocineros independientes.  
 El resultado esperado es una experiencia de usuario fluida y personalizada que permita mantener una alimentación equilibrada sin complicaciones. Esto se traduce en una mejora en su bienestar general, una reducción del estrés relacionado con la planificación alimentaria, y una mayor motivación para adoptar hábitos alimenticios sostenibles en el tiempo.
 
-### Features
+##### 1.2.2.2.2 Features
 - Planes de comida personalizados (desayuno, almuerzo, cena y combinaciones adaptadas).
 - Selección flexible de horarios de entrega.
 - Seguimiento de dietas y contador de calorías integrado.
@@ -255,13 +255,13 @@ El resultado esperado es una experiencia de usuario fluida y personalizada que p
 - Panel de control del usuario con historial de consumo, metas alimenticias y progreso.
 - Interfaz web intuitiva y accesible desde múltiples dispositivos.
 
-### Business Outcomes
+##### 1.2.2.2.3 Business Outcomes
 - **Promover una alimentación organizada y saludable**: El objetivo principal de FoodHeaven es ayudar a las personas a mejorar su rutina alimentaria mediante una plataforma que simplifique la organización de comidas semanales. A través de planes personalizados, recomendaciones automatizadas y funciones como el seguimiento de dietas y el contador de calorías, la aplicación busca fomentar hábitos alimenticios más conscientes, equilibrados y sostenibles.
 - **Generación de ingresos**: Mediante un modelo de negocio basado en suscripciones, FoodHeaven podrá generar ingresos recurrentes que permitan escalar y mejorar el servicio. Estos fondos serán reinvertidos en el perfeccionamiento de la plataforma, ampliación de la red de proveedores, incorporación de contenido educativo nutricional y desarrollo de nuevas funcionalidades centradas en la experiencia del usuario.
 - **Diferenciación en el mercado**: Gracias a sus características únicas —como la personalización de planes, la reserva de comidas especiales y la conexión con una red de cocineros y restaurantes verificados— FoodHeaven se posiciona como una alternativa innovadora frente a aplicaciones tradicionales de delivery. Su enfoque en salud, flexibilidad y bienestar la convierte en una propuesta de valor diferenciada.
 - **Formación de alianzas estratégicas**: La plataforma ofrece oportunidades para establecer asociaciones comerciales con restaurantes, nutricionistas, cocineros independientes y empresas del rubro alimenticio. Estas alianzas no solo permitirán diversificar la oferta dentro de la plataforma, sino también ampliar el alcance del servicio a nuevos públicos y fortalecer la marca en el mercado local.
 
-### User Benefits
+##### 1.2.2.2.4 User Benefits
 - Acceso a una amplia variedad de opciones alimenticias desde una sola plataforma, permitiendo planificar, personalizar y recibir comidas de forma rápida, saludable y sencilla.
 - Mejora de hábitos alimenticios gracias al seguimiento de dietas, contador de calorías y recomendaciones automáticas adaptadas a los objetivos, preferencias y estilo de vida del usuario.
 - Planes personalizados según horarios, necesidades nutricionales y restricciones alimentarias, facilitando una experiencia alimentaria única, eficiente y sin complicaciones.
@@ -270,29 +270,20 @@ El resultado esperado es una experiencia de usuario fluida y personalizada que p
 - Fomento de una alimentación equilibrada y consciente a través de herramientas motivacionales, recordatorios, metas alimenticias y visualización del progreso personal.
 - Ahorro de tiempo y esfuerzo en la planificación y organización de comidas, centralizando en una sola plataforma todo el proceso: desde la selección del menú hasta la entrega.
 
-### ¿Quién es el usuario?
+##### 1.2.2.2.5 ¿Quién es el usuario?
 El usuario de FoodHeaven es una persona que valora la practicidad, el bienestar y la buena alimentación en su día a día. Está motivado por el deseo de mantener una dieta equilibrada sin tener que invertir demasiado tiempo en planificar, cocinar o decidir qué comer.  
 Estos usuarios suelen tener agendas ocupadas —ya sea por trabajo, estudio u otras responsabilidades— y buscan soluciones digitales que se adapten a su estilo de vida. Valoran especialmente la personalización, el acceso rápido a comidas saludables, y la posibilidad de elegir opciones según sus gustos, objetivos y horarios.  
 Además, muchos de ellos están interesados en mejorar sus hábitos alimenticios, llevar un control calórico o seguir dietas específicas, por lo que encuentran en FoodHeaven una herramienta completa, flexible y confiable para facilitar su rutina alimentaria.
 
-### ¿Dónde encaja nuestro producto en su trabajo o vida?
+##### 1.2.2.2.6 ¿Dónde encaja nuestro producto en su trabajo o vida?
 FoodHeaven encaja en la vida de sus usuarios como una herramienta accesible, práctica y flexible que les permite organizar su alimentación diaria sin complicaciones. Se integra de forma natural en su rutina, ya sea durante el trabajo, el estudio o el tiempo libre, facilitando la planificación y el consumo de comidas saludables y personalizadas.  
 La plataforma se convierte en una aliada esencial para quienes tienen agendas apretadas, ayudándoles a ahorrar tiempo, reducir el estrés por la toma de decisiones alimenticias y mantener una dieta equilibrada sin tener que cocinar o buscar opciones cada día. FoodHeaven no solo simplifica su vida diaria, sino que también promueve el bienestar, la eficiencia y el autocuidado como parte de su estilo de vida.
 
-### ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
-Uno de los desafíos que podría enfrentar FoodHeaven es la competencia con otras plataformas de delivery o servicios de suscripción alimentaria que ya están posicionadas en el mercado. Si la propuesta de valor o las funcionalidades no resultan lo suficientemente diferenciadoras, los usuarios podrían optar por alternativas más conocidas o accesibles.  
-Además, podría presentarse el reto de fidelizar al usuario, especialmente si no percibe mejoras en su rutina alimentaria o si encuentra limitaciones en la variedad de opciones disponibles.  
-Estos problemas se pueden abordar mediante:
-- La mejora continua de la experiencia de usuario, asegurando una navegación intuitiva, rápida y sin fricciones.
-- La ampliación constante de la red de proveedores verificados, para ofrecer mayor diversidad en los menús y adaptarse a distintos estilos de alimentación.
-- El fortalecimiento de las funcionalidades diferenciadoras, como el sistema de seguimiento de dietas, las recomendaciones automatizadas y la reserva de comidas especiales.  
-Con estas acciones, FoodHeaven podrá consolidar su propuesta en el mercado y posicionarse como una solución única, práctica y saludable.
-
-### ¿Cuándo y cómo es usado nuestro producto?
+##### 1.2.2.2.7 ¿Cuándo y cómo es usado nuestro producto?
 FoodHeaven es utilizado principalmente en momentos clave de la rutina diaria, como al comenzar la semana, al planificar las comidas del día o al buscar una opción práctica para alimentarse sin necesidad de cocinar. Los usuarios acceden a la plataforma cuando desean ahorrar tiempo, comer de forma saludable o mantener un control sobre su dieta, especialmente en contextos de trabajo, estudio o tiempos reducidos.  
 La aplicación permite seleccionar planes de comida, reservar platos especiales, programar horarios de entrega y seguir el progreso nutricional desde cualquier dispositivo. Está diseñada para ser utilizada en cualquier momento del día, ya sea desde la comodidad del hogar, durante una pausa en el trabajo o en el camino a casa. Su interfaz intuitiva permite gestionar las comidas de forma rápida, flexible y personalizada, haciendo que la experiencia se adapte al estilo de vida del usuario y no al revés.
 
-### ¿Qué características son importantes?
+##### 1.2.2.2.8 ¿Qué características son importantes?
 - **Planes de comida personalizados**: Permiten a los usuarios crear combinaciones adaptadas a sus necesidades alimenticias, preferencias y horarios. Esta personalización garantiza una experiencia flexible que se ajusta al ritmo de vida de cada persona, mejorando la organización alimentaria y el bienestar diario.
 - **Selección flexible de horarios de entrega**: Facilita que los usuarios reciban sus comidas en los momentos más convenientes, ya sea en casa, en el trabajo o en cualquier otro lugar. Esta funcionalidad reduce la incertidumbre y mejora la experiencia logística, adaptándose a rutinas diversas.
 - **Seguimiento de dietas y contador de calorías**: Brinda herramientas para monitorear objetivos nutricionales específicos, como pérdida de peso, mantenimiento o ganancia muscular. Esta característica ayuda a fomentar una alimentación más consciente y alineada con las metas personales de salud.
@@ -302,13 +293,30 @@ La aplicación permite seleccionar planes de comida, reservar platos especiales,
 - **Panel de control del usuario**: Permite visualizar el historial de consumo, establecer metas alimenticias, y hacer seguimiento al progreso personal. Esta vista centralizada de la información promueve la constancia y el compromiso con una alimentación saludable.
 - **Interfaz web intuitiva y multiplataforma**: Diseñada para funcionar fluidamente en celulares, tablets y computadoras, facilita el acceso desde cualquier lugar y en cualquier momento. Esta característica mejora la accesibilidad y promueve el uso frecuente de la plataforma.
 
-### ¿Cómo debe verse nuestro producto y cómo debe comportarse?
+##### 1.2.2.2.9 ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
+Uno de los desafíos que podría enfrentar FoodHeaven es la competencia con otras plataformas de delivery o servicios de suscripción alimentaria que ya están posicionadas en el mercado. Si la propuesta de valor o las funcionalidades no resultan lo suficientemente diferenciadoras, los usuarios podrían optar por alternativas más conocidas o accesibles.
+Además, podría presentarse el reto de fidelizar al usuario, especialmente si no percibe mejoras en su rutina alimentaria o si encuentra limitaciones en la variedad de opciones disponibles.
+Estos problemas se pueden abordar mediante:
+La mejora continua de la experiencia de usuario, asegurando una navegación intuitiva, rápida y sin fricciones.
+
+La ampliación constante de la red de proveedores verificados, para ofrecer mayor diversidad en los menús y adaptarse a distintos estilos de alimentación.
+
+- El fortalecimiento de las funcionalidades diferenciadoras, como el sistema de seguimiento de dietas, las recomendaciones automatizadas y la reserva de comidas especiales.
+- Con estas acciones, FoodHeaven podrá consolidar su propuesta en el mercado y posicionarse como una solución única, práctica y saludable. usuarios reciban sus comidas en los momentos más convenientes, ya sea en casa, en el trabajo o en cualquier otro lugar. Esta funcionalidad reduce la incertidumbre y mejora la experiencia logística, adaptándose a rutinas diversas.
+- Seguimiento de dietas y contador de calorías: Brinda herramientas para monitorear objetivos nutricionales específicos, como pérdida de peso, mantenimiento o ganancia muscular. Esta característica ayuda a fomentar una alimentación más consciente y alineada con las metas personales de salud.
+- Sistema de reservas para comidas especiales: Ofrece a los usuarios la posibilidad de planificar con anticipación menús únicos para celebraciones, eventos o fechas importantes, asegurando una solución práctica sin comprometer la calidad ni la personalización.
+- Recomendaciones automatizadas: Un sistema inteligente que sugiere opciones alimenticias basadas en el historial del usuario, sus preferencias y sus metas. Esto agiliza la toma de decisiones y mejora la satisfacción del usuario al sentirse comprendido por la plataforma.
+- Red de proveedores verificados: Garantiza que los alimentos provengan de cocineros independientes o restaurantes que cumplen con estándares de calidad y confiabilidad. Esta red amplia y diversa enriquece la oferta del servicio y da confianza al consumidor.
+- Panel de control del usuario: Permite visualizar el historial de consumo, establecer metas alimenticias, y hacer seguimiento al progreso personal. Esta vista centralizada de la información promueve la constancia y el compromiso con una alimentación saludable.
+- Interfaz web intuitiva y multiplataforma: Diseñada para funcionar fluidamente en celulares, tablets y computadoras, facilita el acceso desde cualquier lugar y en cualquier momento. Esta característica mejora la accesibilidad y promueve el uso frecuente de la plataforma.
+
+##### 1.2.2.2.10 ¿Cómo debe verse nuestro producto y cómo debe comportarse?
 - **Interfaz de usuario moderna y amigable**: La plataforma de FoodHeaven cuenta con un diseño limpio, visualmente atractivo y fácil de usar, que transmite confianza y bienestar. La información está organizada de forma clara para que los usuarios puedan planificar sus comidas, gestionar pedidos y monitorear su alimentación sin complicaciones, incluso si no tienen experiencia previa con plataformas digitales.
 - **Rápido y receptivo**: Todas las acciones dentro de la plataforma —como seleccionar planes de comida, modificar horarios de entrega o hacer reservas especiales— se procesan de manera ágil, permitiendo una experiencia fluida sin demoras. La plataforma responde en tiempo real para mantener la eficiencia que los usuarios con rutinas ocupadas necesitan.
 - **Confiable y estable**: FoodHeaven debe garantizar una alta disponibilidad y funcionamiento continuo. Al tratarse de una herramienta de planificación alimentaria diaria, es crucial que los usuarios puedan acceder a sus funcionalidades sin interrupciones o errores técnicos que comprometan la experiencia o la entrega de sus comidas.
 - **Segura y protegida**: FoodHeaven implementa protocolos robustos de seguridad para resguardar la información personal y los datos nutricionales de sus usuarios. Esto incluye autenticación segura, cifrado de datos sensibles y monitoreo constante de la plataforma para prevenir accesos no autorizados o vulnerabilidades.
 
-## Lean UX Hypothesis Statements
+#### 1.2.2.3 Lean UX Hypothesis Statements
 
 1. **Planes de comida personalizados**
    Creemos que, al facilitar el acceso a planes de comida personalizados a través de nuestra aplicación web FoodHeaven, ayudaremos a nuestros usuarios a organizar mejor su alimentación diaria y promoveremos hábitos alimenticios más saludables en personas con rutinas ocupadas.
@@ -326,7 +334,7 @@ La aplicación permite seleccionar planes de comida, reservar platos especiales,
    **Indicador de éxito**: Sabremos que hemos tenido éxito cuando el 70% de los usuarios activos acceda a la plataforma desde distintos dispositivos y logremos una tasa de retención mensual superior al 65%.
 
 
-## Lean UX Canvas
+#### 1.2.2.4 Lean UX Canvas
 
 | **Business Problem**       | **Business Question**      | **Solutions**              |
 |----------------------------|----------------------------|----------------------------|
@@ -336,7 +344,7 @@ La aplicación permite seleccionar planes de comida, reservar platos especiales,
 | **Hypothesis**             | **What’s the most important thing we need to learn first?** | **What’s the least amount of work we need to do to get there?** |
 | 1. Creemos que, al facilitar el acceso a planes de comida personalizados mediante FoodHeaven, ayudaremos a los usuarios a organizar mejor su alimentación diaria y promoveremos hábitos más saludables. Sabremos que hemos tenido éxito cuando veamos un aumento del 60% en usuarios que completan una semana de planificación continua. <br> 2. Creemos que, al ofrecer recomendaciones automatizadas según hábitos alimenticios, historial y objetivos, mejoraremos la experiencia del usuario y su constancia dentro de la plataforma. Sabremos que hemos tenido éxito cuando al menos el 80% de los usuarios interactúe con las sugerencias personalizadas. <br> 3. Creemos que, al diseñar una aplicación web accesible, funcional y multiplataforma, promoveremos una adopción inclusiva y constante. Sabremos que hemos tenido éxito cuando el 70% de los usuarios activos acceda desde diferentes dispositivos y mantenga su actividad semanal. | Debemos entender cómo los usuarios planean sus comidas actualmente y qué barreras enfrentan al intentar mantener una dieta equilibrada. También necesitamos identificar si valoran realmente la personalización, el seguimiento nutricional y las reservas especiales, y cómo perciben la utilidad de centralizar todas estas funciones en una sola plataforma. | 1. Implementar un sistema básico de planes personalizados y recomendaciones. <br> 2. Configurar métricas para medir el uso del sistema de planificación y el nivel de interacción con las recomendaciones. <br> 3. Realizar pruebas con un grupo reducido de usuarios para validar si las funcionalidades actuales cubren sus necesidades y motivaciones. <br> 4. Aplicar encuestas y entrevistas rápidas para saber qué funciones consideran más útiles y si FoodHeaven realmente mejora su alimentación y organización. |
 
-## Segmentos Objetivos
+## 1.3 Segmentos Objetivos
 
 ### Segmento objetivo 1: Profesionales jóvenes con rutinas exigentes
 
@@ -370,10 +378,10 @@ La aplicación permite seleccionar planes de comida, reservar platos especiales,
 -Estilo de vida: Profesionales, padres de familia o adultos independientes que valoran el equilibrio entre comodidad y salud. Tienen interés en opciones prácticas para resolver sus comidas sin sacrificar calidad ni nutrición.
 -Actitudes: Son conscientes de la importancia de una buena alimentación, pero no siempre tienen el tiempo o los conocimientos para llevarla a cabo. Están abiertos a soluciones digitales que simplifiquen su día a día y mejoren su bienestar general.
 
-# Chapter 2: Requirements Elicitation & Analysis
+# Capítulo 2: Requirements Elicitation & Analysis
 
-## Competidores
-### Analisis Competitivo
+## 2.1 Competidores
+### 2.1.1 Analisis Competitivo
 
 ## Competitive Analysis Landscape
 ### ¿Por qué llevar a cabo este análisis?
@@ -455,9 +463,9 @@ Este análisis es fundamental ya que nos informa sobre el contexto de la compete
 - **Táctica:**  
   Implementar canales de soporte en tiempo real, seguimiento automatizado por nutrición y encuestas de satisfacción periódicas.
 
-## Competidores
+## 2.2 Entrevistas
 
-### Diseño de Entrevistas
+### 2.2.1 Diseño de Entrevistas
 
 | Segmento de Usuario                                         | Pregunta Nº | Pregunta                                                                                                                                         |
 |-------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -474,7 +482,7 @@ Este análisis es fundamental ya que nos informa sobre el contexto de la compete
 |                                                             | 5           | ¿Has probado algún servicio que te facilite el tema de las comidas?                                                                             |
 |                                                             | 6           | ¿Usarías una app como FoodHeaven, que te ofrece comidas variadas y programadas según tus preferencias, sin tener que preocuparte por organizar todo tú? |
 
-### Registro de entrevistas
+### 2.2.2 Registro de entrevistas
 
 #### Segmento objetivo #1: Profesionales jóvenes con rutinas exigentes
 
@@ -980,7 +988,7 @@ Las necesidades identificadas en los segmentos objetivo para la aplicación Food
                                |
 
 
-### Estrategias y tácticas frente a competidores
+### 2.1.2 Estrategias y tácticas frente a competidores
 
 #### 1. Diferenciación a través de Personalización Inteligente
 
@@ -1037,9 +1045,9 @@ Las necesidades identificadas en los segmentos objetivo para la aplicación Food
 - **Táctica:**  
   Implementar canales de soporte en tiempo real, seguimiento automatizado por nutrición y encuestas de satisfacción periódicas.
 
-## Competidores
+## 2.2 Entrevistas
 
-### Diseño de Entrevistas
+### 2.2.1 Diseño de Entrevistas
 
 | Segmento de Usuario                                         | Pregunta Nº | Pregunta                                                                                                                                         |
 |-------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1056,9 +1064,117 @@ Las necesidades identificadas en los segmentos objetivo para la aplicación Food
 |                                                             | 5           | ¿Has probado algún servicio que te facilite el tema de las comidas?                                                                             |
 |                                                             | 6           | ¿Usarías una app como FoodHeaven, que te ofrece comidas variadas y programadas según tus preferencias, sin tener que preocuparte por organizar todo tú? |
 
-### Registro de entrevistas
+### 2.2.2 Registro de entrevistas
+Segmento objetivo #1: Profesionales jóvenes con rutinas exigentes
 
-### Análisis de entrevistas
+Nombre: Nadia Concha
+Ocupación: Docente de Ballet
+Edad: 26
+Distrito: Bellavista, Callao 
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311207_upc_edu_pe/ES8V6tt-XbFJmP4HwCKZ0WYBr6da7raOfb7o44oyqI7fNQ?e=NRKOqH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+En la entrevista, se conversó con Nadia Concha, docente y bailarina profesional con una agenda exigente que incluye clases y ensayos diarios. Se le presenta Food Heaven, una aplicación web que permite planificar comidas semanales de forma práctica y personalizada.
+Nadia comenta que le resulta complicado organizar sus comidas debido a su rutina, y muchas veces recurre a menús comprados o soluciones rápidas como atún y galletas. Resalta que una buena alimentación es clave para su rendimiento físico, y que además de las comidas principales, necesita snacks para mantener su energía durante el día.
+Actualmente, maneja sus comidas pidiendo menú a una conocida del mercado, aunque eso también presenta demoras e inconvenientes. Le interesa una opción que le permita planificar sus comidas de forma sencilla y adaptada a su dieta, ya que busca opciones más saludables recomendadas por su nutricionista.
+Aunque no ha usado antes apps relacionadas con alimentación, considera que Food-Heaven sería una herramienta muy útil para personas con rutinas fijas como la suya. Destaca que sería ideal para profesionales que deben tener sus tiempos de comida organizados y valoró la propuesta como innovadora y necesaria.
+
+Nombre: Ariana Rodriguez
+Ocupación: Ingeniera Industrial
+Edad: 26
+Distrito: La Perla, Callao 
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311207_upc_edu_pe/EdM83YX86gBHgOVHYrIQBBwB_fSGrUW7CJVMhA8UCwE61g?e=ZkFg0W&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+En esta entrevista, Santiago conversa con Mariana Rodríguez, egresada de Ingeniería Industrial que trabaja como asistente de inteligencia de negocios en el puerto del Callao. Mariana menciona que organizar sus comidas es muy complicado, ya que no sabe cocinar y su jornada laboral, de 8 a 5, le deja poco tiempo para preparar o planificar alimentos. Suele comer en el comedor del trabajo, pero muchas veces no encuentra opciones disponibles por llegar tarde.
+Durante la semana depende del comedor del trabajo, y los fines de semana come en casa de su madre o abuela. Reconoce que le gustaría una opción que le ayude a planificar sus comidas, especialmente ahora que está retomando el ejercicio y tiene menos tiempo libre. Le interesa reducir el estrés que le genera no saber qué va a comer y quiere asegurarse de llevar una alimentación adecuada.
+Aunque ha usado apps de delivery, no ha utilizado ninguna enfocada en comidas saludables o personalizadas. Tras conocer Food Haven, se mostró entusiasta por probar la plataforma, valorando especialmente el control que ofrece sobre lo que se consume, la variedad de opciones, y la posibilidad de ahorrar tiempo sin dejar de alimentarse bien.
+
+
+
+
+
+Nombre: Giuliano Guzmán
+Ocupación: Ingeniera Ambiental
+Edad: 22
+Distrito: SanMiguel 
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311207_upc_edu_pe/Ecu_NcjpgBdOqqt4x5lLCZIBcHTNwwMc4WHe1p7rcvLKeQ?e=TsfXfN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Giuliano Guzmán es un joven estudiante de Ingeniería Ambiental en la Universidad Nacional Mayor de San Marcos, que también trabaja como asistente en un chifa y asiste regularmente al gimnasio. Su rutina diaria es bastante exigente, lo que le dificulta organizar adecuadamente sus comidas entre el trabajo, el estudio y el entrenamiento.
+Por lo general, solo puede desayunar bien, mientras que el almuerzo y la cena suelen ser desordenados o improvisados. Giuliano considera que tener las comidas resueltas durante el día sería muy beneficioso, especialmente para complementar su actividad física y mejorar su bienestar general.
+Al conocer la aplicación web FoodHaven, que organiza comidas semanales de forma práctica conectando a usuarios con cocineros y restaurantes, muestra gran interés en usarla. Aunque nunca ha utilizado una app de este tipo, afirma que le sería muy útil si le ofrece variedad, comodidad y se ajusta a su rutina diaria.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Segmento objetivo #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo
+Nombre: Dylan Campos
+Ocupación: Estudiante 
+Edad: 20
+Distrito: Cercado de Lima, Lima 
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311207_upc_edu_pe/ESV8kH0wICxFuWtmq2vqFaMBcVZPxnDiuZ71ZzE7L5ATcA?e=iW6GOw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+En la entrevista, Santiago conversa con Dylan Campos, estudiante de Derecho con una agenda ocupada por clases y entrenamiento diario. Se le presenta FoodHeaven, una aplicación web que organiza comidas semanales de forma práctica, conectando a usuarios con cocineros y restaurantes.
+Dylan comenta que le cuesta organizar sus comidas por falta de tiempo y actualmente recurren a suplementos y comidas rápidas. Señala que mejorar su alimentación es importante, pero no tiene los medios para planificar adecuadamente.
+Considera que FoodHeaven sería muy útil para su estilo de vida. Aunque desconfía de apps similares, afirma que usaría esta si demuestra ser confiable y de calidad, ya que le facilita mantener una dieta adecuada sin perder tiempo.
+
+
+Nombre: Jorge Ocrospoma
+Ocupación: Estudiante 
+Edad: 23
+Distrito: San Isidro, Lima 
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311207_upc_edu_pe/EVf3S7SsRCpLog_LzabHiq4B5L887qgb9uscG18Bw9wEog?e=telnhF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+En la entrevista, Santiago conversa con Jorge Ocrospoma, estudiante universitario que también trabaja en la empresa familiar, lo que le deja muy poco tiempo libre. Se le presenta FoodHeaven, una aplicación web que organiza comidas semanales de forma práctica, conectando a usuarios con cocineros y restaurantes.
+Jorge comenta que le cuesta mucho organizar sus comidas debido a su rutina intensa. Suele improvisar, comer en la calle o pedir delivery, aunque reconoce que esto no es saludable ni sostenible. Le preocupa su alimentación porque sabe que influye directamente en su rendimiento académico y laboral.
+Considera que FoodHeaven sería ideal para su estilo de vida, ya que busca una solución práctica, saludable y adaptada a sus horarios. Nunca ha usado una app enfocada en alimentación saludable, pero afirma que sin duda usaría esta si le ofrece variedad, facilidad y se ajusta a sus preferencias y ritmo diario.	
+
+
+
+
+Nombre: Máximo Concha
+Ocupación: Trabajador
+Edad: 23
+Distrito: Cercado de Lima, Lima 
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311207_upc_edu_pe/EeGx_HhjsmpEjGQYKbnDJQkBLOPZWPxwsDBEHc_n77s_tQ?e=TdDbZm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+En la entrevista, Santiago presenta a Máximo Concha, un joven que estudia inglés, trabaja medio tiempo en una librería y asiste al gimnasio, lo que le deja poco tiempo para organizar sus comidas. Máximo comenta que su rutina diaria es muy exigente y que, debido a los traslados y la falta de tiempo, suele almorzar en el trabajo, aunque no le agrada hacerlo. Además, sufre de lenta digestión, lo que dificulta aún más su alimentación en horarios adecuados.
+Aunque intenta cuidar su dieta por su actividad física, su presupuesto limitado y los tiempos de espera en restaurantes complican su rutina. Máximo ya había probado una app de alimentación, pero la abandonó por su exceso de anuncios y porque solo mostraba estadísticas nutricionales sin ofrecer soluciones prácticas.
+Al conocer FoodHeaven, le parece una opción muy útil, especialmente por la entrega programada y la posibilidad de elegir comidas saludables para toda la semana. Cree que la plataforma le ayudaría a ahorrar tiempo y mejorar su alimentación. También sugiere ofrecer un periodo gratuito inicial, como incentivo para probar el servicio. En resumen, ve en FoodHeaven una herramienta que se adapta bien a su estilo de vida ocupado.
+
+
+### 2.2.3 Análisis de entrevistas
+**Segmento #1: Profesionales jóvenes con rutinas exigentes**
+**Hallazgos:**
+- Los entrevistados comparten una rutina diaria intensa y estructurada, lo que les dificulta mantener una alimentación adecuada. Sienten que improvisar sus comidas afecta su energía, rendimiento laboral y físico.
+- La mayoría no utiliza actualmente plataformas digitales relacionadas con comida saludable o planificación alimentaria, pero muestran una alta receptividad hacia soluciones tecnológicas que se adapten a sus horarios.
+- Valoran especialmente la posibilidad de contar con opciones personalizadas y organizadas, así como la idea de contar con un sistema que facilite la selección de platos saludables sin invertir tiempo adicional.
+- La falta de tiempo y la ausencia de hábitos de cocina impulsan a este grupo a depender de menús improvisados o pedidos informales, lo cual no siempre les garantiza calidad ni eficiencia.
+- Muestran interés en un servicio que combine practicidad, alimentación balanceada y entregas programadas, y que también contemple snacks o complementos según su estilo de vida activo.
+**Conclusiones:**
+Los jóvenes profesionales entrevistados evidencian una necesidad urgente de soluciones prácticas que les permitan organizar su alimentación diaria sin frenar su productividad. Este segmento tiene una actitud abierta hacia el uso de herramientas digitales si estas les permiten mantener una dieta saludable de manera sencilla, rápida y compatible con sus tiempos.
+FoodHeaven tiene el potencial de convertirse en un recurso esencial para este grupo si enfatiza su facilidad de uso, la variedad de opciones saludables y la posibilidad de personalizar la experiencia según la rutina de cada usuario. La propuesta de valor se ve fortalecida al incluir entregas programadas y menús flexibles que les ahorren tiempo sin comprometer la calidad de su alimentación.
+**Segmento objetivo #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo**
+**Hallazgos:**
+- Este grupo muestra una fuerte intención de mejorar su alimentación, pero sus rutinas de estudio, trabajo y ejercicio dificultan una organización adecuada de sus comidas.
+- La mayoría opta por soluciones rápidas, como comida en la calle o delivery informal, lo que termina afectando sus hábitos y bienestar general.
+- Se valora positivamente la posibilidad de recibir comidas planificadas con anticipación y entregadas directamente, como forma de evitar pérdidas de tiempo y descuidos alimenticios.
+- Existe cierto escepticismo hacia apps de comida, especialmente si su experiencia pasada ha sido negativa por exceso de publicidad, falta de soluciones reales o poca personalización.
+- Las entrevistas reflejan interés por una interfaz amigable y funcional, con opciones claras, recomendaciones útiles y formatos de uso sencillos.
+**Conclusiones:** 
+Los usuarios de este segmento buscan una solución concreta y confiable que les permita ahorrar tiempo y, al mismo tiempo, mejorar su calidad de alimentación. Aunque no todos tienen experiencia con apps similares, están dispuestos a probar plataformas que realmente aporten valor a su rutina y que les den control sobre lo que consumen.
+FoodHeaven puede posicionarse estratégicamente en este segmento si ofrece una experiencia libre de fricciones, opciones saludables accesibles, y una comunicación clara que construya confianza desde el primer contacto. El enfoque debe estar en la eficiencia, personalización y facilidad de uso, con incentivos iniciales (como periodos de prueba) que motiven a explorar la plataforma.
 
 
 ## 2.3 Needfinding
@@ -1084,25 +1200,25 @@ Las necesidades identificadas en los segmentos objetivo para la aplicación Food
 
 ### Segmento #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo
 
-- **Optimización del uso energético**:  
-  Plataforma que facilite la monitorización avanzada del consumo de energía para grandes volúmenes, ayudando a identificar áreas de mejora y optimización.
+- **Mejora en hábitos alimenticios**:  
+Buscan soluciones que les ayuden a comer de manera más saludable, con opciones balanceadas y guiadas que reduzcan la improvisación y el consumo de comida rápida.
 
-- **Reducción de costos**:  
-  Herramientas para analizar y gestionar el consumo energético con el objetivo de reducir costos operativos y mejorar la eficiencia.
+- **Ahorro de tiempo en planificación**:  
+Desean evitar el tiempo que toma organizar menús semanales, hacer listas de compras o cocinar diariamente.
 
-- **Gestión de sostenibilidad**:  
-  Funcionalidades que ayuden a las empresas a cumplir con sus objetivos de sostenibilidad a largo plazo, mitigando la volatilidad de los costos energéticos.
+- **Simplicidad y comodidad**:  
+Valoran una experiencia fácil desde el registro hasta la recepción de sus platos, sin procesos complicados o decisiones constantes.
 
-- **Implementación de tecnologías avanzadas**:  
-  Soluciones tecnológicas para una gestión más efectiva y detallada del consumo energético, adaptadas a las necesidades de grandes corporaciones y sectores industriales.
+- **Educación nutricional ligera**:  
+Aprecian recomendaciones que les enseñen de forma sutil y no invasiva a elegir mejor lo que consumen.
 
-- **Alertas y notificaciones**:  
-  Sistema de alertas para gestionar posibles sobreconsumos y oportunidades de optimización, asegurando una operación continua y eficiente.
+- **Costos controlados y transparentes**:  
+Buscan servicios que les permitan planificar sus gastos en alimentación, sin sorpresas ni cobros ocultos.
 
-- **Seguridad operativa**:  
-  Funcionalidades que permitan establecer alertas automáticas en caso de anomalías, garantizando la seguridad del entorno operativo y permitiendo acciones rápidas para corregir problemas antes de que se conviertan en incidentes graves.
+- **Motivación para mantener constancia**:  
+Necesitan herramientas que les ayuden a sostener su progreso y crear un hábito a largo plazo (como seguimiento visual, recordatorios o logros).
 
-### User Persona
+### 2.3.1 User Persona
 
 **Segmento #1: Profesionales jóvenes con rutinas exigentes**
 <p align="left">
@@ -1114,7 +1230,7 @@ Las necesidades identificadas en los segmentos objetivo para la aplicación Food
   <img src="Images/userpersona2.PNG" alt="UserPersona2" width="500">
 </p>
 
-### User Task Matrix
+### 2.3.2 User Task Matrix
 
 ### Ernesto Rodas
 
@@ -1128,7 +1244,7 @@ Las necesidades identificadas en los segmentos objetivo para la aplicación Food
   <img src="Images/usertask2.PNG" alt="usertask2" width="500">
 </p>
 
-### User Journey Mapping
+### 2.3.3  User Journey Mapping
 
 **Segmento #1: Profesionales jóvenes con rutinas exigentes**
 
@@ -1142,7 +1258,7 @@ Las necesidades identificadas en los segmentos objetivo para la aplicación Food
   <img src="Images/userjourney2.PNG" alt="userjourney2" width="500">
 </p>
 
-### Empathy Mapping
+### 2.3.4 Empathy Mapping
 
 **Segmento #1: Profesionales jóvenes con rutinas exigentes**
 
@@ -1156,7 +1272,7 @@ Las necesidades identificadas en los segmentos objetivo para la aplicación Food
   <img src="Images/empathy2.PNG" alt="empathy2" width="500">
 </p>
 
-### As-is Scenario Mapping
+### 2.3.5 As-is Scenario Mapping
 
 **Segmento #1: Profesionales jóvenes con rutinas exigentes**
 
@@ -1174,7 +1290,7 @@ Las necesidades identificadas en los segmentos objetivo para la aplicación Food
 | **Thinking**   | - “Planificar lo que voy a comer me toma más tiempo del que tengo.”<br>- “No sé si lo que como realmente se ajusta a mis objetivos.”<br>- “Necesito una forma más simple de organizar mis comidas.” | - “Mis hábitos alimenticios no están siendo tan buenos como podrían.”<br>- “Como lo primero que encuentro sin pensar si es bueno para mí.”<br>- “Tal vez una herramienta me ayudaría a mejorar mi alimentación.” | - “Estoy intentando mejorar, pero no sé si voy por buen camino.”<br>- “Las soluciones online no se ajustan a mi ritmo de vida.”<br>- “Quisiera una plataforma que me diga qué elegir y cuándo.”<br>- “Si esto se automatiza, puedo enfocarme en otras cosas sin sacrificar mi salud.” |
 | **Feeling**    | - Frustración por tener que pensar cada día qué comer.<br>- Alivio ocasional cuando encuentra opciones que parecen adecuadas.<br>- Culpa por elegir comida poco saludable por falta de tiempo. | - Inseguridad sobre la calidad nutricional de sus decisiones.<br>- Ansiedad por no cumplir sus metas alimentarias.<br>- Frustración por no ver resultados visibles. | - Curiosidad por soluciones estructuradas.<br>- Esperanza al probar nuevas herramientas o recomendaciones.<br>- Desánimo cuando no logra constancia.<br>- Nerviosismo por depender de sistemas que no sabe si podrá sostener.<br>- Alivio al ver pequeñas
 
-## Ubiquitous Language
+## 2.4 Ubiquitous Language
 
 - **User (Usuario)**: Persona que utiliza la plataforma para organizar y personalizar sus comidas semanales. Puede suscribirse a planes y ajustar sus preferencias alimentarias.
 
@@ -1218,9 +1334,9 @@ Las necesidades identificadas en los segmentos objetivo para la aplicación Food
 | **Thinking**   | - “Ahora puedo organizar mis comidas en minutos y saber que estoy cumpliendo mis metas.”<br>- “Esta app me ahorra tiempo y me ayuda a comer mejor sin pensarlo tanto.”<br>- “Puedo planificar sin tener que buscar recetas por todos lados.” | - “Me gusta ver cómo mis hábitos están mejorando poco a poco.”<br>- “Puedo detectar fácilmente cuándo me desvío de mis objetivos.”<br>- “La app me da claridad sobre lo que debo cambiar y por qué.” | - “Las recomendaciones que me ofrece la app me ayudan a mantenerme motivado.”<br>- “Siento que con estos ajustes puedo lograr una alimentación más estable y balanceada.”<br>- “La plataforma me ofrece justo lo que necesito, sin abrumarme con información innecesaria.” |
 | **Feeling**    | - Se siente aliviado al no tener que preocuparse cada día por decidir qué comer.<br>- Siente seguridad al saber que las opciones están adaptadas a sus objetivos.<br>- Siente gratitud por tener una herramienta que le permite ahorrar tiempo y alimentarse bien. | - Se siente motivado al visualizar su progreso y entender cómo mejorar.<br>- Se siente satisfecho al ver que está desarrollando mejores hábitos.<br>- Siente tranquilidad al contar con un sistema claro y constante. | - Se siente esperanzado al implementar cambios sostenibles sin esfuerzo.<br>- Siente confianza en las decisiones que toma con ayuda de la app.<br>- Siente orgullo al notar que su alimentación mejora de forma constante y realista. |
 
-## User Stories
+## 3.2 User Stories
 
-### Epic
+### 3.2.1 Epics
 
 ### EP01 - Experiencia de navegación en la landing page de FoodHeaven
 **Descripción:**  
@@ -1304,6 +1420,8 @@ Como usuario, quiero gestionar mi suscripción a FoodHeaven (selección de plan,
 | US32              | Cambio de plan de suscripción           |
 | US33              | Cancelación de suscripción              |
 
+### 3.2.2 User Stories
+
 | ID Épica | Épica                          | ID Historia de Usuario | Título Historia de Usuario                    | Descripción HU                                                                                   | Criterios de Aceptación                                                                                                                                                                                                                                                                                      |
 |----------|--------------------------------|-------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | EP01     | Experiencia de navegación en la landing page de FoodHeaven | US01                    | Presentación de FoodHeaven                | Como visitante, quiero ver una presentación clara y atractiva de la propuesta de FoodHeaven al ingresar, para entender rápidamente el propósito del servicio. | **Escenario 1:** Eslogan destacado visible: Dado que el usuario ingresa a la landing page, cuando carga la sección de bienvenida, entonces debe visualizar un eslogan atractivo en texto grande y centrado. <br> **Escenario 2:** Descripción del servicio: Dado que el visitante observa la sección inicial, cuando revisa el contenido descriptivo, entonces debe encontrar un texto corto explicando el propósito de FoodHeaven. <br> **Escenario 3:** Botón de registro visible: Dado que el usuario revisa la presentación inicial, cuando observa los elementos interactivos, entonces debe encontrar un botón “Registrate” visible que lo lleve a la página de registro. |
@@ -1341,13 +1459,13 @@ Como usuario, quiero gestionar mi suscripción a FoodHeaven (selección de plan,
 | EP07     | Gestión de Suscripción y Pagos | US33 | Cancelación o pausa de suscripción | Como usuario, quiero poder cancelar o pausar mi suscripción, para detener temporal o permanentemente el servicio según mi situación. | **Escenario 1:** Solicitud de cancelación: Dado que el usuario desea suspender su suscripción, cuando accede a la configuración, entonces debe ver las opciones de cancelación. <br> **Escenario 2:** Confirmación obligatoria: Dado que selecciona una de las opciones, cuando confirma su decisión, entonces debe mostrarse un resumen de las consecuencias y confirmación final. <br> **Escenario 3:** Reversibilidad: Dado que el usuario desea reactivar el servicio, cuando accede nuevamente, entonces debe tener la opción de reactivar su suscripción sin perder sus datos. |
 
 
-## Impact Mapping
+## 3.3. Impact Mapping
 
 <p align="left">
   <img src="Images/impact.PNG" alt="impact" width="500">
 </p>
 
-## Product Backlog
+## 3.4. Product Backlog
 
 | **Orden** | **User Story ID** | **Título**                                              | **Descripción**                                                                                                           | **Prioridad** | **Story Points (1/2/3/5/8)** |
 |-----------|-------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------|----------------------------|
@@ -1397,17 +1515,17 @@ Como usuario, quiero gestionar mi suscripción a FoodHeaven (selección de plan,
 
 # Capítulo IV: Product Design
 
-## Style Guidelines
+## 4.1. Style Guidelines
 
 FoodHeaven es una plataforma web diseñada para transformar la manera en que las personas organizan su alimentación diaria, especialmente aquellas con rutinas exigentes o poco tiempo para cocinar. A través de un sistema de suscripción flexible, permite programar y recibir comidas semanales de forma sencilla, práctica y personalizada. Con herramientas digitales intuitivas, FoodHeaven facilita la planificación de la semana, ayudando a crear una rutina alimenticia ordenada, sin complicaciones y adaptada al estilo de vida moderno.
 
 Esta sección contiene una guía visual estructurada que reúne todos los elementos de diseño aplicados en la plataforma FoodHeaven. Desde tipografías y paletas de colores hasta componentes gráficos clave, se organiza todo en dos bloques: General Style Guidelines y Web Style Guidelines, para garantizar una identidad visual coherente y funcional. Gracias a esta consistencia, se ofrece una experiencia de usuario clara, accesible y unificada, tanto en la versión web como en dispositivos móviles, reforzando el propósito de la plataforma: simplificar la alimentación diaria de forma moderna y eficiente.
 
-### General Style Guidelines
+### 4.1.1. General Style Guidelines
 
 El branding de FoodHeaven constituye la base de su identidad visual y ha sido pensado para transmitir sus valores esenciales: organización alimentaria, accesibilidad y bienestar a medida. Con una estética contemporánea, amigable y cercana, la marca busca representar la experiencia de una alimentación gestionada digitalmente, generando una imagen visual que inspire confianza y cercanía. Su logotipo, colores y tipografía reflejan orden, energía y simplicidad, cualidades que refuerzan la facilidad con la que los usuarios pueden planificar y recibir sus comidas. Toda la línea visual está en sintonía con el enfoque práctico e inclusivo de la plataforma, permitiendo que personas con diferentes estilos de vida se sientan parte de una comunidad que valora el equilibrio y la comodidad en su alimentación diaria.
 
-#### Tipografía
+#### 4.1.1.1 Tipografía
 
 La tipografía de FoodHeaven cumple una función clave en reflejar su identidad, aportando una sensación de calidez, simplicidad y cercanía en la interacción con los usuarios. Se optó por 2 fuentes que garantizarán una experiencia de lectura clara y agradable en todo tipo de dispositivos y formatos.
 
@@ -1421,7 +1539,7 @@ Además, la neutralidad de Helvetica permite que el mensaje de la marca se desta
   <img src="Images/imagen1.PNG" alt="imagen1" width="500">
 </p>
 
-#### Colores
+#### 4.1.1.2 Colores
 
 La paleta de colores de FoodHeaven ha sido cuidadosamente seleccionada para reflejar una estética natural, saludable y acogedora. Los tonos verdes y neutros promueven una sensación de calma, frescura y conexión con lo orgánico. A continuación, se describe cada color y su uso en la aplicación:
 
@@ -1441,7 +1559,7 @@ La paleta de colores de FoodHeaven ha sido cuidadosamente seleccionada para refl
   <img src="Images/imagen2.PNG" alt="imagen2" width="500">
 </p>
 
-#### Espaciado
+#### 4.1.1.3 Espaciado
 
 **Botones:**  
 Los botones principales de FoodHeaven, como “Iniciar sesión”, “Regístrate” y “Elegir plan”, utilizan un diseño con bordes redondeados (border-radius: 50px) y una tipografía clara en Poppins. Se ha definido un padding aproximado de 1rem vertical y 2rem horizontal (como se evidencia en `.signin-button`, `.login-button` y `.portada-button`), lo que garantiza una zona clickeable amplia, mejorando la accesibilidad táctil en dispositivos móviles y manteniendo la coherencia visual en todo el sitio. Además, los botones cuentan con efectos de hover que refuerzan la interactividad, cambiando de color a un tono verde más claro (`--second-color`).
@@ -1455,7 +1573,7 @@ Componentes clave como las tarjetas de servicios (`.servicio`) y tarjetas de pre
 **Espaciado entre secciones principales:**  
 Cada sección del sitio (por ejemplo, `#servicios`, `#precios`, `#contactanos`) aplica un padding vertical mínimo de 2rem y puede ampliarse hasta 6rem en vistas desktop, de acuerdo con las media queries utilizadas. Este espaciado proporciona una estructura ordenada y balanceada en todo el layout, contribuyendo a una experiencia de navegación más cómoda y estética tanto en dispositivos móviles como en pantallas grandes.
 
-#### Iconografía
+#### 4.1.1.4  Iconografía
 
 En FoodHeaven, los íconos cumplen un rol clave al facilitar la comprensión de las funciones dentro de la plataforma. Estos elementos gráficos, simples y visualmente intuitivos, permiten que los usuarios identifiquen con rapidez cada sección o acción, ya sea desde una computadora o un dispositivo móvil.
 
@@ -1465,7 +1583,7 @@ El uso de íconos no solo mejora la estética visual de la interfaz, sino que ta
   <img src="Images/iconografia.png" alt="imagen3" width="500">
 </p>
 
-#### Tono de Comunicación y Lenguaje Aplicado
+#### 4.1.1.5 Tono de Comunicación y Lenguaje Aplicado
 
 El tono de FoodHeaven es cercano, práctico y motivador, diseñado para generar una conexión de confianza con los usuarios que buscan mejorar su alimentación sin complicaciones. La plataforma acompaña a las personas en la organización de sus comidas diarias, facilitando la elección de planes alimentarios personalizados, el acceso a opciones saludables y la gestión eficiente del tiempo. Por ello, el tono se mantiene claro y positivo, transmitiendo sencillez, bienestar y compromiso con una experiencia alimentaria equilibrada.
 
@@ -1473,15 +1591,15 @@ En cuanto al lenguaje, se utiliza un estilo directo y comprensible, evitando tec
 
 Este enfoque comunicativo busca crear una experiencia simple, motivadora y funcional, alineada con los valores de FoodHeaven: simplificar la vida diaria, promover el bienestar personal y facilitar el acceso a una alimentación consciente y personalizada.
 
-### Web Style Guidelines
+### 4.1.2. Web Style Guidelines
 
 Para las Style Guidelines de la página web de FoodHeaven, hemos decidido mantener el uso exclusivo de la fuente **Poppins**, seleccionada por su diseño moderno, limpio y amigable para la lectura digital. Esta tipografía refleja perfectamente el espíritu de la plataforma: accesible, natural y enfocada en el bienestar.
 
 También hemos decidido mantener la paleta de colores, ya que se utiliza de forma coherente y estratégica para transmitir sensaciones de frescura, confianza y conexión con lo natural. Estos colores no solo aportan una estética armoniosa, sino que también ayudan a los usuarios a navegar de manera intuitiva por el sitio, reforzando visualmente las acciones clave.
 
-## Information Architecture
+## 4.2. Information Architecture
 
-### Organization Systems
+### 4.2.1. Organization Systems
 
 **Landing Page:**  
 
@@ -1492,11 +1610,11 @@ También hemos decidido mantener la paleta de colores, ya que se utiliza de form
 Este sistema de organización asegura una navegación intuitiva y lógica para los usuarios, permitiendo una experiencia fluida mientras interactúan con la plataforma.
 
 
-### Labeling Systems
+### 4.2.2. Labeling Systems
 
 La interfaz de FoodHeaven ha sido estructurada pensando en la simplicidad y la fluidez de navegación, brindando a los usuarios una experiencia ágil y sin fricciones. El objetivo es que cualquier persona pueda acceder rápidamente a la información o funcionalidad que necesita, sin distracciones ni pasos innecesarios. Para ello, se ha optado por un diseño limpio, organizado y con etiquetas breves pero claras, que guían la interacción de forma intuitiva. A continuación, se detalla el conjunto de etiquetas empleadas dentro de la plataforma y su propósito dentro de la estructura del sitio:
 
-### SEO Tags and Meta Tags
+### 4.2.3. SEO Tags and Meta Tags
 
 Las metaetiquetas (meta tags) son elementos fundamentales dentro de la estructura HTML, ya que permiten proporcionar metadatos sobre la página web que no son visibles para el usuario, pero que resultan cruciales para los navegadores y motores de búsqueda. Estas etiquetas ayudan a mejorar el posicionamiento (SEO) de la plataforma en los resultados de búsqueda, facilitan el análisis del contenido por rastreadores web y mejoran la accesibilidad general del sitio.
 A continuación, se detallan las principales metaetiquetas utilizadas en el proyecto FoodHeaven:
@@ -1517,18 +1635,18 @@ Especifica el equipo responsable de la creación del sitio web y protege los der
 <meta name="author" content="Equipo FoodHeaven">
 <meta name="copyright" content="© 2025 FoodHeaven - Todos los derechos reservados">
 
-### Searching Systems
+### 4.2.4. Searching Systems
 
 Dentro de la plataforma FoodHeaven, es clave organizar y presentar la información de forma clara y accesible, especialmente ante el volumen de datos que se generará conforme crezcan los usuarios y los pedidos. Por ello, se ha priorizado un sistema que permita mostrar de manera estructurada los distintos planes alimenticios, proveedores vinculados y preferencias de los usuarios. La interfaz está pensada para que los datos relevantes (como registros de comidas, historial de entregas o configuraciones de suscripción) sean fácilmente visualizados y entendidos. Esto permitirá una administración más eficiente del contenido y una experiencia más fluida para quienes gestionan la plataforma.
 
-#### Navigation Systems
+#### 4.2.5. Navigation Systems
 
 En la Landing Page de FoodHeaven, la navegación principal se encuentra distribuida en los menús superior e inferior. A través del sistema de etiquetas, los usuarios pueden desplazarse fácilmente hacia las diferentes secciones del sitio. En caso de no utilizar estos accesos directos, el contenido puede explorarse de forma descendente a lo largo de la página.
 Dentro de la plataforma, la experiencia de navegación ha sido pensada para ser intuitiva y secuencial. Los usuarios podrán avanzar por pasos definidos, desde la creación de cuenta hasta la configuración de sus preferencias y visualización de su plan semanal. Botones y llamadas a la acción facilitan cada interacción, como seleccionar un plan, confirmar pedidos o modificar su menú, asegurando un flujo claro y ordenado en el recorrido del usuario.
 
-## Landing Page UI Design
+## 4.3. Landing Page UI Design
 
-### Landing Page Wireframe
+### 4.3.1. Landing Page Wireframe
 
 <p align="left">
   <img src="Images/lpw1.PNG" alt="lpw1" width="500">
@@ -1537,7 +1655,7 @@ Dentro de la plataforma, la experiencia de navegación ha sido pensada para ser 
   <img src="Images/lpw2.PNG" alt="lpw2" width="500">
 </p>
 
-### Landing Page Mock-up
+### 4.3.2. Landing Page Mock-up
 
 <p align="left">
   <img src="Images/lpm1.PNG" alt="lpm1" width="500">
@@ -1549,23 +1667,23 @@ Dentro de la plataforma, la experiencia de navegación ha sido pensada para ser 
   <img src="Images/lpm3.PNG" alt="lpm3" width="500">
 </p>
 
-## Web Applications UX/UI Design
+## 4.4. Web Applications UX/UI Design
 
-### Web Applications Wireframes
+### 4.4.1. Web Applications Wireframes
 
-### Web Applications Wireflow Diagrams
+### 4.4.2 Web Applications Wireflow Diagrams
 
-### Web Applications Mock-ups
+### 4.4.3. Web Applications Mock-ups
 
-### Web Applications User Flow Diagrams
+### 4.4.4. Web Applications User Flow Diagrams
 
-## Web Applications Prototyping
+## 4.5. Web Applications Prototyping
 
-## Domain-Driven Software Architecture
+## 4.6. Domain-Driven Software Architecture
 
 El Domain Driven Design (DDD) busca lograr una comprensión común del dominio específico relacionado con el problema que se quiere resolver. Este enfoque facilita una mejor colaboración entre los desarrolladores y los especialistas en el tema, promoviendo una comunicación más efectiva. Más allá del uso de un lenguaje compartido, DDD incorpora una serie de patrones, metodologías y diagramas arquitectónicos que ayudan a alinear el desarrollo del software con las particularidades del dominio, fortaleciendo así una visión coherente y conjunta entre todos los involucrados.
 
-### Software Architecture Context Diagram
+### 4.6.1. Software Architecture Context Diagram
 
 #### System Context Diagram
 Representa los actores externos que interactúan con el sistema, así como sus relaciones principales con este. Permite visualizar el alcance general del sistema y su conexión con usuarios y sistemas externos.
@@ -1574,7 +1692,7 @@ Representa los actores externos que interactúan con el sistema, así como sus r
   <img src="Images/scd.PNG" alt="scd" width="500">
 </p>
 
-### Software Architecture Container Diagrams
+### 4.6.2. Software Architecture Container Diagrams
 
 #### Container Diagram
 Este diagrama muestra los contenedores principales del sistema, como aplicaciones web, bases de datos o servicios, y cómo se comunican entre sí. Es útil para identificar la distribución de responsabilidades y tecnologías involucradas.
@@ -1583,7 +1701,7 @@ Este diagrama muestra los contenedores principales del sistema, como aplicacione
   <img src="Images/cd.PNG" alt="cd" width="500">
 </p>
 
-### Software Architecture Components Diagrams
+### 4.6.3 Software Architecture Components Diagrams
 
 #### Log-in Bounded Context
 Componentes relacionados con la autenticación y gestión de usuarios. Incluye clases como `Usuario`, con funcionalidades como `registrarUsuario()` o `iniciarSesion()`.
@@ -1620,9 +1738,9 @@ Relaciona `MetodoPago` y `TipoMetodoPago`. Se encarga de registrar y procesar lo
   <img src="Images/pbc.PNG" alt="pbc" width="500">
 </p>
 
-## Software Object-Oriented Design
+## 4.7. Software Object-Oriented Design
 
-### Class Diagrams
+### 4.7.1. Class Diagrams
 
 El diseño orientado a objetos se basa en clases que encapsulan atributos y comportamientos relacionados al dominio. A continuación se presentan las clases del sistema agrupadas según su funcionalidad:
 
@@ -1630,7 +1748,7 @@ El diseño orientado a objetos se basa en clases que encapsulan atributos y comp
   <img src="Images/diagramac.PNG" alt="diagramac" width="500">
 </p>
 
-### Class Dictionary
+### 4.7.2. Class Dictionary
 
 #### Clase: Usuario
 
@@ -1840,11 +1958,11 @@ El diseño orientado a objetos se basa en clases que encapsulan atributos y comp
 ### Métodos:
 - `cancelarDetalleOrden()`
 
-## Database Design
+## 4.8. Database Design
 
 La base de datos de FoodHeaven ha sido diseñada bajo un enfoque relacional, con el objetivo de asegurar la integridad de los datos, trazabilidad de los pedidos, y eficiencia en la gestión de planes alimenticios personalizados. Cada tabla representa una entidad clave dentro del ecosistema del sistema, permitiendo una gestión integral tanto para los usuarios como para los proveedores de alimentos. La arquitectura considera aspectos fundamentales como métodos de pago, programación de entregas, planificación de comidas y categorización de alimentos.
 
-### Database Diagram
+### 4.8.1. Database Diagram
 
 #### Usuario
 
@@ -1944,9 +2062,9 @@ La base de datos de FoodHeaven ha sido diseñada bajo un enfoque relacional, con
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
-## Software Configuration Management
+## 5.1. Software Configuration Management
 
-### Software Development Environment Configuration
+### 5.1.1. Software Development Environment Configuration
 
 ### Requirements Management
 
@@ -1989,7 +2107,7 @@ Es una plataforma en la nube utilizada para almacenar y gestionar los repositori
 También se emplea como herramienta de documentación y gestión del proyecto, utilizando su funcionalidad de issues y wikis para registrar decisiones, avances y documentación técnica.  
 [https://github.com/](https://github.com/)
 
-### Source Code Management
+### 5.1.2. Source Code Management
 
 El equipo utiliza **Git** y **GitHub** para el control de versiones y la colaboración en los distintos productos.
 
@@ -2014,7 +2132,7 @@ El equipo utiliza **Git** y **GitHub** para el control de versiones y la colabor
   - `refactor`: mejoras internas sin cambios funcionales
   - `test`: añadir pruebas
 
-### Source Code Style Guide & Conventions
+### 5.1.3. Source Code Style Guide & Conventions
 
 #### HTML
 - **Cierre obligatorio de etiquetas**: `<p>Bienvenido a FoodHeaven</p>`
@@ -2035,7 +2153,7 @@ El equipo utiliza **Git** y **GitHub** para el control de versiones y la colabor
 
 Estas convenciones permiten que el desarrollo y mantenimiento de **FoodHeaven** se realice de forma eficiente, garantizando escalabilidad y facilidad de lectura para cualquier miembro del equipo.
 
-### Software Deployment Configuration
+### 5.1.4. Software Deployment Configuration
 
 La Landing Page de FoodHeaven es de facil acceso para el publico, presentamos aquí las formas para entrar a nuestra Landing Page: 
 **1. Ingreso al repositorio en GitHub:**
@@ -2063,3 +2181,144 @@ Una vez extraído, navega dentro de la carpeta del proyecto y abre el archivo in
 <p align="left">
   <img src="Images/verLanding.png" alt="basedatos" width="500">
 </p>
+
+## 5.2. Landing Page, Services & Applications Implementation.
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1.
+La reunión de planificación del sprint marca el inicio del mismo y establece qué se va a desarrollar y cómo se llevará a cabo. Su propósito es reunir al equipo para definir una meta específica (Sprint Goal), elegir las historias de usuario y dividirlas en tareas. Esta sesión permite que se distribuya el trabajo de manera organizada y se mantenga al grupo enfocado en ofrecer valor real al usuario final.
+A continuación se podrá apreciar la tabla del sprint planificado:
+| **Sprint #**                    | Sprint 1                                                                 |
+|--------------------------------|---------------------------------------------------------------------------|
+| **Sprint Planning Background** |                                                                           |
+| **Date**                       | 2025-04-10                                                                |
+| **Time**                       | 10:30 PM                                                                  |
+| **Location**                   | Reunión virtual                                                           |
+| **Prepared By**                | Santiago Cárdenas, Gustavo Román                                         |
+| **Attendees (to planning meeting)** | Santiago Cárdenas / Gustavo Román / Luis Rodríguez / Santiago Suárez / Ricardo Cárdenas / Paulo Quincho |
+| **Sprint n – 1 Review Summary** | A lo largo del Sprint, se implementaron doce historias de usuario centradas en la creación de la landing page, lo que permitió consolidar una primera impresión robusta de la plataforma. El equipo de desarrollo (integrado por Paulo Quincho, Luis Rodríguez, Gustavo Román y Santiago Cárdenas) resaltó que una adecuada estimación de Story Points y la definición precisa de las tareas contribuyeron a sostener un flujo de trabajo equilibrado y sostenido. Por su parte, el diseñador UX/UI (Santiago Suárez), enfatizó que el enfoque modular adoptado favoreció una organización visual coherente y flexible. Finalmente, el product owner (Ricardo Cárdenas) manifestó su conformidad con los avances logrados durante el Sprint. |
+| **Sprint n – 1 Retrospective Summary** | Durante el transcurso del Sprint, el equipo subrayó varios aspectos positivos, entre ellos la eficiente organización de las tareas, una adecuada estimación temporal basada en Story Points, y una comunicación fluida que facilitó la pronta resolución de obstáculos. Se destacó además la colaboración activa al momento de definir los criterios de aceptación, lo cual fortaleció la alineación del equipo. Como aspecto a mejorar, se reconoció la importancia de afinar la estimación de tiempos, especialmente en tareas relacionadas con el diseño visual, así como de optimizar las sesiones de revisión para enfocarse con mayor profundidad en los aprendizajes obtenidos y en la retroalimentación proporcionada por el product owner. |
+| **Sprint Goal & User Stories** |                                                                           |
+| **Sprint n Goal**              | Our focus is on delivering a functional and visually appealing landing page that presents FoodHeaven’s value proposition, facilitates intuitive access to all core sections, and enables account registration and login.<br><br>We believe it delivers clarity and trust to new visitors and helps convert them into users by clearly explaining what FoodHeaven offers and how to begin using the service.<br><br>This will be confirmed when users can navigate through sections like “Acerca de”, “Servicios” and “¿Cómo funciona?”, explore available plans, read user reviews, fill out the contact form, and access registration or login from any device. |
+| **Sprint n Velocity**          | 20                                                                        |
+| **Sum of Story Points**        | 20                                                                        |
+
+#### 5.2.1.2. Aspect Leaders and Collaborators.
+En esta sección, el equipo desarrolló una Leadership and Collaboration Matrix (LACX) adaptada al contexto de FoodHeaven, con el propósito de mejorar la claridad y eficiencia en la comunicación interna. Este artefacto asigna de forma explícita a una persona líder y a sus colaboradores por cada aspecto relevante del Sprint. Dichos aspectos representan áreas clave del alcance funcional trabajado en esta iteración, tales como secciones específicas de la landing page o funcionalidades principales. La sección incluye una introducción que describe los componentes priorizados durante el Sprint y cómo el LACX permite identificar con claridad las responsabilidades compartidas y los puntos de coordinación en el equipo.
+Se han definido los roles de líder (L) y colaborador (C) para los integrantes del grupo en cada aspecto definido del sprint
+Los aspectos que se han tenido en cuenta para este sprint son:
+Barra de navegación, portada y “acerca de”
+“Servicios” y “¿Cómo funciona?”
+“Precios” y “Reseñas”
+“Contacto” y pie de página
+Inicio de sesión y registro
+Revisión y mejoras generales, responsive
+
+| **Team Member (Last Name, First Name)**      | **GitHub Username** | **Top Navigation Bar, Hero Section, and "About"** | **"Services" and "How It Works"** | **"Pricing" and "Reviews"** | **"Contact" Section and Footer** | **Login and Registration Pages** | **Overall Review and Enhancements, Responsive Design** |
+|---------------------------------------------|---------------------|---------------------------------------------------|-----------------------------------|------------------------------|----------------------------------|-------------------------------|--------------------------------------------------------|
+| Quincho Gamarra, Paulo Percy                | Paulo02-pixel       | L                                                 | C                                 | C                            | C                                | C                             | C                                                      |
+| Cárdenas Concha, Santiago Iván              | Sack136             | C                                                 | L                                 | C                            | C                                | C                             | C                                                      |
+| Román Pajuelo, Luis Gustavo                 | Raizo400            | C                                                 | C                                 | C                            | C                                | L                             | C                                                      |
+| Suárez Romero, Santiago Manuel              | SDarXx              | C                                                 | C                                 | C                            | L                                | C                             | C                                                      |
+| Cárdenas Minaya, Ricardo Fernando           | Kratosllego         | C                                                 | C                                 | L                            | C                                | C                             | C                                                      |
+| Rodríguez Rodríguez, Luis Piero             | luissssrr           | C                                                 | C                                 | C                            | C                                | C                             | L                                                      |
+
+#### 5.2.1.3. Sprint Backlog 1.
+En este sprint se muestran los trabajos realizados para desplegar la primera versión de nuestro landing page.
+| **Sprint #** | Sprint #1 |
+|--------------|-----------|
+
+### User Story & Work-Item / Task
+
+| **User Story ID** | **User Story Title**                                         | **Work Item ID** | **Task Title**                         | **Task Description**                                                                 | **Estimation (Hours)** | **Assigned To**    | **Status** |
+|------------------|--------------------------------------------------------------|------------------|----------------------------------------|--------------------------------------------------------------------------------------|-------------------------|--------------------|------------|
+| US01             | Presentación de FoodHeaven                                   | WU01-1           | Diseño de portada                       | Desarrollar la sección visual de bienvenida con imagen, mensaje y botón.            | 2                       | Developer Team     | Done       |
+| US01             | Presentación de FoodHeaven                                   | WU01-2           | Estilización de portada                 | Aplicar estilos CSS a la portada y al botón de registro.                            | 2                       | Developer Team     | Done       |
+| US02             | Acceso a la sección “Acerca de” desde la landing page        | WU02-1           | Anclar navegación a sección 'Acerca de' | Habilitar navegación mediante ancla desde el menú.                                  | 2                       | Developer Team     | Done       |
+| US02             | Acceso a la sección “Acerca de” desde la landing page        | WU02-2           | Diseño de sección 'Acerca de'           | Diseñar el contenido e imagen representativa.                                       | 2                       | Developer Team     | Done       |
+| US03             | Acceso a la sección “Servicios” desde la landing page        | WU03-1           | Implementar sección 'Servicios'         | Agregar cards con íconos y descripciones.                                           | 2                       | Developer Team     | Done       |
+| US03             | Acceso a la sección “Servicios” desde la landing page        | WU03-2           | Conectar sección al menú                | Habilitar scroll automático desde el encabezado.                                    | 2                       | Developer Team     | Done       |
+| US04             | Acceso a la sección “¿Cómo funciona?” desde la landing page  | WU04-1           | Crear cards de pasos                    | Implementar las 6 etapas del proceso en formato tarjeta.                            | 2                       | Developer Team     | Done       |
+| US04             | Acceso a la sección “¿Cómo funciona?” desde la landing page  | WU04-2           | Diseño responsivo de sección            | Ajustar estilos para móviles y pantallas medianas.                                  | 2                       | Developer Team     | Done       |
+| US05             | Acceso a la sección “Precios” desde la landing page          | WU05-1           | Diseño de cards de planes               | Incluir los 4 planes con precios y beneficios.                                      | 2                       | Developer Team     | Done       |
+| US05             | Acceso a la sección “Precios” desde la landing page          | WU05-2           | Estilización responsiva                 | Ajustar visualmente las tarjetas para distintos dispositivos.                       | 2                       | Developer Team     | Done       |
+| US06             | Acceso a la sección “Reseñas” desde la landing page          | WU06-1           | Agregar cards de reseñas                | Mostrar 3 testimonios con imagen, nombre y profesión.                               | 2                       | Developer Team     | Done       |
+| US07             | Acceso a la sección “Contáctanos” desde la landing page      | WU07-1           | Formulario de contacto                  | Crear inputs de nombre, correo, número y botón de envío.                            | 2                       | Developer Team     | Done       |
+| US07             | Acceso a la sección “Contáctanos” desde la landing page      | WU07-2           | Mapa con ubicación                      | Insertar mapa de Google Maps con la dirección institucional.                        | 2                       | Developer Team     | Done       |
+| US08             | Navegación mediante encabezado visible                        | WU08-1           | Navbar fijo superior                    | Implementar barra de navegación fija con enlaces funcionales.                       | 2                       | Developer Team     | Done       |
+| US08             | Navegación mediante encabezado visible                        | WU08-2           | Menú hamburguesa responsive             | Agregar offcanvas en vistas pequeñas.                                               | 2                       | Developer Team     | Done       |
+| US09             | Formulario de registro e inicio de sesión                    | WU09-1           | Diseño de formulario de registro        | Crear inputs, repetir contraseña y enlace a login.                                  | 2                       | Developer Team     | Done       |
+| US09             | Formulario de registro e inicio de sesión                    | WU09-2           | Diseño de formulario de inicio          | Crear campos de email y password, con enlace de recuperación.                       | 2                       | Developer Team     | Done       |
+| US10             | Diseño atractivo de la landing page                          | WU10-1           | Estilos generales                       | Aplicar colores, tipografías y estructura visual general.                           | 2                       | Developer Team     | Done       |
+| US10             | Diseño atractivo de la landing page                          | WU10-2           | Revisión de íconos e imágenes           | Verificar que los elementos visuales estén correctos.                               | 2                       | Developer Team     | Done       |
+| US11             | Estructura clara de la landing page                          | WU11-1           | Estructura HTML semántica               | Asegurar uso correcto de secciones (section, nav, footer, etc).                    | 2                       | Developer Team     | Done       |
+| US12             | Elementos del pie de pagina                                  | WU12-1           | Diseño de footer                        | Agregar enlaces legales, soporte y redes sociales.                                  | 2                       | Developer Team     | Done       |
+
+#### 5.2.1.4. Development Evidence for Sprint Review.
+| **Repository**                                              | **Branch**     | **Commit Id** | **Commit Message**                                              | **Commit Message Body** | **Committed on (Date)** |
+|-------------------------------------------------------------|----------------|----------------|------------------------------------------------------------------|--------------------------|--------------------------|
+| Paulo02-pixel/1ASI0730-2510-4371-G03-FoodHaven/LandingPage  | feature/main   | 78f2c4e        | feat: Implementación de barra de navegación e inicio            | -                        | 18/04/2025               |
+| Raizo400/1ASI0730-2510-4371-G03-FoodHaven/LandingPage       | feature/main   | 1e7d93a        | feat: Secciones “Acerca de” y “Servicios”                       | -                        | 18/04/2025               |
+| SDarXx/1ASI0730-2510-4371-G03-FoodHaven/LandingPage         | feature/main   | 5b4a2d9        | feat: Secciones “¿Cómo Funciona?” y “Precios”                   | -                        | 20/04/2025               |
+| Kratosllego/1ASI0730-2510-4371-G03-FoodHaven/LandingPage    | feature/main   | 9bd621f        | feat: Secciones “Reseñas”, “Contáctanos” y Footer               | -                        | 20/04/2025               |
+| Sack136/1ASI0730-2510-4371-G03-FoodHaven/LandingPage        | feature/main   | 23f85ac        | feat: Página de inicio de sesión y registro                     | -                        | 22/04/2025               |
+| luissssrr/1ASI0730-2510-4371-G03-FoodHaven/LandingPage      | feature/main   | 6d2c918        | feat: Revisión general, responsive                              | -                        | 22/04/2025               |
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+Durante el Sprint 1, se desarrollaron 12 historias de usuario centradas en la construcción integral de la landing page de FoodHeaven, con especial atención en la navegación intuitiva, contenido visual atractivo y una estructura modular de secciones clave como “Acerca de”, “Servicios”, “¿Cómo funciona?”, “Precios”, “Reseñas”, “Contáctanos” y el área de inicio.
+El equipo cumplió con todas los entregables planeados. Se logró un responsive funcional, buen diseño de la página y navegación clara y fluida
+A continuación, mostraremos las evidencias de nuestro trabajo en este sprint:
+
+**Portada:**
+<p align="left">
+  <img src="Images/portadalanding.png" alt="basedatos" width="500">
+</p>
+**Acerca de:**
+<p align="left">
+  <img src="Images/acercadelanding.png" alt="basedatos" width="500">
+</p>
+**Servicios:**
+<p align="left">
+  <img src="Images/servicioslanding.png" alt="basedatos" width="500">
+</p>
+**¿Cómo Funciona?:**
+<p align="left">
+  <img src="Images/comofuncionalanding.png" alt="basedatos" width="500">
+</p>
+**Precios:**
+<p align="left">
+  <img src="Images/precioslanding.png" alt="basedatos" width="500">
+</p>
+**Reseñas:**
+<p align="left">
+  <img src="Images/resenaslanding.png" alt="basedatos" width="500">
+</p>
+**Contáctanos y pie de página::**
+<p align="left">
+  <img src="Images/contactanosfooterlanding.png" alt="basedatos" width="500">
+</p>
+**Iniciar Sesión:**
+<p align="left">
+  <img src="Images/inicarsesionlanding.png" alt="basedatos" width="500">
+</p>
+**Registrate:**
+<p align="left">
+  <img src="Images/registratelanding.png" alt="basedatos" width="500">
+</p>
+
+Video de la pagina en ejecución: https://youtu.be/CEGSufdW5Xg
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Durante el presente Sprint, el equipo de desarrollo centró sus esfuerzos exclusivamente en el diseño e implementación de la landing page de la plataforma FoodHeaven, estableciendo así la base visual y estructural del proyecto. Como parte de esta primera etapa, se priorizó la construcción de la interfaz pública inicial, enfocándose en aspectos como el diseño responsive, la navegación fluida, la presentación clara de los servicios, planes de suscripción y la recopilación visual de reseñas y datos de contacto. En consecuencia, aún no se ha iniciado el desarrollo ni la documentación de endpoints relacionados con servicios web, por lo que no se cuenta con especificaciones OpenAPI, verbos HTTP implementados, parámetros, ni ejemplos de respuesta o interacción de APIs. La integración de servicios backend y la documentación correspondiente a Web Services están planificadas para sprints posteriores, una vez completada la capa visual y definidas las funcionalidades clave del sistema. Por tanto, esta sección no contiene por el momento URLs de endpoints, commits asociados a la documentación, ni capturas de interacción con APIs, dado que su desarrollo aún no ha comenzado.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+En este sprint, el equipo realizó el despliegue de la landing page del proyecto.
+Se creó un repositorio público en github: https://github.com/1ASI0730-2510-4371-G03-FoodHaven/LandingPage
+Se configuró la rama main como fuente y /root como origen de contenido, de tal forma la landing page es pública desde el siguiente enlace: https://1asi0730-2510-4371-g03-foodhaven.github.io/LandingPage/
+Gracias al uso de GitHub (y por ende, GitHub Pages), la landing page se actualiza de forma automática después de cada commit, de esta forma no hay problema para avanzar la misma.
+Se evaluó el rendimiento de la landing page y se verificó que todo estaba óptimo.
+Gracias a este avance, se puede visualizar la landing page y con ello la propuesta de FoodHeaven, así como un primer paso para avanzar el frontend de la plataforma futura a realizar.
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+A lo largo de este Sprint, el equipo concentró sus esfuerzos en el desarrollo inicial de la página principal del proyecto FoodHeaven. Se llevaron a cabo actividades relacionadas con el diseño estético, organización del contenido, codificación con tecnologías como HTML y CSS, y la incorporación de funcionalidades mediante JavaScript. Además, se completó la integración y publicación del sitio a través de GitHub. Todos los integrantes del equipo contribuyeron activamente en la creación colaborativa de este primer entregable visual del proyecto, se definieron los diseños, se desarrolló el codigo HTML con sus estilos CSS, añadimos funcionalidades en JavaScript, configuramos el repositorio en GitHub, y finalmente, como grupo hicimos revisiones de todo el trabajo para asegurarnos de hacer un buen trabajo.
+**Análiticas de colaboración GitHub:**
+A continuación, presentaremos evidencia de la participación de los integrantes en el GitHub:
