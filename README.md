@@ -38,11 +38,11 @@ Soy responsable, creativo y siempre trato de apoyar al equipo en todo hasta el f
 **Carrera:** [Carrera]  
 **Descripción:**  
 [Descripción breve de la persona.] |
-| ![Ricardo](Images/Ricardo.png) | **Nombre:** [Nombre de Ricardo]  
-**Código de estudiante:** [Código]  
-**Carrera:** [Carrera]  
-**Descripción:**  
-[Descripción breve de la persona.] |
+| ![Ricardo](Images/Ricardo.png) | **Nombre:** Ricardo Fernando Cardenas Minaya  
+**Código de estudiante:** U202310004  
+**Carrera:** Ingenieria de Software
+**Descripción:**
+Soy creativo y dedicado en lo que hago. Estoy comprometido a dar lo mejor de mí para lograr buenos resultados  
 | ![Gustavo](Images/Gustavo.png) | **Nombre:** [Nombre de Gustavo]  
 **Código de estudiante:** [Código]  
 **Carrera:** [Carrera]  
