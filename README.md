@@ -1498,120 +1498,34 @@ La interfaz de FoodHeaven ha sido estructurada pensando en la simplicidad y la f
 
 ### SEO Tags and Meta Tags
 
-html
-<!DOCTYPE html>
-<html lang="es">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-    <!-- SEO Tags -->
-    <title>FoodHeaven - Organiza tus Comidas Semanales de Forma Fácil</title>
-
-    <!-- Meta Tags -->
-    <meta name="description" content="FoodHeaven te ayuda a planificar y recibir tus comidas saludables de manera fácil, conectando proveedores y ajustando tus preferencias nutricionales." />
-    <meta name="keywords" content="planificación de comidas, comida saludable, suscripción de comida, proveedores de comida, nutrición, dieta, comida semanal, planes de comida" />
-    <meta name="author" content="FoodHeaven Team" />
-    
-    <!-- Open Graph Tags -->
-    <meta property="og:title" content="FoodHeaven - Organiza tus Comidas Semanales de Forma Fácil" />
-    <meta property="og:description" content="Organiza tus comidas de la semana con FoodHeaven. Recibe recomendaciones personalizadas según tus preferencias y necesidades nutricionales." />
-    <meta property="og:image" content="https://tusitio.com/images/og-image.jpg" />
-    <meta property="og:url" content="https://tusitio.com" />
-    <meta property="og:type" content="website" />
-
-    <!-- Twitter Card Tags -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="FoodHeaven - Organiza tus Comidas Semanales de Forma Fácil" />
-    <meta name="twitter:description" content="Organiza tus comidas de la semana con FoodHeaven. Recibe recomendaciones personalizadas según tus preferencias y necesidades nutricionales." />
-    <meta name="twitter:image" content="https://tusitio.com/images/og-image.jpg" />
-
-    <!-- Favicon -->
-    <link rel="icon" href="images/favicon.png" alt="Logo" />
-
-    <!-- Enlaces de hojas de estilo -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
-    <link rel="stylesheet" href="css/style.css" />
-
-    <!-- Fuente Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet" />
-  </head>
-  <body>
-    <!-- Contenido de la página aquí -->
-  </body>
-</html>
+Las metaetiquetas (meta tags) son elementos fundamentales dentro de la estructura HTML, ya que permiten proporcionar metadatos sobre la página web que no son visibles para el usuario, pero que resultan cruciales para los navegadores y motores de búsqueda. Estas etiquetas ayudan a mejorar el posicionamiento (SEO) de la plataforma en los resultados de búsqueda, facilitan el análisis del contenido por rastreadores web y mejoran la accesibilidad general del sitio.
+A continuación, se detallan las principales metaetiquetas utilizadas en el proyecto FoodHeaven:
+**1. Título (Title)**
+Se utiliza como encabezado en los resultados de los motores de búsqueda (SERP). Es clave para el SEO y debe ser breve, clara y representativa de la plataforma:
+<title>Organiza tu alimentación con FoodHeaven - Planifica, elige y disfruta</title>
+**2. Codificación de caracteres**
+Permite que los caracteres especiales (acentos, eñes, símbolos) se muestren correctamente en la página web:
+<meta charset="utf-8">
+**3. Descripción (Meta Description)**
+Resume el contenido general de la página y aparece debajo del título en los resultados de búsqueda. Debe captar la atención del usuario de forma clara:
+<meta name="description" content="FoodHeaven es una plataforma web que te permite planificar tus comidas semanales de forma sencilla y personalizada. Elige platos saludables, programa entregas y mejora tu alimentación sin complicaciones.">
+**4. Palabras clave (Meta Keywords)**
+Contiene términos asociados al contenido del sitio, utilizados para mejorar el SEO. Aunque algunos motores de búsqueda ya no las consideran, siguen siendo útiles para ciertos rastreadores:
+<meta name="keywords" content="comida saludable, planificación de comidas, alimentación semanal, delivery saludable, FoodHeaven, menú personalizado, cocineros locales, comida organizada">
+**5. Autor y derechos de autor (Author & Copyright)**
+Especifica el equipo responsable de la creación del sitio web y protege los derechos del contenido publicado:
+<meta name="author" content="Equipo FoodHeaven">
+<meta name="copyright" content="© 2025 FoodHeaven - Todos los derechos reservados">
 
 ### Searching Systems
 
-En esta sección se explica cómo el equipo implementará los sistemas de búsqueda dentro del producto digital para garantizar una experiencia de usuario fluida, evitando que los usuarios se sientan perdidos al tratar de localizar información relevante.
+Dentro de la plataforma FoodHeaven, es clave organizar y presentar la información de forma clara y accesible, especialmente ante el volumen de datos que se generará conforme crezcan los usuarios y los pedidos. Por ello, se ha priorizado un sistema que permita mostrar de manera estructurada los distintos planes alimenticios, proveedores vinculados y preferencias de los usuarios. La interfaz está pensada para que los datos relevantes (como registros de comidas, historial de entregas o configuraciones de suscripción) sean fácilmente visualizados y entendidos. Esto permitirá una administración más eficiente del contenido y una experiencia más fluida para quienes gestionan la plataforma.
 
-#### Opciones de Búsqueda
+#### Navigation Systems
 
-- **Barra de Búsqueda Global**: Habrá una barra de búsqueda visible en todas las pantallas principales, que permitirá al usuario buscar productos, proveedores, recetas y planes de suscripción. Estará situada de forma prominente en la parte superior y accesible desde cualquier vista.
-- **Búsqueda por Categorías**: Los usuarios podrán buscar contenido a través de categorías predefinidas como "Comidas Especiales", "Planes de Suscripción", "Proveedores Personalizados", entre otros. Estas estarán visibles como filtros en la página principal de búsqueda.
+En la Landing Page de FoodHeaven, la navegación principal se encuentra distribuida en los menús superior e inferior. A través del sistema de etiquetas, los usuarios pueden desplazarse fácilmente hacia las diferentes secciones del sitio. En caso de no utilizar estos accesos directos, el contenido puede explorarse de forma descendente a lo largo de la página.
+Dentro de la plataforma, la experiencia de navegación ha sido pensada para ser intuitiva y secuencial. Los usuarios podrán avanzar por pasos definidos, desde la creación de cuenta hasta la configuración de sus preferencias y visualización de su plan semanal. Botones y llamadas a la acción facilitan cada interacción, como seleccionar un plan, confirmar pedidos o modificar su menú, asegurando un flujo claro y ordenado en el recorrido del usuario.
 
-#### Filtros de Búsqueda
-
-- **Por Tipo de Comida**: "Desayuno", "Almuerzo", "Cena", "Snacks".
-- **Por Restricciones Nutricionales**: "Vegetariano", "Sin Gluten", "Bajo en Carbohidratos", "Alto en Proteínas", etc.
-- **Por Proveedor**: Filtro por ubicación, tipo de proveedor (restaurante, chef personal), y opciones de entrega.
-- **Por Plan de Suscripción**: Filtros por frecuencia (semanal, mensual) y cantidad de comidas.
-- **Por Precio**: Rango de precios ajustable según el presupuesto del usuario.
-
-#### Presentación de los Datos Post-Búsqueda
-
-- Resultados en formato de tarjetas (cards) con:
-  - Imagen representativa
-  - Nombre del ítem
-  - Descripción breve
-  - Precio (si aplica)
-  - Botón de acción: agregar al carrito, suscribirse o ver más detalles
-- **Ordenación**: "Relevancia", "Precio Ascendente", "Precio Descendente", "Valoración"
-
-#### Navegación Posterior a la Búsqueda
-
-- Filtros seleccionados visibles en la parte superior de los resultados
-- **Paginación** si hay muchos resultados
-- **Vistas de Resultados**: Vista tipo lista o cuadrícula
-
-#### Ayuda y Sugerencias
-
-- **Sugerencias de Búsqueda**: Autocompletado con palabras clave y categorías
-- **Mensajes de error** amigables con sugerencias
-- **Guía de Uso**: Tutorial o mensaje emergente explicando cómo usar la barra de búsqueda y filtros
-
-### Navigation Systems
-
-En esta sección, se describen las acciones y técnicas que guiarán a los usuarios a través de la Landing Page y las aplicaciones, permitiéndoles cumplir sus metas e interactuar de manera satisfactoria con el producto.
-
-#### Landing Page: Introducción y Orientación
-
-- **CTAs**: Botones destacados como "Empieza Ahora", "Explora nuestros Servicios", "Ver Planes de Suscripción", y "Más Información"
-- **Contenido Visual Atractivo**: Imágenes, vídeos y gráficos de alta calidad
-- **Scroll de Contenido**: Información presentada secuencialmente (introducción → servicios → cómo funciona → testimonios → suscripciones)
-
-#### Navegación en la Web Application
-
-- **Proceso de Registro**: Simplificado, con opción de correo/redes sociales y barra de progreso
-- **Tour Interactivo**: Opcional, presentado en el primer acceso
-- **Pantalla Principal**: Accesos destacados a funciones clave con animaciones suaves
-- **Menú de Navegación Intuitivo**: Menú lateral o superior con secciones como "Inicio", "Servicios", "Comidas", "Planes de Suscripción", "Perfil", "Ayuda", "Configuración"
-- **Seguimiento de Progreso**: Indicador visual del estado en el proceso
-
-#### Acciones de Navegación Específicas
-
-- **Feedback Visual y Sonoro**: Animaciones, sonidos suaves y mensajes emergentes tras acciones
-- **Sugerencias Inteligentes**: Basadas en el comportamiento y preferencias del usuario
-- **Accesibilidad**: Compatible con lectores de pantalla, alto contraste, atajos de teclado
-- **Mensajes Contextuales**: Explicaciones adicionales según el contexto (modales o tooltips)
-
-#### Soporte y Ayuda Continua
-
-- **Botón de Ayuda Flotante**: Acceso a FAQ, guías, soporte directo
-- **Chatbot o Asistente Virtual**: Respuestas instantáneas y guía interactiva
-  
 ## Landing Page UI Design
 
 ### Landing Page Wireframe
@@ -1928,7 +1842,7 @@ El diseño orientado a objetos se basa en clases que encapsulan atributos y comp
 
 ## Database Design
 
-La base de datos de **FoodHeaven** ha sido diseñada bajo un enfoque relacional, con el objetivo de asegurar la integridad de los datos, trazabilidad de los pedidos, y eficiencia en la gestión de planes alimenticios personalizados. Cada tabla representa una entidad clave dentro del ecosistema del sistema, permitiendo una gestión integral tanto para los usuarios como para los proveedores de alimentos. La arquitectura considera aspectos fundamentales como métodos de pago, programación de entregas, planificación de comidas y categorización de alimentos.
+La base de datos de FoodHeaven ha sido diseñada bajo un enfoque relacional, con el objetivo de asegurar la integridad de los datos, trazabilidad de los pedidos, y eficiencia en la gestión de planes alimenticios personalizados. Cada tabla representa una entidad clave dentro del ecosistema del sistema, permitiendo una gestión integral tanto para los usuarios como para los proveedores de alimentos. La arquitectura considera aspectos fundamentales como métodos de pago, programación de entregas, planificación de comidas y categorización de alimentos.
 
 ### Database Diagram
 
@@ -2123,16 +2037,29 @@ Estas convenciones permiten que el desarrollo y mantenimiento de **FoodHeaven** 
 
 ### Software Deployment Configuration
 
-**Landing Page:**
-- **Plataforma**: Vercel
-- **Proceso**: Conectado al repositorio de GitHub con despliegue automático en cada push a la rama `main`.
+La Landing Page de FoodHeaven es de facil acceso para el publico, presentamos aquí las formas para entrar a nuestra Landing Page: 
+**1. Ingreso al repositorio en GitHub:**
+Visita el repositorio oficial de FoodHeaven mediante el siguiente enlace:
+https://github.com/1ASI0730-2510-4371-G03-FoodHaven/LandingPage.git
+<p align="left">
+  <img src="Images/ingresoRepositorio.PNG" alt="basedatos" width="500">
+</p>
 
-**Frontend Web Application (Angular):**
-- **Plataforma**: Vercel
-- **Proceso**: Configuración con `vercel.json` para rutas personalizadas. Se despliega al hacer push a `main`.
+**2. Descarga del proyecto:**
+Haz clic en el botón verde que dice “Code” y selecciona la opción “Download ZIP” para obtener una copia comprimida del proyecto.
+<p align="left">
+  <img src="Images/descargaProyecto.PNG" alt="basedatos" width="500">
+</p>
 
-**Web Services (.NET Core API):**
-- **Plataforma**: Railway
-- **Proceso**: Uso de archivo `Dockerfile` para empaquetado de la API. Railway detecta cambios en la rama `main` y realiza despliegue continuo.
+**3. Extracción del archivo comprimido:**
+Ubica el archivo .zip descargado en tu computadora.
+Haz clic derecho sobre él y selecciona la opción “Extraer todo” o utiliza tu herramienta de descompresión preferida para descomprimir el contenido en una carpeta de tu preferencia.
+<p align="left">
+  <img src="Images/extraccionArchivo.PNG" alt="basedatos" width="500">
+</p>
 
-Esta configuración asegura un ciclo de **integración y despliegue continuo (CI/CD)** alineado con buenas prácticas del desarrollo moderno.
+**4. Visualización de la Landing Page:**
+Una vez extraído, navega dentro de la carpeta del proyecto y abre el archivo index.html con el navegador web de tu elección, como Google Chrome o Mozilla Firefox.
+<p align="left">
+  <img src="Images/verLanding.PNG" alt="basedatos" width="500">
+</p>
