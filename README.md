@@ -56,6 +56,10 @@ Insights TB1 (Todos participaron):
   <img src="Images/insightstb1.PNG" alt="tb1avance" width="500">
 </p>
 
+<p align="left">
+  <img src="Images/commitstb1.PNG" alt="tb1avance" width="500">
+</p>
+
 # Contenido
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
