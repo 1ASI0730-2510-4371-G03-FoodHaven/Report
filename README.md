@@ -711,27 +711,29 @@ Las necesidades identificadas en los segmentos objetivo para la aplicación Food
 
 ## 2.4 Ubiquitous Language
 
-- **User (Usuario)**: Persona que utiliza la plataforma para organizar y personalizar sus comidas semanales. Puede suscribirse a planes y ajustar sus preferencias alimentarias.
+- **User (Usuario)**: Persona que utiliza la plataforma para organizar y personalizar sus comidas semanales.
 
-- **Meal Plan (Plan de Comidas)**: Conjunto de comidas organizadas para la semana, diseñadas según las preferencias del usuario. Puede incluir desayuno, almuerzo, cena y snacks.
+- **Meal Plan (Plan de Comidas)**: Conjunto de comidas organizadas para la semana, diseñadas según las preferencias del usuario. Puede incluir desayuno, almuerzo y cena.
 
 - **Meal (Comida)**: Cada una de las opciones alimentarias que el usuario puede seleccionar dentro de su plan. Incluye nombre, ingredientes y valor nutricional.
 
 - **Combination (Combinación)**: Agrupación de comidas elegida por el usuario para un día específico dentro del plan. Puede variar según las preferencias alimentarias.
 
-- **Subscription (Suscripción)**: Modalidad flexible que permite al usuario acceder a los servicios de organización de comidas. Puede ser semanal, mensual o personalizada.
-
-- **Nutritional Preferences (Preferencias Nutricionales)**: Configuraciones establecidas por el usuario que determinan restricciones (como sin gluten, sin lactosa, vegano, etc.) y objetivos (como perder peso, ganar masa, etc.).
+- **Subscription (Suscripción)**: Modalidad flexible que permite al usuario acceder a los servicios de organización de comidas.
 
 - **Calendar (Calendario)**: Vista organizada por días de la semana donde se muestra el plan alimenticio asignado o personalizado por el usuario.
 
 - **Meal History (Historial de Comidas)**: Registro de combinaciones y planes utilizados por el usuario en semanas anteriores, útil para seguimiento o repetir menús.
 
-- **Customization (Personalización)**: Funcionalidad que permite al usuario ajustar el plan según gustos, alergias o tiempos disponibles.
-
-- **Meal Suggestion Engine (Motor de Sugerencias)**: Algoritmo que recomienda combinaciones de comidas basadas en preferencias, historial y objetivos del usuario.
+- **Customization (Personalización)**: Funcionalidad que permite al usuario ajustar el plan según sus preferencias.
 
 - **Dashboard (Panel de Control)**: Vista general donde el usuario puede gestionar su plan actual, sus preferencias, historial y suscripciones.
+
+- **Provider Network (Red de proveedores)**: Conjunto de restaurantes y cocineros independientes asociados a FoodHeaven que garantizan calidad y variedad de comidas.
+
+- **Delivery Scheduling (Programación de entrega)**: Funcionalidad que permite al usuario elegir horarios específicos para recibir sus pedidos.
+
+- **Busy User (Usuario con agenda ocupada)**: Usuario cuya rutina diaria le impide dedicar tiempo suficiente a la planificación o preparación de comidas.
 
 # Capítulo 3: Requirements Specification
 
