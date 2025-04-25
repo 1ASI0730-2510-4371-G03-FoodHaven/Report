@@ -201,11 +201,11 @@ Soy una persona optimista, dedicada y que trata de mejorar |
 **Carrera:** Ingenieria de Software
 **Descripción:**
 Soy creativo y dedicado en lo que hago. Estoy comprometido a dar lo mejor de mí para lograr buenos resultados  
-| ![Gustavo](Images/Gustavo.png) | **Nombre:** [Nombre de Gustavo]  
-**Código de estudiante:** [Código]  
-**Carrera:** [Carrera]  
-**Descripción:**  
-[Descripción breve de la persona.] |
+| ![Gustavo](Images/Gustavo.png) | **Nombre:** Luis Gustavo Román Pajuelo
+**Código de estudiante:** U202123373 
+**Carrera:** Ingeniería de Software  
+**Descripción:**
+Soy responsable y siempre busco cumplir mis objetivos.
 
 ## 1.2  Solution Profile
 
