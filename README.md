@@ -1739,3 +1739,26 @@ Gracias a este avance, se puede visualizar la landing page y con ello la propues
 A lo largo de este Sprint, el equipo concentró sus esfuerzos en el desarrollo inicial de la página principal del proyecto FoodHeaven. Se llevaron a cabo actividades relacionadas con el diseño estético, organización del contenido, codificación con tecnologías como HTML y CSS, y la incorporación de funcionalidades mediante JavaScript. Además, se completó la integración y publicación del sitio a través de GitHub. Todos los integrantes del equipo contribuyeron activamente en la creación colaborativa de este primer entregable visual del proyecto, se definieron los diseños, se desarrolló el codigo HTML con sus estilos CSS, añadimos funcionalidades en JavaScript, configuramos el repositorio en GitHub, y finalmente, como grupo hicimos revisiones de todo el trabajo para asegurarnos de hacer un buen trabajo.
 **Análiticas de colaboración GitHub:**
 A continuación, presentaremos evidencia de la participación de los integrantes en el GitHub:
+
+# Conclusiones
+
+
+# Bibliografia
+- Alvarez, A. (2020, 5 de agosto). 5W2H: Qué significa, para qué sirve, cómo aplicarla y algunos ejemplos. LeanConstructionMexico. https://www.leanconstructionmexico.com.mx/post/5w2h-qu%C3%A9-significapara-qu%C3%A9-sirve-c%C3%B3mo-aplicarla-y-algunos-ejemplos
+- Datum Internacional. (2020). Hábitos alimenticios saludables en el Perú. https://www.datum.com.pe/
+- FAO. (2022). El Perú es el país con la Inseguridad Alimentaria más alta de Sudamérica.https://www.fao.org/peru/noticias/detail-events/es/c/1603081/
+- Lean UX y Lean Startup: potencia experiencia y diseño de producto. (2023. 28 de
+septiembre). Pragma. https://www.pragma.co/es/blog/lean-ux-y-lean-startuppotencia-experiencia-y-diseno-de-producto
+- Ministerio de Salud. (2019). Advierten que el 66% de la población en Lima Metropolitana consume comida chatarra. https://www.gob.pe/institucion/minsa/noticias/36574-advierten-que-el-66-de-la-poblacion-en-lima-metropolitana-consume-comida-chatarra
+- Ministerio de Salud. (2022). Minsa: 15 millones de personas tienen sobrepeso y obesidad. https://www.gob.pe/institucion/minsa/noticias/634511-minsa-15-millones-de-personas-tienen-sobrepeso-y-obesidad
+- Mitma, D. (2024, 25 de julio). FAO: Más de 17 millones de peruanos no garantizan sus comidas del día. Salud con Lupa. https://saludconlupa.com/noticias/fao-mas-de-17-millones-de-peruanos-no-garantizan-sus-comidas-del-dia/​Salud con lupa
+- Manrique, N., & Hemmerde, M. (2024, 16 de octubre). A contrarreloj: Alimentación en tiempos de inmediatez. Nexos - Universidad de Lima. https://nexos.ulima.edu.pe/2024/10/16/a-contrarreloj-alimentacion-en-tiempos-de-inmediatez/​Nexos+3Nexos+3Nexos+3
+- Olivares, S., Bustos, N., Díaz, N., & Lera, L. (2012). Cambios en los hábitos alimentarios en la familia: una revisión. Revista Chilena de Nutrición, 39(3), 106–113. https://doi.org/10.4067/S0717-75182012000300006
+UNICEF. (2022). Nutrición infantil y adolescente en el Perú. https://www.unicef.org/peru/nutricion-ninez-adolescencia
+- Organización de las Naciones Unidas en Perú. (2022, 22 de noviembre). La crisis alimentaria avanza en Perú: más de la mitad de la población carece de comida suficiente. https://peru.un.org/es/208354-la-crisis-alimentaria-avanza-en-per%C3%BA-m%C3%A1s-de-la-mitad-de-la-poblaci%C3%B3n-carece-de-comida​Perú Naciones Unidas
+- NielsenIQ. (2016, 5 de octubre). El 49% de los peruanos sigue dietas bajas en grasa, ubicándose en el segundo lugar de Latinoamérica. https://nielseniq.com/global/es/insights/report/2016/el-49-por-ciento-de-los-peruanos-sigue-dietas-bajas-en-grasa/​NIQ
+- Redacción ContentLab. (2019, 2 de agosto). ¿Por qué promover la alimentación saludable en el Perú?. Perú Sostenible. https://especial.elcomercio.pe/perusostenible/por-que-promover-la-alimentacion-saludable-en-el-peru/​
+- Statista. (s.f.). Online food delivery - Perú. https://www.statista.com/outlook/emo/online-food-delivery/peru​
+
+# Anexos
+## Video de exposición TB1: 
