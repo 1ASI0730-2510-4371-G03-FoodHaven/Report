@@ -46,9 +46,7 @@ Aplicaciones Web <br>
 |         | 20/04/2025  | Luis Gustavo Román Pajuelo                                             | Desarrollo del capítulo V: Sprint Planning 1                                                                                                        |
                                                                                    |
 
-# Project Report Collaboration Insights
 
-TB1: 
 
 # Student Outcome
 | Criterio específico | Acciones realizadas | Conclusiones |
