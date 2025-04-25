@@ -20,7 +20,7 @@ Aplicaciones Web <br>
 | **Member**                           | **Code**     |
 |--------------------------------------|--------------|
 |Paulo Percy Quincho Gamarra      |  U20191E562  |
-|         |  |
+|Ricardo Fernando Cardenas Minaya |  U202310004  |
 |          |   |
 |       |  |
 
