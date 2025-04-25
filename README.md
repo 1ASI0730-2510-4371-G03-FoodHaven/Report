@@ -22,7 +22,9 @@ Aplicaciones Web <br>
 |Paulo Percy Quincho Gamarra      |  U20191E562  |
 |Ricardo Fernando Cardenas Minaya |  U202310004  |
 |Santiago Iván Cárdenas Concha    |  U202311207  |
-|       |  |
+|Luis Piero Rodríguez Rodríguez   |  U202311334  |
+|Luis Gustavo Román Pajuelo       |  U202123373  |
+|Santiago Manuel Suárez Romero    |  U202311532  |
 
 
 
@@ -35,12 +37,12 @@ Aplicaciones Web <br>
 |---------|-------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | TB1     | 25/03/2025  | Santiago Iván Cárdenas Concha                                          | Desarrollo del capítulo I: Introducción                                                                                                             |
 |         | 29/03/2025  | Ricardo Fernando Cárdenas Minaya                                       | Desarrollo del capítulo II: Competidores                                                                                                            |
-|         | 29/03/2025  | Santiago Iván Cárdenas Concha| Desarrollo del capítulo II: Entrevistas                                                                                                             |
+|         | 29/03/2025  | Santiago Iván Cárdenas Concha                                          | Desarrollo del capítulo II: Entrevistas                                                                                                             |
 |         | 30/03/2025  | Paulo Percy Quincho Gamarra                                            | Desarrollo del capítulo II: Needfinding                                                                                                             |
 |         | 08/04/2025  | Paulo Percy Quincho Gamarra                                            | Desarrollo del capítulo III: To-Be Scenario Mapping y Product Backlog                                                                              |
-|         | 10/04/2025  | Paulo Percy Quincho Gamarra, Luis Gustavo Román Pajuelo               | Desarrollo del capítulo III: User stories                                                                                                           |
+|         | 10/04/2025  | Paulo Percy Quincho Gamarra, Luis Gustavo Román Pajuelo                | Desarrollo del capítulo III: User stories                                                                                                           |
 |         | 12/04/2025  | Luis Piero Zinadine Rodríguez Rodríguez                                | Desarrollo del capítulo III: Impact Mapping                                                                                                         |
-|         | 14/04/2025  | Paulo Percy Quincho Gamarra, Ricardo Fernando Cárdenas Minaya         | Desarrollo del capítulo IV: Style Guidelines, Landing Page UI Design, Web Applications UX/UI Design, Web Application Prototyping y Domain-Driven Software Architecture |
+|         | 14/04/2025  | Paulo Percy Quincho Gamarra, Ricardo Fernando Cárdenas Minaya          | Desarrollo del capítulo IV: Style Guidelines, Landing Page UI Design, Web Applications UX/UI Design, Web Application Prototyping y Domain-Driven Software Architecture |
 |         | 16/04/2025  | Santiago Manuel Suárez Romero                                          | Desarrollo del capítulo IV: Software Object-Oriented Design y Database Design                                                                      |
 |         | 18/04/2025  | Santiago Manuel Suárez Romero                                          | Desarrollo del capítulo V: Software Configuration Management                                                                                       |
 |         | 20/04/2025  | Luis Gustavo Román Pajuelo                                             | Desarrollo del capítulo V: Sprint Planning 1                                                                                                        |
