@@ -1745,6 +1745,13 @@ A lo largo de este Sprint, el equipo concentró sus esfuerzos en el desarrollo i
 **Análiticas de colaboración GitHub:**
 A continuación, presentaremos evidencia de la participación de los integrantes en el GitHub:
 
+<p align="center">
+  <img src="Images/cc.PNG" alt="cc" />
+</p>
+<p align="center">
+  <img src="Images/cc1.PNG" alt="cc1" />
+</p>
+
 # Conclusiones
 
 
