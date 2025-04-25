@@ -1088,31 +1088,31 @@ Link del Figma con los wireframes y mock-ups: https://www.figma.com/design/N7LIs
 Register y Login
 Se presenta el wireframe del registro e inicio de sesión. En ella los usuarios podrán crear una cuenta e iniciar sesión para poder acceder a la aplicación
 
-<p align="left"> <img src="Images/login-register.png" alt="login-register" width="500"> </p>
+<p align="left"> <img src="Images/login-register.jpg" alt="login-register" width="500"> </p>
 Inicio
 Se presenta el home de la página donde el usuario podrá visualizar los desayunos, almuerzos y cena, junto con el calendario que representa el día actual. El usuario deberá escoger la comida que desee
 
-<p align="left"> <img src="Images/inicio.png" alt="inicio" width="500"> </p>
+<p align="left"> <img src="Images/inicio.jpg" alt="inicio" width="500"> </p>
 Calendario semanal
 El usuario podrá visualizar el desayuno, almuerzo y cena que escogió y podrá confirmar su plan semanal
 
-<p align="left"> <img src="Images/calendario.png" alt="calendario" width="500"> </p>
+<p align="left"> <img src="Images/calendario.jpg" alt="calendario" width="500"> </p>
 Cuenta
 En el apartado de la cuenta principal nosotros podremos visualizar los datos del usuario, su plan actual y cambiar de plan. También se podrá visualizar el botón para cancelar la suscripción
 
-<p align="left"> <img src="Images/cuentasuscrita.png" alt="cuentasuscrita" width="500"> </p>
+<p align="left"> <img src="Images/cuentasuscrita.jpg" alt="cuentasuscrita" width="500"> </p>
 Planes
 En el apartado de planes podremos visualizar los planes disponibles que hay
 
-<p align="left"> <img src="Images/conformaplan.png" alt="conformaplan" width="500"> </p>
+<p align="left"> <img src="Images/conformaplan.jpg" alt="conformaplan" width="500"> </p>
 Borrar cuenta
 En el apartado de borrar cuenta nos aparecerá cuánto tiempo nos queda de suscripción y confirmar la cancelación
 
-<p align="left"> <img src="Images/cancelarcuenta.png" alt="cancelarcuenta" width="500"> </p>
+<p align="left"> <img src="Images/cancelarcuenta.jpg" alt="cancelarcuenta" width="500"> </p>
 Plan cancelado
 Se le llevará al usuario al apartado de cuenta con un botón para afiliarse a un nuevo plan
 
-<p align="left"> <img src="Images/cancelacionconfirmada.png" alt="cancelacionconfirmada" width="500"> </p>
+<p align="left"> <img src="Images/cancelacionconfirmada.jpg" alt="cancelacionconfirmada" width="500"> </p>
 
 ### 4.4.2 Web Applications Wireflow Diagrams
 
@@ -1159,7 +1159,7 @@ Se le llevará al usuario al apartado de cuenta con un botón para afiliarse a u
 </p>
 
 <p align="left">
-  <img src="Images/cuentaparasuscribirse.jpg" alt="cuentaparasuscribirse" width="500">
+  <img src="Images/cuentaparasucribirse.jpg" alt="cuentaparasuscribirse" width="500">
 </p>
 
 ### 4.4.4. Web Applications User Flow Diagrams
