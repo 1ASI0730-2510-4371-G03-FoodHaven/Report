@@ -1128,6 +1128,21 @@ Se le llevará al usuario al apartado de cuenta con un botón para afiliarse a u
 <p align="left"> <img src="Images/cancelacionconfirmada.jpg" alt="cancelacionconfirmada" width="500"> </p>
 
 ### 4.4.2 Web Applications Wireflow Diagrams
+**User Goal para Segmento 1: Profesionales jóvenes con rutinas exigentes:** 
+Como usuario, quiero personalizar mi plan de comidas semanal (desayuno, almuerzo, cena u otras combinaciones) para adaptarlo a mis gustos, necesidades nutricionales y horario.
+Task Flow:
+<p align="left"> <img src="Images/taskflow1.JPG" alt="taskflow" width="500"> </p>
+Wireflow:
+<p align="left"> <img src="Images/wireflow1.JPG" alt="wireflow" width="500"> </p>
+Para que el usuario pueda personalizar su plan de comidas semanal debe seleccionar el botón “añadir” del apartado de inicio, con esto se podrá añadir cada desayuno, almuerzo y cena para poder agregarlo al plan semanal los días y horas que desee el usuario, luego tendrá que confirmar su plan semanal y podrá cancelarlo si es que el usuario desea.
+
+**User Goal para segmento 2: Personas interesadas en mejorar su alimentación y ahorrar tiempo:**
+Como usuario, quiero hacer seguimiento de mi dieta a través de un contador de calorías integrado para mantener un registro de mi consumo calórico y cumplir mis objetivos de salud
+Task Flow:
+<p align="left"> <img src="Images/taskflow2.JPG" alt="taskflow" width="500"> </p>
+Wireflow:
+<p align="left"> <img src="Images/wireflow2.JPG" alt="wireflow" width="500"> </p>
+Para que el usuario pueda hacer seguimiento de las calorías que consume tiene que crear su calendario semanal o revisar su calendario semanal ya creado, luego de crearlo el usuario podrá visualizar el contador de calorías diarios y de la semana de su calendario semanal.
 
 ### 4.4.3. Web Applications Mock-ups
 
@@ -1176,8 +1191,43 @@ Se le llevará al usuario al apartado de cuenta con un botón para afiliarse a u
 </p>
 
 ### 4.4.4. Web Applications User Flow Diagrams
+Link lucidchart: 
+
+https://lucid.app/lucidchart/4a10948d-c7e3-4896-8a59-e4db0955e299/edit?viewport_loc=1532%2C4626%2C3326%2C1546%2C0_0&invitationId=inv_e0b9f7b7-7e5f-474f-a91e-6630cdd69c4c
+
+User goal: Iniciar sesión y Registro de cuenta 
+Explicación del flujo: El usuario podrá crear su cuenta completando la información necesaria en la sección de registro para luego poder iniciar sesión de forma correcta y revisar su cuenta en el apartado de “Cuenta”
+
+<p align="left">
+  <img src="Images/usergoal1.JPG" alt="usergoal" width="500">
+</p>
+
+User goal: Crear y revisar el calendario semanal
+Explicación del flujo: El usuario en la sección de inicio podrá seleccionar el desayuno, almuerzo y cena de cada día de la semana y completar su calendario semanal, para poder visualizarlo luego de añadir la comida que eligió
+
+<p align="left">
+  <img src="Images/usergoal2.JPG" alt="usergoal" width="500">
+</p>
+
+User goal: Visualización de cuenta y cambiar de plan
+Explicación del flujo: El usuario en la sección de cuenta podrá visualizar sus datos y tener la opción de cambiar plan, el cual permite visualizar al usuario los planes disponibles
+
+<p align="left">
+  <img src="Images/usergoal3.JPG" alt="usergoal" width="500">
+</p>
+
+User goal: Cancelación de plan
+Explicación del flujo: El usuario podrá cancelar su plan en la sección de usuario mediante la opción “Cancelar suscripción”, esto mostrará cuánto tiempo le quedaría de suscripción al usuario y se procederá a la cancelación del plan
+
+<p align="left">
+  <img src="Images/usergoal4.JPG" alt="usergoal" width="500">
+</p>
 
 ## 4.5. Web Applications Prototyping
+Se desarrolló un prototipo interactivo enfocado en la navegación web para evaluar y mejorar la accesibilidad y la experiencia de usuario antes del lanzamiento final. Este modelo simula fielmente el recorrido dentro del sitio, permitiendo explorar secciones y flujos como en la versión definitiva. Diseñado con una arquitectura clara, jerarquía visual coherente y principios de diseño inclusivo, garantiza una navegación intuitiva y accesible. Gracias a sus maquetas de alta fidelidad, el prototipo permite validar decisiones de diseño, detectar fricciones y asegurar una experiencia de uso consistente.
+Link al prototipo: https://www.figma.com/proto/N7LIs5nxM0nVuGhQ4VL1s7/FoodHeaven?node-id=133-1686&t=ehzepUhX7nAtfQAA-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=177%3A3315&show-proto-sidebar=1
+Link del video explicativo:
+https://drive.google.com/file/d/1lzEr0v3NJQZtGXhAL5Xhe_z62Aijl6j3/view?usp=sharing
 
 ## 4.6. Domain-Driven Software Architecture
 
