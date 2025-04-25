@@ -46,7 +46,6 @@ Aplicaciones Web <br>
 |         | 16/04/2025  | Santiago Manuel Suárez Romero                                          | Desarrollo del capítulo IV: Software Object-Oriented Design y Database Design                                                                      |
 |         | 18/04/2025  | Santiago Manuel Suárez Romero                                          | Desarrollo del capítulo V: Software Configuration Management                                                                                       |
 |         | 20/04/2025  | Luis Gustavo Román Pajuelo                                             | Desarrollo del capítulo V: Sprint Planning 1                                                                                                        |
-                                                                                   |
 
 
 
