@@ -2042,24 +2042,24 @@ La Landing Page de FoodHeaven es de facil acceso para el publico, presentamos aq
 Visita el repositorio oficial de FoodHeaven mediante el siguiente enlace:
 https://github.com/1ASI0730-2510-4371-G03-FoodHaven/LandingPage.git
 <p align="left">
-  <img src="Images/ingresoRepositorio.PNG" alt="basedatos" width="500">
+  <img src="Images/ingresoRepositorio.png" alt="basedatos" width="500">
 </p>
 
 **2. Descarga del proyecto:**
 Haz clic en el botón verde que dice “Code” y selecciona la opción “Download ZIP” para obtener una copia comprimida del proyecto.
 <p align="left">
-  <img src="Images/descargaProyecto.PNG" alt="basedatos" width="500">
+  <img src="Images/descargaProyecto.png" alt="basedatos" width="500">
 </p>
 
 **3. Extracción del archivo comprimido:**
 Ubica el archivo .zip descargado en tu computadora.
 Haz clic derecho sobre él y selecciona la opción “Extraer todo” o utiliza tu herramienta de descompresión preferida para descomprimir el contenido en una carpeta de tu preferencia.
 <p align="left">
-  <img src="Images/extraccionArchivo.PNG" alt="basedatos" width="500">
+  <img src="Images/extraccionArchivo.png" alt="basedatos" width="500">
 </p>
 
 **4. Visualización de la Landing Page:**
 Una vez extraído, navega dentro de la carpeta del proyecto y abre el archivo index.html con el navegador web de tu elección, como Google Chrome o Mozilla Firefox.
 <p align="left">
-  <img src="Images/verLanding.PNG" alt="basedatos" width="500">
+  <img src="Images/verLanding.png" alt="basedatos" width="500">
 </p>
