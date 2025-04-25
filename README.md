@@ -53,7 +53,7 @@ Link del repositorio: https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Report
 
 Insights TB1 (Todos participaron):
 <p align="left">
-  <img src="Images/insightstb1.png" alt="tb1avance" width="500">
+  <img src="Images/insightstb1.PNG" alt="tb1avance" width="500">
 </p>
 
 # Contenido
