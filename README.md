@@ -933,6 +933,9 @@ Como usuario, quiero gestionar mi suscripción a FoodHeaven (selección de plan,
 | 33      | US11           | Estructura clara de la landing page                   | Como usuario, quiero una organización clara para entender fácilmente el contenido de la página.                                                            | Media     | 1                        |
 
 ### Product Backlog en Trello
+<p align="left">
+  <img src="Images/productbacklogtrello.PNG" alt="tb1avance" width="500">
+</p>
 [Product Backlog FoodHeaven - Trello](https://trello.com/invite/b/67fc295c88272e8c0a6aede4/ATTI837fada1a371ec99383211e7d16ad1658C4ABAB3/product-backlog-foodheaven )
 
 # Capítulo IV: Product Design
