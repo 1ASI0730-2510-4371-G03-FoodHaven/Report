@@ -179,11 +179,11 @@ Soy responsable, creativo y siempre trato de apoyar al equipo en todo hasta el f
 **Carrera:** [Carrera]  
 **Descripción:**  
 [Descripción breve de la persona.] |
-| ![Luis](Images/Luis.png) | **Nombre:** [Nombre de Luis]  
-**Código de estudiante:** [Código]  
-**Carrera:** [Carrera]  
+| ![Luis](Images/Luis.png) | **Nombre:** Luis Piero Rodríguez Rodríguez 
+**Código de estudiante:** U202311334
+**Carrera:** Ingeniería de Software  
 **Descripción:**  
-[Descripción breve de la persona.] |
+Soy una persona optimista, dedicada y que trata de mejorar |
 | ![Ricardo](Images/Ricardo.png) | **Nombre:** Ricardo Fernando Cardenas Minaya  
 **Código de estudiante:** U202310004  
 **Carrera:** Ingenieria de Software
