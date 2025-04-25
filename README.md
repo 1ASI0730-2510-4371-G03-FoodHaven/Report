@@ -1,3 +1,147 @@
+<p align="center">
+  <img src="Images/upc_logo.png" alt="Logo de la UPC" />
+</p>
+
+<p align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
+
+<p align="center"><strong>Ingeniería de Software</strong><br>
+Aplicaciones Web <br>
+<strong>Profesor:</strong> Naldo Reupo-Masayon Gastulo</p>
+
+<h2 align="center">INFORME</h2>
+
+<h3 align="center">Startup: EuroCausas</h3>
+<p align="center"><strong>Producto: FoodHeaven</strong></p>
+
+<h3 align="center">Team Members:</h3>
+
+<div align="center">
+
+| **Member**                           | **Code**     |
+|--------------------------------------|--------------|
+|Paulo Percy Quincho Gamarra      |  U20191E562  |
+|         |  |
+|          |   |
+|       |  |
+
+
+
+</div>
+
+<p align="center"><strong>Abril 2025</strong></p>
+
+# Registro de Versiones del Informe
+| Versión | Fecha       | Autor(es)                                                              | Descripción                                                                                                                                         |
+|---------|-------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| TB1     | 25/03/2025  | Santiago Iván Cárdenas Concha                                          | Desarrollo del capítulo I: Introducción                                                                                                             |
+|         | 29/03/2025  | Ricardo Fernando Cárdenas Minaya                                       | Desarrollo del capítulo II: Competidores                                                                                                            |
+|         | 29/03/2025  | Santiago Iván Cárdenas Concha, Luis Piero Zinadine Rodríguez Rodríguez, Paulo Percy Quincho Gamarra, Ricardo Fernando Cárdenas Minaya | Desarrollo del capítulo II: Entrevistas                                                                                                             |
+|         | 30/03/2025  | Paulo Percy Quincho Gamarra                                            | Desarrollo del capítulo II: Needfinding                                                                                                             |
+|         | 08/04/2025  | Paulo Percy Quincho Gamarra                                            | Desarrollo del capítulo III: To-Be Scenario Mapping y Product Backlog                                                                              |
+|         | 10/04/2025  | Paulo Percy Quincho Gamarra, Luis Gustavo Román Pajuelo               | Desarrollo del capítulo III: User stories                                                                                                           |
+|         | 12/04/2025  | Luis Piero Zinadine Rodríguez Rodríguez                                | Desarrollo del capítulo III: Impact Mapping                                                                                                         |
+|         | 14/04/2025  | Paulo Percy Quincho Gamarra, Ricardo Fernando Cárdenas Minaya         | Desarrollo del capítulo IV: Style Guidelines, Landing Page UI Design, Web Applications UX/UI Design, Web Application Prototyping y Domain-Driven Software Architecture |
+|         | 16/04/2025  | Santiago Manuel Suárez Romero                                          | Desarrollo del capítulo IV: Software Object-Oriented Design y Database Design                                                                      |
+|         | 18/04/2025  | Santiago Manuel Suárez Romero                                          | Desarrollo del capítulo V: Software Configuration Management                                                                                       |
+|         | 20/04/2025  | Luis Gustavo Román Pajuelo                                             | Desarrollo del capítulo V: Sprint Planning 1                                                                                                        |
+                                                                                   |
+
+
+
+# Student Outcome
+| Criterio específico | Acciones realizadas | Conclusiones |
+|---------------------|---------------------|--------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Santiago Iván Cárdenas Concha** (TB1): Durante el desarrollo del TB1, mi principal aporte fue la realización de los impact maps de nuestro negocio. Asimismo, desarrollé una primera versión del Landing Page de nuestro producto, la cuál sirvió al equipo para poder hacer las modificaciones necesarias. <br><br> **Ricardo Fernando Cárdenas Minaya** (TB1): En la elaboración del TB1, redacté las historias de usuario, colaboré en el desarrollo del landing page, así como en las secciones finales del capítulo 5 y revisión del documento. <br><br> **Paulo Percy Quincho Gamarra** (TB1): En la presentación de TB1 desarrollé el Needfinding de los segmentos objetivos y el To-Be Scenario Mapping. Asimismo, redacté las historias de usuario y me ocupé de organizar el control de proyectos con Trello. Por otro lado, desarrollé el diseño del producto de landing page y aplicación web y los diagramas C4. <br><br> **Luis Piero Zinadine Rodríguez Rodríguez** (TB1): Ayudé en la coordinación del equipo para llevar a cabo un correcto desarrollo del TB1 en el cuál desarrollé en su totalidad el capítulo 1 del informe. Asimismo, participé en el desarrollo colaborativo del diagrama UML y de bases de datos, así como de varias secciones del capítulo 5 y revisión general del contenido desarrollado. <br><br> **Luis Gustavo Román Pajuelo** (TB1): Para la realización del TB1, me encargué de la elaboración de los Wireframes, tanto para el landing page como para la versión Mobile. De igual forma, me encargué de elaborar los Mockups y Prototipos de la versión Mobile. <br><br> **Santiago Manuel Suárez Romero** (TB1): La herramienta Figma para el diseño del landing page y aplicaciones web resulta ser una herramienta sumamente útil al momento de diseñar prototipos previos al desarrollo gracias a sus funciones colaborativas en tiempo real y la conformación de proyectos organizados con la función de organizaciones. | Se reafirma la importancia de la comunicación a la hora de hacer las entrevistas a los diferentes segmentos objetivo que hemos definido. <br><br> Es indispensable conocer a nuestro segmento objetivo para poder darle un producto acorde a sus necesidades y que tengan una buena experiencia de usuario al ser clientes nuestros. <br><br> El desarrollo del product backlog permite tener un mejor control sobre el flujo de trabajo en equipos colaborativos. Asimismo, permite a los desarrolladores tener un panorama general y claro sobre lo que se busca desarrollar para el sprint actual. <br><br> En una entrevista acerca de nuestra aplicación, es fundamental estar abiertos a críticas y opiniones sinceras. Al escuchar activamente a los usuarios y permitirles expresar sus puntos de vista, podemos identificar áreas de mejora y realizar ajustes para satisfacer mejor sus necesidades. La retroalimentación constructiva es una oportunidad valiosa para fortalecer nuestra aplicación y brindar una experiencia de usuario excepcional. <br><br> El video about the team nos ha permitido realizar una autoevaluación del proceso de trabajo y rescatar puntos de mejora que podemos aplicar en futuros proyectos. |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | **Santiago Iván Cárdenas Concha** (TB1): Coordiné y realicé una entrevista con uno de los miembros de nuestros segmentos objetivos, garantizando obtener toda la información posible para el proyecto. También dediqué tiempo a revisar las user stories definidas entre el equipo. <br><br> **Ricardo Fernando Cárdenas Minaya** (TB1): Redacté las historias de usuario para cada segmento objetivo y el Product Backlog, de esta manera se prioriza las funcionalidades que debe tener nuestra aplicación web para ofrecerles un producto de calidad a nuestros clientes. <br><br> **Paulo Percy Quincho Gamarra** (TB1): Realicé una entrevista al segmento objetivo y colaboré en el análisis de entrevistas para postulantes. <br><br> **Luis Piero Zinadine Rodríguez Rodríguez** (TB1): Desarrollé el diseño de entrevistas y registro de las mismas para 3 entrevistados que pertenecen al segmento objetivo de reclutador. Por lo que, adquirí un mejor conocimiento del sector de reclutamiento en el área de recursos humanos de una empresa. Asimismo, realicé el análisis de las entrevistas dónde se me permitió conocer (de manera más resumida) cómo se llevan a cabo las diferentes actividades de los reclutadores y cómo se siente el reclutador al afrontar un proceso de reclutamiento. <br><br> **Luis Gustavo Román Pajuelo** (TB1): Me encargué de la búsqueda de posibles competidores de nuestra start-up. Es así que se desarrolló un análisis de cada uno de esos para compararlo con lo que nuestro proyecto propone. De igual forma, realicé una de las entrevistas al segmento objetivo de postulantes y redacté su análisis. <br><br> **Santiago Manuel Suárez Romero** (TB1): El procedimiento de recopilación de información demostró los diferentes puntos de vista de nuestros usuarios en potencia, permitiendo así construir los elementos necesarios para un proyecto más sólido para nuestro objetivo principal. | La construcción de los diferentes mapas con diferentes plataformas ayuda a mejorar nuestras capacidades y expandir nuestras habilidades. <br><br> Realizar la priorización de requisitos y tareas que la aplicación debe contener es fundamental, ya que el equipo sabrá qué es lo que se tiene que entregar en primer lugar. <br><br> La comunicación interna del equipo resulta de vital importancia para mantener un correcto flujo de desempeño y lograr que todos puedan cumplir con los objetivos actuales. <br><br> La retroalimentación de los usuarios en la entrevista ha sido valiosa para mejorar nuestra aplicación y cumplir con sus necesidades. La comunicación interna y la priorización de tareas son clave para un desarrollo exitoso. <br><br> El video about the product nos permitirá presentar un demo de nuestro producto a nuestros clientes potenciales, por lo que resulta indispensable al ser una primera vista de la aplicación. <br><br> Incluir un testimonio personal en el video "About the Team" resalta las actividades y esfuerzos del proyecto, aportando una perspectiva humana y real. Es una oportunidad para compartir experiencias, desafíos superados, colaboración en equipo y aprendizajes obtenidos. |
+                                                                                                    |                     |              |
+
+
+# Contenido
+- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+- [Student Outcome](#student-outcome)
+
+## Capítulo I: Introducción
+- [1.1 Start-up Profile](#11-start-up-profile)
+  - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+  - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+- [1.2. Solution Profile](#12-solution-profile)
+  - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+  - [1.2.2 Lean UX Process](#122-lean-ux-process)
+    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+    - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+    - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+    - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+- [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+
+## Capítulo II: Requirements Elicitation & Analysis
+- [2.1. Competidores](#21-competidores)
+  - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+  - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+- [2.2. Entrevistas](#22-entrevistas)
+  - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+  - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+  - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+- [2.3. Needfinding](#23-needfinding)
+  - [2.3.1. User Personas](#231-user-personas)
+  - [2.3.2. User Task Matrix](#232-user-task-matrix)
+  - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+  - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+  - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+- [2.4. Ubiquitous Language](#24-ubiquitous-language)
+
+## Capítulo III: Requirements Specification
+- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+- [3.2. User Stories](#32-user-stories)
+- [3.3. Impact Mapping](#33-impact-mapping)
+- [3.4. Product Backlog](#34-product-backlog)
+
+## Capítulo IV: Product Design
+- [4.1. Style Guidelines](#41-style-guidelines)
+  - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+  - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+- [4.2. Information Architecture](#42-information-architecture)
+  - [4.2.1. Organization Systems](#421-organization-systems)
+  - [4.2.2. Labeling Systems](#422-labeling-systems)
+  - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+  - [4.2.4. Searching Systems](#424-searching-systems)
+  - [4.2.5. Navigation Systems](#425-navigation-systems)
+- [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+  - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+  - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+- [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+  - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+  - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+  - [4.4.2. Web Applications Mock-ups](#442-web-applications-mock-ups)
+  - [4.4.3. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)
+- [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+- [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+  - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+  - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+  - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+- [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+  - [4.7.1. Class Diagrams](#471-class-diagrams)
+  - [4.7.2. Class Dictionary](#472-class-dictionary)
+- [4.8. Database Design](#48-database-design)
+  - [4.8.1. Database Diagram](#481-database-diagram)
+
+  ## Capítulo V: Product Implementation, Validation & Deployment
+- [5.1. Software Configuration Management](#51-software-configuration-management)
+  - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+  - [5.1.2. Source Code Management](#512-source-code-management)
+  - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+  - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+- [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+  - [5.2.1. Sprint ](#52x-sprint)
+    - [5.2.1.1. Sprint Planning n](#5211-sprint-planning-n)
+    - [5.2.1.2. Sprint Backlog n](#52x2-sprint-backlog-n)
+    - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+    - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
 # Project: FoodHaven
 # Chapter 1: Introduction
 # Startup Profile
@@ -1502,7 +1646,74 @@ En esta sección, se describen las acciones y técnicas que guiarán a los usuar
 
 ## Web Applications Prototyping
 
-# Subir Cap 4 - Parte 1()
+## Domain-Driven Software Architecture
+
+El Domain Driven Design (DDD) busca lograr una comprensión común del dominio específico relacionado con el problema que se quiere resolver. Este enfoque facilita una mejor colaboración entre los desarrolladores y los especialistas en el tema, promoviendo una comunicación más efectiva. Más allá del uso de un lenguaje compartido, DDD incorpora una serie de patrones, metodologías y diagramas arquitectónicos que ayudan a alinear el desarrollo del software con las particularidades del dominio, fortaleciendo así una visión coherente y conjunta entre todos los involucrados.
+
+### Software Architecture Context Diagram
+
+#### System Context Diagram
+Representa los actores externos que interactúan con el sistema, así como sus relaciones principales con este. Permite visualizar el alcance general del sistema y su conexión con usuarios y sistemas externos.
+
+<p align="left">
+  <img src="Images/scd.PNG" alt="scd" width="500">
+</p>
+
+### Software Architecture Container Diagrams
+
+#### Container Diagram
+Este diagrama muestra los contenedores principales del sistema, como aplicaciones web, bases de datos o servicios, y cómo se comunican entre sí. Es útil para identificar la distribución de responsabilidades y tecnologías involucradas.
+
+<p align="left">
+  <img src="Images/cd.PNG" alt="cd" width="500">
+</p>
+
+### Software Architecture Components Diagrams
+
+#### Log-in Bounded Context
+Componentes relacionados con la autenticación y gestión de usuarios. Incluye clases como `Usuario`, con funcionalidades como `registrarUsuario()` o `iniciarSesion()`.
+
+<p align="left">
+  <img src="Images/lhc.PNG" alt="lhc" width="500">
+</p>
+
+#### Meal Plan Management Bounded Context
+Incluye la gestión de planes de comida (`PlanComidas`), sus detalles (`DetallePlanComidas`), y la relación con `Comida`. Este contexto permite crear, modificar y consultar planes de comida personalizados.
+
+<p align="left">
+  <img src="Images/mmbc.PNG" alt="mmbc" width="500">
+</p>
+
+#### Order and Delivery Bounded Context
+Agrupa entidades como `Pedido`, `DetallePedido` y `DetalleEntrega`. Este contexto se encarga del proceso completo de pedidos, desde su generación hasta la entrega.
+
+<p align="left">
+  <img src="Images/odbc.PNG" alt="odbc" width="500">
+</p>
+
+#### Supplier Management Bounded Context
+Incluye las entidades `Proveedor` y `TipoProveedor`. Administra la información y categorización de los proveedores de comida.
+
+<p align="left">
+  <img src="Images/spbc.PNG" alt="spbc" width="500">
+</p>
+
+#### Payment Processing Bounded Context
+Relaciona `MetodoPago` y `TipoMetodoPago`. Se encarga de registrar y procesar los métodos de pago utilizados por los usuarios.
+
+<p align="left">
+  <img src="Images/pbc.PNG" alt="pbc" width="500">
+</p>
+
+## Software Object-Oriented Design
+
+### Class Diagrams
+
+El diseño orientado a objetos se basa en clases que encapsulan atributos y comportamientos relacionados al dominio. A continuación se presentan las clases del sistema agrupadas según su funcionalidad:
+
+<p align="left">
+  <img src="Images/diagramac.PNG" alt="diagramac" width="500">
+</p>
 
 ### Class Dictionary
 
@@ -1662,6 +1873,7 @@ En esta sección, se describen las acciones y técnicas que guiarán a los usuar
 - eliminarDetallePedido()  
 
 #### Clase: DetalleEntrega
+
 **Atributos:**
 - id_entrega: int  
 - id_pedido: int  
@@ -1675,6 +1887,43 @@ En esta sección, se describen las acciones y técnicas que guiarán a los usuar
 - programarEntrega()  
 - actualizarEstadoEntrega()  
 - obtenerDetalleEntrega()  
+
+## Clase: CarritoCompra
+
+### Atributos:
+- `id_carrito`: int  
+- `id_cliente`: int  
+- `productos`: List<(id_comida, cantidad)>
+
+### Métodos:
+- `añadirProducto(id_comida, cantidad)`  
+- `removerProducto(id_comida)`  
+- `pagarCarrito()`
+
+### Atributos:
+- `id_orden`: int  
+- `id_cliente`: int  
+- `fecha_compra`: date  
+- `estado`: string  
+- `precio_total`: decimal
+
+### Métodos:
+- `ordenarCompra()` 
+- `actualizarCompra()`  
+- `cancelarOrden()`
+
+## Clase: DetalleOrden
+
+### Atributos:
+- `id_detalle_orden`: int  
+- `id_orden`: int  
+- `direccion_entrega`: string  
+- `tipo_compra`: string 
+- `costo_envio`: decimal  
+- `dia_entrega`: date
+
+### Métodos:
+- `cancelarDetalleOrden()`
 
 ## Database Design
 
@@ -1780,5 +2029,109 @@ La base de datos de **FoodHeaven** ha sido diseñada bajo un enfoque relacional,
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
-# Subir Cap 5 - Parte 1()
+## Software Configuration Management
 
+### Software Development Environment Configuration
+
+### Requirements Management
+
+**Trello**:  
+Es una plataforma que permite organizar y supervisar el desarrollo de proyectos, especialmente aquellos que siguen metodologías ágiles. Se utilizará para representar visualmente y mantener actualizadas las tareas e historias de usuario correspondientes al sprint en curso.  
+[https://trello.com/es](https://trello.com/es)
+
+### Product UX/UI Design
+
+**Figma**:  
+Es una herramienta enfocada en la creación de prototipos y edición visual, ampliamente empleada en el diseño digital. En el contexto del proyecto, se utilizará específicamente para desarrollar los prototipos de la aplicación.  
+[https://www.figma.com/](https://www.figma.com/)
+
+### Software Development
+
+**Visual Studio Code**:  
+Es el entorno de desarrollo integrado (IDE) seleccionado para programar y compilar el código del proyecto, debido al conocimiento previo del equipo sobre esta herramienta. Su uso aporta valor al desarrollo gracias a su compatibilidad con múltiples sistemas operativos, la posibilidad de instalar extensiones útiles y su soporte para varios lenguajes de programación.  
+[https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+**HTML5**:  
+Lenguaje de marcado utilizado para estructurar el contenido de páginas web. En este proyecto, se empleará para definir la presentación de la información dentro de la interfaz de la aplicación.  
+[https://www.w3schools.com/html/html5_syntax.asp](https://www.w3schools.com/html/html5_syntax.asp)
+
+**CSS**:  
+Hojas de estilo en cascada que permiten controlar la apariencia y el diseño visual de los sitios web. Se implementará junto con HTML para definir el estilo de la aplicación.  
+[https://google.github.io/styleguide/htmlcssguide.html](https://google.github.io/styleguide/htmlcssguide.html)
+
+**JavaScript**:  
+Lenguaje de programación interpretado y orientado a objetos que se usará para desarrollar la interacción y funcionalidades de la interfaz del usuario en la plataforma.  [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+### Software Deployment
+
+**GitHub**:  
+Es una plataforma en la nube utilizada para almacenar y gestionar los repositorios del proyecto. Permitirá que los integrantes del equipo trabajen de forma colaborativa, realizando aportes y revisiones en tiempo real. El acceso a esta herramienta se realizará directamente desde los navegadores web de los usuarios.  
+[https://github.com/](https://github.com/)
+
+### Software Documentation and Project Management
+
+**GitHub**:  
+También se emplea como herramienta de documentación y gestión del proyecto, utilizando su funcionalidad de issues y wikis para registrar decisiones, avances y documentación técnica.  
+[https://github.com/](https://github.com/)
+
+### Source Code Management
+
+El equipo utiliza **Git** y **GitHub** para el control de versiones y la colaboración en los distintos productos.
+
+**Repositorios:**
+- Report: [https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Report.git](https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Report.git)
+- LandingPage: [https://github.com/1ASI0730-2510-4371-G03-FoodHaven/LandingPage.git](https://github.com/1ASI0730-2510-4371-G03-FoodHaven/LandingPage.git)
+
+**Modelo de ramas - GitFlow:**
+- `main`: Rama principal
+- `develop`: Rama de desarrollo
+- `feature/{nombre-funcionalidad}`: Funcionalidades nuevas (ej. `feature/user-authentication`)
+- `release/{version}`: Preparación de lanzamientos (ej. `release/1.0.0`)
+- `hotfix/{descripcion}`: Correcciones urgentes (ej. `hotfix/fix-login-redirect`)
+
+**Convenciones:**
+- **Versionado semántico**: `MAJOR.MINOR.PATCH` (ej. `1.0.0`)
+- **Mensajes de commit (Conventional Commits):**
+  - `feat`: agregar nueva funcionalidad
+  - `fix`: corrección de bug
+  - `docs`: cambios en documentación
+  - `style`: cambios de estilo sin afectar funcionalidad
+  - `refactor`: mejoras internas sin cambios funcionales
+  - `test`: añadir pruebas
+
+### Source Code Style Guide & Conventions
+
+#### HTML
+- **Cierre obligatorio de etiquetas**: `<p>Bienvenido a FoodHeaven</p>`
+- **Uso consistente de minúsculas**: `<img src="logo.png" alt="logo foodheaven">`
+- **Atributos entre comillas**: `<a href="#servicios" class="nav-link">Servicios</a>`
+- **Uso de `alt`, `width` y `height` en imágenes**: `<img src="images/imagenPortada.jpg" alt="Comida saludable" width="400" height="300">`
+
+#### CSS
+- **Nombres de clase descriptivos y breves**: `.hero-section`, `.login-button`
+- **Separación con guiones**: `.precio-card`, `#form-contacto`
+- **Omisión de unidades para cero**: `margin: 0;`
+- **Formato limpio y organizado**: Cada regla en líneas separadas
+
+#### JavaScript
+- **Estructura clara del DOM**: Usar `DOMContentLoaded` para esperar la carga completa
+- **Nombres de variables representativos**: `formContacto`, `correo`, `numero`
+- **Evitar funciones anidadas innecesarias**: Modularización del código
+
+Estas convenciones permiten que el desarrollo y mantenimiento de **FoodHeaven** se realice de forma eficiente, garantizando escalabilidad y facilidad de lectura para cualquier miembro del equipo.
+
+### Software Deployment Configuration
+
+**Landing Page:**
+- **Plataforma**: Vercel
+- **Proceso**: Conectado al repositorio de GitHub con despliegue automático en cada push a la rama `main`.
+
+**Frontend Web Application (Angular):**
+- **Plataforma**: Vercel
+- **Proceso**: Configuración con `vercel.json` para rutas personalizadas. Se despliega al hacer push a `main`.
+
+**Web Services (.NET Core API):**
+- **Plataforma**: Railway
+- **Proceso**: Uso de archivo `Dockerfile` para empaquetado de la API. Railway detecta cambios en la rama `main` y realiza despliegue continuo.
+
+Esta configuración asegura un ciclo de **integración y despliegue continuo (CI/CD)** alineado con buenas prácticas del desarrollo moderno.
