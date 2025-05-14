@@ -2042,8 +2042,8 @@ En las siguientes imágenes se presenta el resultado esperado al acceder al endp
 En este sprint, el equipo realizó el despliegue de la parte frontend del proyecto.
 
 1. Se creó un repositorio público en github: [https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Front-End](https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Front-End)
-2. Se puede ver la pagina en ejecución en: https://1asi0730-2510-4371-g03-foodhaven.github.io/Front-End/#/
-3. Gracias al uso de GitHub (y por ende, GitHub Pages), la aplicación se actualiza de forma automática después de cada commit, de esta forma no hay problema para avanzar la misma.  
+2. Se puede ver la pagina en ejecución en: https://eurocausasfoodheaven.netlify.app/
+3. Gracias al uso de netlify, se puede ejecutar la app sin problemas.  
 4. Se evaluó el rendimiento de la aplicación web y se verificó que todo estaba óptimo.
 
 Gracias a este avance, se puede visualizar todo el apartado frontend del proyecto
@@ -2083,3 +2083,6 @@ UNICEF. (2022). Nutrición infantil y adolescente en el Perú. https://www.unice
 # Anexos
 ## Video de exposición TB1: 
 https://upcedupe-my.sharepoint.com/personal/u202311532_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311532%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0730%2D4371%2DEuroCausas%2Dexpo%2Dtb1%201%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8bbf0aa5%2D96b8%2D4609%2Dbf95%2D44738766e685
+
+## Video de exposición TP1:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311334_upc_edu_pe/EalLz1zwuIJJvP0JIU1mxGMBzsGXsxltmnzKmaNm2EHrLQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4ZQwX0
