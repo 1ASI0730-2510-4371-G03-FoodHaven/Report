@@ -146,7 +146,15 @@ Insights TB1 (Todos participaron):
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-
+  - [5.2.2. Sprint 2	](#5.2.1.-sprint-1)
+    - [5.2.2.1. Sprint Planning ](#5.2.1.1.-sprint-planning-1.)
+    - [5.2.2.2. Aspect Leaders and Collaborators.	](#5.2.1.2.-aspect-leaders-and-collaborators.)
+    - [5.2.2.3. Sprint Backlog 2\.	](#5.2.1.3.-sprint-backlog-1.)
+    - [5.2.2.4. Development Evidence for Sprint Review.	](#5.2.1.4.-development-evidence-for-sprint-review.)
+    - [5.2.2.5. Execution Evidence for Sprint Review.	](#5.2.1.5.-execution-evidence-for-sprint-review.)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review.	](#5.2.1.6.-services-documentation-evidence-for-sprint-review.)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review.	](#5.2.1.7.-software-deployment-evidence-for-sprint-review.)
+    - [5.2.2.8. Team Collaboration Insights during Sprint.	](#5.2.1.8.-team-collaboration-insights-during-sprint.)
   ## [Conclusiones](conclusiones)
 
   ## [Bibliografia](bibliografia)
@@ -158,6 +166,7 @@ Insights TB1 (Todos participaron):
 |---------------------|---------------------|--------------|
 | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Santiago Iván Cárdenas Concha** (TB1): Durante el desarrollo del TB1, mi principal aporte fue la realización de los impact maps de nuestro negocio. Asimismo, desarrollé una primera versión del Landing Page de nuestro producto, la cuál sirvió al equipo para poder hacer las modificaciones necesarias. <br><br> **Ricardo Fernando Cárdenas Minaya** (TB1): En la elaboración del TB1, redacté las historias de usuario, colaboré en el desarrollo del landing page, así como en las secciones finales del capítulo 5 y revisión del documento. <br><br> **Paulo Percy Quincho Gamarra** (TB1): En la presentación de TB1 desarrollé el Needfinding de los segmentos objetivos y el To-Be Scenario Mapping. Asimismo, redacté las historias de usuario y me ocupé de organizar el control de proyectos con Trello. Por otro lado, desarrollé el diseño del producto de landing page y aplicación web y los diagramas C4. <br><br> **Luis Piero Zinadine Rodríguez Rodríguez** (TB1): Ayudé en la coordinación del equipo para llevar a cabo un correcto desarrollo del TB1 en el cuál desarrollé en su totalidad el capítulo 1 del informe. Asimismo, participé en el desarrollo colaborativo del diagrama UML y de bases de datos, así como de varias secciones del capítulo 5 y revisión general del contenido desarrollado. <br><br> **Luis Gustavo Román Pajuelo** (TB1): Para la realización del TB1, me encargué de la elaboración de los Wireframes, tanto para el landing page como para la versión Mobile. De igual forma, me encargué de elaborar los Mockups y Prototipos de la versión Mobile. <br><br> **Santiago Manuel Suárez Romero** (TB1): La herramienta Figma para el diseño del landing page y aplicaciones web resulta ser una herramienta sumamente útil al momento de diseñar prototipos previos al desarrollo gracias a sus funciones colaborativas en tiempo real y la conformación de proyectos organizados con la función de organizaciones. | Se reafirma la importancia de la comunicación a la hora de hacer las entrevistas a los diferentes segmentos objetivo que hemos definido. <br><br> Es indispensable conocer a nuestro segmento objetivo para poder darle un producto acorde a sus necesidades y que tengan una buena experiencia de usuario al ser clientes nuestros. <br><br> El desarrollo del product backlog permite tener un mejor control sobre el flujo de trabajo en equipos colaborativos. Asimismo, permite a los desarrolladores tener un panorama general y claro sobre lo que se busca desarrollar para el sprint actual. <br><br> En una entrevista acerca de nuestra aplicación, es fundamental estar abiertos a críticas y opiniones sinceras. Al escuchar activamente a los usuarios y permitirles expresar sus puntos de vista, podemos identificar áreas de mejora y realizar ajustes para satisfacer mejor sus necesidades. La retroalimentación constructiva es una oportunidad valiosa para fortalecer nuestra aplicación y brindar una experiencia de usuario excepcional. <br><br> El video about the team nos ha permitido realizar una autoevaluación del proceso de trabajo y rescatar puntos de mejora que podemos aplicar en futuros proyectos. |
 | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | **Santiago Iván Cárdenas Concha** (TB1): Coordiné y realicé una entrevista con uno de los miembros de nuestros segmentos objetivos, garantizando obtener toda la información posible para el proyecto. También dediqué tiempo a revisar las user stories definidas entre el equipo. <br><br> **Ricardo Fernando Cárdenas Minaya** (TB1): Redacté las historias de usuario para cada segmento objetivo y el Product Backlog, de esta manera se prioriza las funcionalidades que debe tener nuestra aplicación web para ofrecerles un producto de calidad a nuestros clientes. <br><br> **Paulo Percy Quincho Gamarra** (TB1): Realicé una entrevista al segmento objetivo y colaboré en el análisis de entrevistas para postulantes. <br><br> **Luis Piero Zinadine Rodríguez Rodríguez** (TB1): Desarrollé el diseño de entrevistas y registro de las mismas para 3 entrevistados que pertenecen al segmento objetivo de reclutador. Por lo que, adquirí un mejor conocimiento del sector de reclutamiento en el área de recursos humanos de una empresa. Asimismo, realicé el análisis de las entrevistas dónde se me permitió conocer (de manera más resumida) cómo se llevan a cabo las diferentes actividades de los reclutadores y cómo se siente el reclutador al afrontar un proceso de reclutamiento. <br><br> **Luis Gustavo Román Pajuelo** (TB1): Me encargué de la búsqueda de posibles competidores de nuestra start-up. Es así que se desarrolló un análisis de cada uno de esos para compararlo con lo que nuestro proyecto propone. De igual forma, realicé una de las entrevistas al segmento objetivo de postulantes y redacté su análisis. <br><br> **Santiago Manuel Suárez Romero** (TB1): El procedimiento de recopilación de información demostró los diferentes puntos de vista de nuestros usuarios en potencia, permitiendo así construir los elementos necesarios para un proyecto más sólido para nuestro objetivo principal. | La construcción de los diferentes mapas con diferentes plataformas ayuda a mejorar nuestras capacidades y expandir nuestras habilidades. <br><br> Realizar la priorización de requisitos y tareas que la aplicación debe contener es fundamental, ya que el equipo sabrá qué es lo que se tiene que entregar en primer lugar. <br><br> La comunicación interna del equipo resulta de vital importancia para mantener un correcto flujo de desempeño y lograr que todos puedan cumplir con los objetivos actuales. <br><br> La retroalimentación de los usuarios en la entrevista ha sido valiosa para mejorar nuestra aplicación y cumplir con sus necesidades. La comunicación interna y la priorización de tareas son clave para un desarrollo exitoso. <br><br> El video about the product nos permitirá presentar un demo de nuestro producto a nuestros clientes potenciales, por lo que resulta indispensable al ser una primera vista de la aplicación. <br><br> Incluir un testimonio personal en el video "About the Team" resalta las actividades y esfuerzos del proyecto, aportando una perspectiva humana y real. Es una oportunidad para compartir experiencias, desafíos superados, colaboración en equipo y aprendizajes obtenidos. |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | El equipo avanzó el apartado frontend de la aplicación | La construcción de los diferentes mapas con diferentes plataformas ayuda a mejorar nuestras capacidades y expandir nuestras habilidades. <br><br> Realizar la priorización de requisitos y tareas que la aplicación debe contener es fundamental, ya que el equipo sabrá qué es lo que se tiene que entregar en primer lugar. <br><br> La comunicación interna del equipo resulta de vital importancia para mantener un correcto flujo de desempeño y lograr que todos puedan cumplir con los objetivos actuales. <br><br> La retroalimentación de los usuarios en la entrevista ha sido valiosa para mejorar nuestra aplicación y cumplir con sus necesidades. La comunicación interna y la priorización de tareas son clave para un desarrollo exitoso. <br><br> El video about the product nos permitirá presentar un demo de nuestro producto a nuestros clientes potenciales, por lo que resulta indispensable al ser una primera vista de la aplicación. <br><br> Incluir un testimonio personal en el video "About the Team" resalta las actividades y esfuerzos del proyecto, aportando una perspectiva humana y real. Es una oportunidad para compartir experiencias, desafíos superados, colaboración en equipo y aprendizajes obtenidos. |
 
 # Project: FoodHaven
 # Capítulo 1: Introduction
@@ -1895,6 +1904,124 @@ A continuación, presentaremos evidencia de la participación de los integrantes
 <p align="center">
   <img src="Images/cc1.PNG" alt="cc1" />
 </p>
+
+### **5.2.2 Sprint 2**
+
+#### **5.2.2.1. Sprint Planning 2\.**
+
+A continuación se podrá apreciar la tabla del sprint planificado:
+
+| Sprint 2 | Sprint 2 |
+| :---- | :---- |
+| **Sprint Planning Background**  |  |
+| Date | 2025-05-12 |
+| Time | 10:30 PM |
+| Location | Reunión virtual |
+| Prepared By | Santiago Cárdenas, Gustavo Román |
+| Attendees (to planning meeting) | Santiago Cárdenas / Gustavo Román / Luis Rodríguez / Santiago Suárez / Ricardo Cárdenas / Paulo Quincho |
+| Sprint 2 – 1 Review Summary | Durante el Sprint se completaron dieciséis historias de usuario orientadas al desarrollo del frontend de la aplicación, logrando así consolidar una primera impresión sólida de la plataforma. El equipo de desarrollo (compuesto por Paulo Quincho, Luis Rodríguez, Gustavo Román y Santiago Cárdenas) destacó que una correcta estimación de Story Points y una buena definición de tareas permitieron mantener un ritmo de trabajo constante y equilibrado. Por su parte, el diseñador UX/UI, Santiago Suárez, señaló que la estructura modular aplicada facilitó una presentación visual coherente y adaptable. Finalmente, el product owner, Ricardo Cárdenas, expresó su satisfacción con los avances obtenidos durante este Sprint. |
+| Sprint 2 – 1 Retrospective Summary | A lo largo del Sprint, el equipo destacó varios aspectos positivos, como la buena organización de tareas, una estimación temporal acertada basada en Story Points, y una comunicación constante que permitió resolver rápidamente los problemas surgidos. También se valoró la colaboración activa en la definición de criterios de aceptación, lo cual ayudó a mantener al equipo alineado. Como área de mejora, se identificó la necesidad de ajustar con mayor precisión los tiempos estimados, especialmente en actividades vinculadas al diseño visual, y de mejorar las sesiones de revisión para profundizar en los aprendizajes y en la retroalimentación brindada por el product owner. |
+| **Sprint Goal & User Stories**  |  |
+| Sprint 2 Goal | **Our focus is** on enhancing the platform’s functionality by implementing essential features for user account management, meal planning, and subscription management. This sprint included the development of user registration, secure login, profile editing, and address management within the app. Additionally, users can now customize their meal plans, select specific dishes for each day, save their weekly plan, and schedule deliveries. **We believe it delivers** a streamlined and personalized experience, empowering users to take full control of their meal planning and subscriptions. It provides convenience and flexibility, making FoodHeaven more accessible and efficient. **This will be confirmed when** users can easily register and log in, manage their delivery address, edit their profile, customize meal plans, monitor daily and weekly calorie intake, securely register payment methods, enable automatic subscription renewal, change plans, and cancel subscriptions directly from the platform. |
+| Sprint 2 Velocity | 20 |
+| Sum of Story Points | 20 |
+
+#### 
+
+#### **5.2.2.2. Aspect Leaders and Collaborators.**
+
+Se han definido los roles de líder (L) y colaborador (C) para los integrantes del grupo en cada aspecto definido del sprint
+
+Los aspectos que se han tenido en cuenta para este sprint son:
+
+1. Login y register  
+2. Home page  
+3. Pestaña de calendario  
+4. Pestaña de planes  
+5. Pestaña de perfil y configuración  
+6. Implementación de fake API
+
+| Team Member (Last Name, First Name) | GitHub Username | Login and register | Home page | Calendar tab  | Plans tab  | Profile and Settings Tab  | Implementation of fake API |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Quincho Gamarra, Paulo Percy | Paulo02-pixel | C | C | C | L | C | C |
+| Cárdenas Concha, Santiago Iván | Sack136 | C | C | C | C | L | C |
+| Román Pajuelo, Luis Gustavo | Raizo400 | C | L | C | C | C | C |
+| Suárez Romero, Santiago Manuel | SDarXx | C | C | L | C | C | C |
+| Cárdenas Minaya, Ricardo Fernando | Kratosllego | C | C | C | C | C | L |
+| Rodríguez Rodríguez, Luis Piero | luissssrr | L | C | C | C | C | C |
+
+#### **5.2.2.3. Sprint Backlog 2\.**
+
+| Sprint \#2 |  | Sprint \#2 |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| User Story ID | User Story Title | Work Item ID | Task Title | Task Description | Estimation (Hours) | Assigned To | Status |
+| US13 | Registro de usuario | WU13-1 | Diseño de formulario de registro | Crear formulario con campos de correo y contraseña | 2 | Developer Team | Done |
+| US13 | Registro de usuario | WU13-2 | Validaciones en formulario | Implementar validaciones para campos obligatorios | 2 | Developer Team | Done |
+| US14 | Inicio de sesión seguro | WU14-1 | Diseño de formulario de inicio | Crear formulario con campos de correo y contraseña | 2 | Developer Team | Done |
+| US14 | Inicio de sesión seguro | WU14-2 | Gestión de errores de autenticación | Mostrar mensajes de error si los datos son incorrectos | 2 | Developer Team | Done |
+| US15 | Gestión de dirección de entrega en el perfil | WU15-1 | Formulario de dirección | Agregar campos para ciudad, distrito y dirección | 2 | Developer Team | Done |
+| US15 | Gestión de dirección de entrega en el perfil | WU15-2 | Guardar dirección | Guardar y mostrar dirección en el perfil del usuario | 2 | Developer Team | Done |
+| US16 | Edición del perfil de usuario desde la app | WU16-1 | Formulario de edición | Permitir editar nombre, correo y número de teléfono | 2 | Developer Team | Done |
+| US17 | Selección de combinación de comidas del plan | WU17-1 | Checkbox de comidas | Permitir seleccionar desayuno, almuerzo o cena | 2 | Developer Team | Done |
+| US18 | Selección de platos para cada día de la semana | WU18-1 | Interfaz de selección | Mostrar platos disponibles por día de la semana | 2 | Developer Team | Done |
+| US20 | Guardado y confirmación del plan semanal | WU20-1 | Botón de confirmación | Guardar el plan semanal y mostrar resumen | 2 | Developer Team | Done |
+| US21 | Confirmación de la programación de entregas | WU21-1 | Programar entregas | Permitir al usuario ver y confirmar horarios de entrega | 2 | Developer Team | Done |
+| US22 | Consulta del valor calórico de cada plato | WU22-1 | Mostrar calorías por plato | Mostrar calorías en la vista del detalle de cada plato | 2 | Developer Team | Done |
+| US23 | Visualización del total de calorías diarias del plan | WU23-1 | Calorías por día | Mostrar total calórico por día en el calendario | 2 | Developer Team | Done |
+| US24 | Visualización del total de calorías semanales del plan | WU24-1 | Suma semanal | Mostrar total de calorías de la semana | 2 | Developer Team | Done |
+| US29 | Selección de plan de suscripción | WU29-1 | Cards de planes | Diseñar interfaz con diferentes planes y precios | 2 | Developer Team | Done |
+| US30 | Registro de método de pago seguro | WU30-1 | Formulario de pago | Diseñar formulario para agregar tarjeta o medio de pago | 2 | Developer Team | Done |
+| US31 | Renovación automática de suscripción | WU31-1 | Toggle de renovación | Agregar opción de activar o desactivar renovación | 2 | Developer Team | Done |
+| US32 | Cambio de plan de suscripción | WU23-2 | Cambio de plan | Permitir al usuario seleccionar un nuevo plan activo | 2 | Developer Team | Done |
+| US33 | Cancelación de suscripción | WU24-2 | Confirmación de cancelación | Mostrar opciones de cancelación y confirmar acción | 2 | Developer Team | Done |
+
+#### **5.2.2.4. Development Evidence for Sprint Review.**
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| Paulo02-pixel/1ASI0730-2510-4371-G03-FoodHaven/Front-End | feature/main | 65h56fj | feat: Desarrollo de front end | feat: Implementación de planes y cuenta | 13/05/2025 |
+| Raizo400/1ASI0730-2510-4371-G03-FoodHaven/Front-End | feature/main | 4mv3dol | feat: Desarrollo de front end | feat: Implementación de home page | 13/05/2025 |
+| SDarXx/1ASI0730-2510-4371-G03-FoodHaven/Front-End | feature/main | gd3l59d | feat: Desarrollo de front end | feat: Implementación de calendario | 13/05/2025 |
+| Kratosllego/1ASI0730-2510-4371-G03-FoodHaven/Front-End | feature/main | 4g2dnxf | feat: Desarrollo de front end | feat: Creación de Fake API | 13/05/2025 |
+| Sack136/1ASI0730-2510-4371-G03-FoodHaven/Front-End | feature/main | 3lmkv3e | feat: Desarrollo de front end | feat: Implementación de configuración | 13/05/2025 |
+| luissssrr/1ASI0730-2510-4371-G03-FoodHaven/Front-End | feature/main | 3kg3mcg | feat: Desarrollo de front end | feat: Implementación de login y register | 13/05/2025 |
+
+#### 
+
+#### **5.2.2.5. Execution Evidence for Sprint Review.**
+
+Durante el Sprint 2, se desarrollaron 16 historias de usuario centradas en la construcción del apartado frontend de las mismas.
+
+El equipo cumplió con todas los entregables planeados, ya faltando la implementación de un backend para hacerlo funcional.
+
+A continuación, mostraremos las evidencias de nuestro trabajo en este sprint:
+
+IMAGENES
+
+#### **5.2.2.6. Services Documentation Evidence for Sprint Review.**
+
+FALTA
+
+#### **5.2.2.7. Software Deployment Evidence for Sprint Review.**
+
+En este sprint, el equipo realizó el despliegue de la parte frontend del proyecto.
+
+1. Se creó un repositorio público en github: [https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Front-End](https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Front-End)  
+2. Gracias al uso de GitHub (y por ende, GitHub Pages), la aplicación se actualiza de forma automática después de cada commit, de esta forma no hay problema para avanzar la misma.  
+3. Se evaluó el rendimiento de la aplicación web y se verificó que todo estaba óptimo.
+
+Gracias a este avance, se puede visualizar todo el apartado frontend del proyecto
+
+#### **5.2.2.8. Team Collaboration Insights during Sprint.**
+
+A lo largo de este Sprint, el equipo centró sus esfuerzos en el desarrollo funcional de la plataforma FoodHeaven utilizando Vue.js como framework principal. Se trabajó en la implementación completa de interfaces clave, como la pantalla de selección de platos, el calendario semanal, el flujo de registro e inicio de sesión, así como la gestión de perfil y suscripciones. Se emplearon algunos componentes de PrimeVue para optimizar la experiencia de usuario en botones y calendarios. Además, se llevaron a cabo tareas de integración de vistas y navegación entre secciones. Todo el equipo participó activamente en el desarrollo, asegurando una experiencia fluida y coherente para el usuario final.
+
+**Análiticas de colaboración GitHub:**
+
+A continuación, presentaremos evidencia de la participación de los integrantes en el GitHub:
+
+FALTA SUBIR TODO A GITHUB CON COMMIT
 
 # Conclusiones
 - FoodHeaven aborda un problema común: muchas personas con rutinas ocupadas no logran planificar ni preparar comidas saludables por falta de tiempo. Esto las obliga a optar por soluciones rápidas (comida rápida, improvisada) que comprometen su nutrición y bienestar diario.
