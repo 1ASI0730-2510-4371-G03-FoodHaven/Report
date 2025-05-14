@@ -47,6 +47,7 @@ Aplicaciones Web <br>
 |         | 16/04/2025  | Santiago Manuel Suárez Romero                                          | Desarrollo del capítulo IV: Software Object-Oriented Design y Database Design                                                                      |
 |         | 18/04/2025  | Santiago Manuel Suárez Romero                                          | Desarrollo del capítulo V: Software Configuration Management                                                                                       |
 |         | 20/04/2025  | Luis Gustavo Román Pajuelo, Luis Piero Rodríguez Rodríguez             | Desarrollo del capítulo V: Sprint Planning 1                                                                                                        |
+| TB2     | 14/04/2025  | Santiago Iván Cárdenas Concha, Luis Piero Rodríguez Rodríguez, Paulo Percy Quincho Gamarra, Luis Gustavo Román Pajuelo, Ricardo Fernando Cárdenas Minaya, Santiago Manuel Suárez Romero            | Desarrollo de sprint 2                                                                                                  |
 
 # Project Report Collaboration Insights
 Link del repositorio: https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Report
