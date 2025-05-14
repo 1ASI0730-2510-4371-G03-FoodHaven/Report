@@ -2007,9 +2007,10 @@ FALTA
 
 En este sprint, el equipo realizó el despliegue de la parte frontend del proyecto.
 
-1. Se creó un repositorio público en github: [https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Front-End](https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Front-End)  
-2. Gracias al uso de GitHub (y por ende, GitHub Pages), la aplicación se actualiza de forma automática después de cada commit, de esta forma no hay problema para avanzar la misma.  
-3. Se evaluó el rendimiento de la aplicación web y se verificó que todo estaba óptimo.
+1. Se creó un repositorio público en github: [https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Front-End](https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Front-End)
+2. Se puede ver la pagina en ejecución en: https://1asi0730-2510-4371-g03-foodhaven.github.io/Front-End/#/
+3. Gracias al uso de GitHub (y por ende, GitHub Pages), la aplicación se actualiza de forma automática después de cada commit, de esta forma no hay problema para avanzar la misma.  
+4. Se evaluó el rendimiento de la aplicación web y se verificó que todo estaba óptimo.
 
 Gracias a este avance, se puede visualizar todo el apartado frontend del proyecto
 
