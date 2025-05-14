@@ -31,7 +31,7 @@ Aplicaciones Web <br>
 
 </div>
 
-<p align="center"><strong>Abril, 2025-1</strong></p>
+<p align="center"><strong>Abril, 2025-01</strong></p>
 
 # Registro de Versiones del Informe
 | Versión | Fecha       | Autor(es)                                                              | Descripción                                                                                                                                         |
@@ -1956,25 +1956,25 @@ Los aspectos que se han tenido en cuenta para este sprint son:
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | User Story |  | Work-Item / Task |  |  |  |  |  |
 | User Story ID | User Story Title | Work Item ID | Task Title | Task Description | Estimation (Hours) | Assigned To | Status |
-| US13 | Registro de usuario | WU13-1 | Diseño de formulario de registro | Crear formulario con campos de correo y contraseña | 2 | Developer Team | Done |
-| US13 | Registro de usuario | WU13-2 | Validaciones en formulario | Implementar validaciones para campos obligatorios | 2 | Developer Team | Done |
-| US14 | Inicio de sesión seguro | WU14-1 | Diseño de formulario de inicio | Crear formulario con campos de correo y contraseña | 2 | Developer Team | Done |
-| US14 | Inicio de sesión seguro | WU14-2 | Gestión de errores de autenticación | Mostrar mensajes de error si los datos son incorrectos | 2 | Developer Team | Done |
-| US15 | Gestión de dirección de entrega en el perfil | WU15-1 | Formulario de dirección | Agregar campos para ciudad, distrito y dirección | 2 | Developer Team | Done |
-| US15 | Gestión de dirección de entrega en el perfil | WU15-2 | Guardar dirección | Guardar y mostrar dirección en el perfil del usuario | 2 | Developer Team | Done |
-| US16 | Edición del perfil de usuario desde la app | WU16-1 | Formulario de edición | Permitir editar nombre, correo y número de teléfono | 2 | Developer Team | Done |
-| US17 | Selección de combinación de comidas del plan | WU17-1 | Checkbox de comidas | Permitir seleccionar desayuno, almuerzo o cena | 2 | Developer Team | Done |
-| US18 | Selección de platos para cada día de la semana | WU18-1 | Interfaz de selección | Mostrar platos disponibles por día de la semana | 2 | Developer Team | Done |
-| US20 | Guardado y confirmación del plan semanal | WU20-1 | Botón de confirmación | Guardar el plan semanal y mostrar resumen | 2 | Developer Team | Done |
-| US21 | Confirmación de la programación de entregas | WU21-1 | Programar entregas | Permitir al usuario ver y confirmar horarios de entrega | 2 | Developer Team | Done |
-| US22 | Consulta del valor calórico de cada plato | WU22-1 | Mostrar calorías por plato | Mostrar calorías en la vista del detalle de cada plato | 2 | Developer Team | Done |
-| US23 | Visualización del total de calorías diarias del plan | WU23-1 | Calorías por día | Mostrar total calórico por día en el calendario | 2 | Developer Team | Done |
-| US24 | Visualización del total de calorías semanales del plan | WU24-1 | Suma semanal | Mostrar total de calorías de la semana | 2 | Developer Team | Done |
-| US29 | Selección de plan de suscripción | WU29-1 | Cards de planes | Diseñar interfaz con diferentes planes y precios | 2 | Developer Team | Done |
-| US30 | Registro de método de pago seguro | WU30-1 | Formulario de pago | Diseñar formulario para agregar tarjeta o medio de pago | 2 | Developer Team | Done |
-| US31 | Renovación automática de suscripción | WU31-1 | Toggle de renovación | Agregar opción de activar o desactivar renovación | 2 | Developer Team | Done |
-| US32 | Cambio de plan de suscripción | WU23-2 | Cambio de plan | Permitir al usuario seleccionar un nuevo plan activo | 2 | Developer Team | Done |
-| US33 | Cancelación de suscripción | WU24-2 | Confirmación de cancelación | Mostrar opciones de cancelación y confirmar acción | 2 | Developer Team | Done |
+| US13 | Registro de usuario | WU13-1 | Diseño de formulario de registro | Crear formulario con campos de correo y contraseña | 2 | Developer Team | In Progress |
+| US13 | Registro de usuario | WU13-2 | Validaciones en formulario | Implementar validaciones para campos obligatorios | 2 | Developer Team | In Progress |
+| US14 | Inicio de sesión seguro | WU14-1 | Diseño de formulario de inicio | Crear formulario con campos de correo y contraseña | 2 | Developer Team | In Progress |
+| US14 | Inicio de sesión seguro | WU14-2 | Gestión de errores de autenticación | Mostrar mensajes de error si los datos son incorrectos | 2 | Developer Team | In Progress |
+| US15 | Gestión de dirección de entrega en el perfil | WU15-1 | Formulario de dirección | Agregar campos para ciudad, distrito y dirección | 2 | Developer Team | In Progress |
+| US15 | Gestión de dirección de entrega en el perfil | WU15-2 | Guardar dirección | Guardar y mostrar dirección en el perfil del usuario | 2 | Developer Team | In Progress |
+| US16 | Edición del perfil de usuario desde la app | WU16-1 | Formulario de edición | Permitir editar nombre, correo y número de teléfono | 2 | Developer Team | In Progress |
+| US17 | Selección de combinación de comidas del plan | WU17-1 | Checkbox de comidas | Permitir seleccionar desayuno, almuerzo o cena | 2 | Developer Team | In Progress |
+| US18 | Selección de platos para cada día de la semana | WU18-1 | Interfaz de selección | Mostrar platos disponibles por día de la semana | 2 | Developer Team | In Progress |
+| US20 | Guardado y confirmación del plan semanal | WU20-1 | Botón de confirmación | Guardar el plan semanal y mostrar resumen | 2 | Developer Team | In Progress |
+| US21 | Confirmación de la programación de entregas | WU21-1 | Programar entregas | Permitir al usuario ver y confirmar horarios de entrega | 2 | Developer Team | In Progress |
+| US22 | Consulta del valor calórico de cada plato | WU22-1 | Mostrar calorías por plato | Mostrar calorías en la vista del detalle de cada plato | 2 | Developer Team | In Progress |
+| US23 | Visualización del total de calorías diarias del plan | WU23-1 | Calorías por día | Mostrar total calórico por día en el calendario | 2 | Developer Team | In Progress |
+| US24 | Visualización del total de calorías semanales del plan | WU24-1 | Suma semanal | Mostrar total de calorías de la semana | 2 | Developer Team | In Progress |
+| US29 | Selección de plan de suscripción | WU29-1 | Cards de planes | Diseñar interfaz con diferentes planes y precios | 2 | Developer Team | In Progress |
+| US30 | Registro de método de pago seguro | WU30-1 | Formulario de pago | Diseñar formulario para agregar tarjeta o medio de pago | 2 | Developer Team | In Progress |
+| US31 | Renovación automática de suscripción | WU31-1 | Toggle de renovación | Agregar opción de activar o desactivar renovación | 2 | Developer Team | In Progress |
+| US32 | Cambio de plan de suscripción | WU23-2 | Cambio de plan | Permitir al usuario seleccionar un nuevo plan activo | 2 | Developer Team | In Progress |
+| US33 | Cancelación de suscripción | WU24-2 | Confirmación de cancelación | Mostrar opciones de cancelación y confirmar acción | 2 | Developer Team | In Progress |
 
 #### **5.2.2.4. Development Evidence for Sprint Review.**
 
