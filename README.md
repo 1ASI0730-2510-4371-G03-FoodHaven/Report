@@ -1995,13 +1995,47 @@ Durante el Sprint 2, se desarrollaron 16 historias de usuario centradas en la co
 
 El equipo cumplió con todas los entregables planeados, ya faltando la implementación de un backend para hacerlo funcional.
 
-A continuación, mostraremos las evidencias de nuestro trabajo en este sprint:
-
-IMAGENES
-
 #### **5.2.2.6. Services Documentation Evidence for Sprint Review.**
 
-FALTA
+Durante el Sprint 2, el desarrollo del frontend de FoodHeaven para las funcionalidades del usuario, comida se implementó con la API fake. La api se localizó en una carpeta server y dentro se encuentra el archivo db.json, el cual tiene la información de datos utilizada, además estos datos ayudaron a simular la base de datos sin tenerla de verdad.
+
+| Endpoint Simulado (Fake API)                           | Entidad Principal Gestionado                            | Operaciones CRUD (Simuladas) vía JSON Server | Futuro Alcance con OpenAPI                                                                                     |
+|--------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| [http://localhost:3000/Usuario](http://localhost:3000/Usuario)           | Usuario (User)                                           | GET, PUT                                      | Documentación para la información de usuarios registrados en la plataforma.                                     |
+| [http://localhost:3000/TipoProveedor](http://localhost:3000/TipoProveedor) | Tipo de Proveedor (Supplier Type)                       | GET                                           | Documentación para obtener la información de los tipos de proveedores disponibles.                              |
+| [http://localhost:3000/Proveedor](http://localhost:3000/Proveedor)         | Proveedor (Supplier)                                     | GET                                           | Documentación para obtener la información de los proveedores.                                                   |
+| [http://localhost:3000/TipoComida](http://localhost:3000/TipoComida)       | Tipo de Comida (Meal Type)                              | GET                                           | Documentación para obtener la información de los tipos de comida.                                               |
+| [http://localhost:3000/Comida](http://localhost:3000/Comida)               | Comida (Meal)                                            | GET, POST, DELETE (Por ID)                   | Documentación para obtener la información de la comida.                                                         |
+| [http://localhost:3000/PlanComidas](http://localhost:3000/PlanComidas)     | Plan de comidas (Meal Plan)                             | GET                                           | Documentación para obtener la información.                                                                      |
+| [http://localhost:3000/DetallePlanComidas](http://localhost:3000/DetallePlanComidas) | Detalle de plan de comidas (Meal Plan Details)          | GET                                           | Documentación para consultar el contenido detallado de cada plan de comida.                                     |
+| [http://localhost:3000/TipoMetodoPago](http://localhost:3000/TipoMetodoPago) | Tipo de método de pago (Payment Method Type)            | GET                                           | Documentación para obtener la información de los tipos de métodos de pago permitidos.                           |
+| [http://localhost:3000/MetodoPago](http://localhost:3000/MetodoPago)       | Método de pago (Payment Method)                         | GET                                           | Documentación para obtener la información de los métodos de pago habilitados para los usuarios.                 |
+| [http://localhost:3000/Pedido](http://localhost:3000/Pedido)               | Pedido (Order)                                           | GET, POST                                     | Documentación para obtener la información de los pedidos realizados.                                            |
+| [http://localhost:3000/DetallePedido](http://localhost:3000/DetallePedido) | Detalle del pedido (Order Details)                      | GET                                           | Documentación para visualizar los productos específicos de cada pedido.                                         |
+| [http://localhost:3000/DetalleEntrega](http://localhost:3000/DetalleEntrega) | Detalle de entrega (Delivery Details)                   | GET                                           | Documentación para conocer la información de entrega de cada pedido.                                            |
+
+URL de la API local simulada:  http://localhost:3000/
+En las siguientes imágenes se presenta el resultado esperado al acceder al endpoint 
+
+<p align="center">
+  <img src="Images/api1.jpg" alt="cc" />
+</p>
+
+<p align="center">
+  <img src="Images/api2.jpg" alt="cc" />
+</p>
+
+<p align="center">
+  <img src="Images/api3.jpg" alt="cc" />
+</p>
+
+<p align="center">
+  <img src="Images/api4.jpg" alt="cc" />
+</p>
+
+<p align="center">
+  <img src="Images/api5.jpg" alt="cc" />
+</p>
 
 #### **5.2.2.7. Software Deployment Evidence for Sprint Review.**
 
@@ -2017,12 +2051,6 @@ Gracias a este avance, se puede visualizar todo el apartado frontend del proyect
 #### **5.2.2.8. Team Collaboration Insights during Sprint.**
 
 A lo largo de este Sprint, el equipo centró sus esfuerzos en el desarrollo funcional de la plataforma FoodHeaven utilizando Vue.js como framework principal. Se trabajó en la implementación completa de interfaces clave, como la pantalla de selección de platos, el calendario semanal, el flujo de registro e inicio de sesión, así como la gestión de perfil y suscripciones. Se emplearon algunos componentes de PrimeVue para optimizar la experiencia de usuario en botones y calendarios. Además, se llevaron a cabo tareas de integración de vistas y navegación entre secciones. Todo el equipo participó activamente en el desarrollo, asegurando una experiencia fluida y coherente para el usuario final.
-
-**Análiticas de colaboración GitHub:**
-
-A continuación, presentaremos evidencia de la participación de los integrantes en el GitHub:
-
-FALTA SUBIR TODO A GITHUB CON COMMIT
 
 # Conclusiones
 - FoodHeaven aborda un problema común: muchas personas con rutinas ocupadas no logran planificar ni preparar comidas saludables por falta de tiempo. Esto las obliga a optar por soluciones rápidas (comida rápida, improvisada) que comprometen su nutrición y bienestar diario.
