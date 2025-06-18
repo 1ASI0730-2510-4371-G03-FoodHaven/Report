@@ -31,7 +31,7 @@ Aplicaciones Web <br>
 
 </div>
 
-<p align="center"><strong>Abril, 2025-01</strong></p>
+<p align="center"><strong>Junio, 2025-01</strong></p>
 
 # Registro de Versiones del Informe
 | Versión | Fecha       | Autor(es)                                                              | Descripción                                                                                                                                         |
@@ -52,7 +52,7 @@ Aplicaciones Web <br>
 # Project Report Collaboration Insights
 Link del repositorio: https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Report
 
-Insights TB1 (Todos participaron):
+Insights (Todos participaron):
 <p align="left">
   <img src="Images/insightstb1.PNG" alt="tb1avance" width="500">
 </p>
