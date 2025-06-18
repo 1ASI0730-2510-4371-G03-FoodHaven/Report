@@ -12,7 +12,7 @@ Aplicaciones Web <br>
 
 <h3 align="center">Startup: EuroCausas</h3>
 <p align="center"><strong>Producto: FoodHeaven</strong></p>
-<p align="center"><strong>Ciclo: 2025-1</strong></p>
+<p align="center"><strong>Ciclo: 2025-10</strong></p>
 
 <h3 align="center">Team Members:</h3>
 
@@ -31,7 +31,7 @@ Aplicaciones Web <br>
 
 </div>
 
-<p align="center"><strong>Junio, 2025-01</strong></p>
+<p align="center"><strong>Junio, 2025</strong></p>
 
 # Registro de Versiones del Informe
 | Versión | Fecha       | Autor(es)                                                              | Descripción                                                                                                                                         |
