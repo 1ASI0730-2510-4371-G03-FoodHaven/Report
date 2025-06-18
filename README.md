@@ -47,8 +47,8 @@ Aplicaciones Web <br>
 |         | 16/04/2025  | Santiago Manuel Suárez Romero                                          | Desarrollo del capítulo IV: Software Object-Oriented Design y Database Design                                                                      |
 |         | 18/04/2025  | Santiago Manuel Suárez Romero                                          | Desarrollo del capítulo V: Software Configuration Management                                                                                       |
 |         | 20/04/2025  | Luis Gustavo Román Pajuelo, Luis Piero Rodríguez Rodríguez             | Desarrollo del capítulo V: Sprint Planning 1                                                                                                        |
-| TB2     | 14/04/2025  | Santiago Iván Cárdenas Concha, Luis Piero Rodríguez Rodríguez, Paulo Percy Quincho Gamarra, Luis Gustavo Román Pajuelo, Ricardo Fernando Cárdenas Minaya, Santiago Manuel Suárez Romero            | Desarrollo de sprint 2                                                                                                  |
-
+| TP1     | 14/05/2025  | Santiago Iván Cárdenas Concha, Luis Piero Rodríguez Rodríguez, Paulo Percy Quincho Gamarra, Luis Gustavo Román Pajuelo, Ricardo Fernando Cárdenas Minaya, Santiago Manuel Suárez Romero            | Desarrollo de sprint 2                                                                                                  |
+| TB2     | 20/06/2025  | Santiago Iván Cárdenas Concha, Luis Piero Rodríguez Rodríguez, Paulo Percy Quincho Gamarra, Luis Gustavo Román Pajuelo, Ricardo Fernando Cárdenas Minaya, Santiago Manuel Suárez Romero            | Desarrollo de sprint 3                                                                                                  |
 # Project Report Collaboration Insights
 Link del repositorio: https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Report
 
@@ -146,15 +146,29 @@ Insights (Todos participaron):
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-  - [5.2.2. Sprint 2	](#5.2.1.-sprint-1)
-    - [5.2.2.1. Sprint Planning ](#5.2.1.1.-sprint-planning-1.)
-    - [5.2.2.2. Aspect Leaders and Collaborators.	](#5.2.1.2.-aspect-leaders-and-collaborators.)
-    - [5.2.2.3. Sprint Backlog 2\.	](#5.2.1.3.-sprint-backlog-1.)
-    - [5.2.2.4. Development Evidence for Sprint Review.	](#5.2.1.4.-development-evidence-for-sprint-review.)
-    - [5.2.2.5. Execution Evidence for Sprint Review.	](#5.2.1.5.-execution-evidence-for-sprint-review.)
-    - [5.2.2.6. Services Documentation Evidence for Sprint Review.	](#5.2.1.6.-services-documentation-evidence-for-sprint-review.)
-    - [5.2.2.7. Software Deployment Evidence for Sprint Review.	](#5.2.1.7.-software-deployment-evidence-for-sprint-review.)
-    - [5.2.2.8. Team Collaboration Insights during Sprint.	](#5.2.1.8.-team-collaboration-insights-during-sprint.)
+  - [5.2.2. Sprint 2	](#5.2.2.-sprint-2)
+    - [5.2.2.1. Sprint Planning ](#5.2.2.1.-sprint-planning-2.)
+    - [5.2.2.2. Aspect Leaders and Collaborators.	](#5.2.2.2.-aspect-leaders-and-collaborators.)
+    - [5.2.2.3. Sprint Backlog 2\.	](#5.2.2.3.-sprint-backlog-2.)
+    - [5.2.2.4. Development Evidence for Sprint Review.	](#5.2.2.4.-development-evidence-for-sprint-review.)
+    - [5.2.2.5. Execution Evidence for Sprint Review.	](#5.2.2.5.-execution-evidence-for-sprint-review.)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review.	](#5.2.2.6.-services-documentation-evidence-for-sprint-review.)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review.	](#5.2.2.7.-software-deployment-evidence-for-sprint-review.)
+    - [5.2.2.8. Team Collaboration Insights during Sprint.	](#5.2.2.8.-team-collaboration-insights-during-sprint.)
+  - [5.2.3. Sprint 3	](#5.2.3.-sprint-3)
+    - [5.2.3.1. Sprint Planning ](#5.2.3.1.-sprint-planning)
+    - [5.2.3.2. Aspect Leaders and Collaborators.	](#5.2.3.2.-aspect-leaders-and-collaborators)
+    - [5.2.3.3. Sprint Backlog 3\.	](#5.2.3.3.-sprint-backlog-3)
+    - [5.2.3.4. Development Evidence for Sprint Review.	](#5.2.3.4.-development-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review.	](#5.2.3.5.-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review.	](#5.2.3.6.-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review.	](#5.2.3.7.-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint.	](#5.2.3.8.-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews](#5.3.-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas](#5.3.1.-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas](#5.3.2.-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas](#5.3.3.-evaluaciones-según-heurísticas)
+  - [5.4. Video About-the-Product](#5.4.-video-about-the-product)
   ## [Conclusiones](conclusiones)
 
   ## [Bibliografia](bibliografia)
