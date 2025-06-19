@@ -1970,22 +1970,22 @@ Los aspectos que se han tenido en cuenta para este sprint son:
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | User Story |  | Work-Item / Task |  |  |  |  |  |
 | User Story ID | User Story Title | Work Item ID | Task Title | Task Description | Estimation (Hours) | Assigned To | Status |
-| US13 | Registro de usuario | WU13-1 | Diseño de formulario de registro | Crear formulario con campos de correo y contraseña | 2 | Developer Team | In Progress |
-| US13 | Registro de usuario | WU13-2 | Validaciones en formulario | Implementar validaciones para campos obligatorios | 2 | Developer Team | In Progress |
-| US14 | Inicio de sesión seguro | WU14-1 | Diseño de formulario de inicio | Crear formulario con campos de correo y contraseña | 2 | Developer Team | In Progress |
-| US14 | Inicio de sesión seguro | WU14-2 | Gestión de errores de autenticación | Mostrar mensajes de error si los datos son incorrectos | 2 | Developer Team | In Progress |
-| US15 | Gestión de dirección de entrega en el perfil | WU15-1 | Formulario de dirección | Agregar campos para ciudad, distrito y dirección | 2 | Developer Team | In Progress |
-| US15 | Gestión de dirección de entrega en el perfil | WU15-2 | Guardar dirección | Guardar y mostrar dirección en el perfil del usuario | 2 | Developer Team | In Progress |
-| US16 | Edición del perfil de usuario desde la app | WU16-1 | Formulario de edición | Permitir editar nombre, correo y número de teléfono | 2 | Developer Team | In Progress |
+| US13 | Registro de usuario | WU13-1 | Diseño de formulario de registro | Crear formulario con campos de correo y contraseña | 2 | Developer Team | Done |
+| US13 | Registro de usuario | WU13-2 | Validaciones en formulario | Implementar validaciones para campos obligatorios | 2 | Developer Team | Done |
+| US14 | Inicio de sesión seguro | WU14-1 | Diseño de formulario de inicio | Crear formulario con campos de correo y contraseña | 2 | Developer Team | Done |
+| US14 | Inicio de sesión seguro | WU14-2 | Gestión de errores de autenticación | Mostrar mensajes de error si los datos son incorrectos | 2 | Developer Team | Done |
+| US15 | Gestión de dirección de entrega en el perfil | WU15-1 | Formulario de dirección | Agregar campos para ciudad, distrito y dirección | 2 | Developer Team | Done |
+| US15 | Gestión de dirección de entrega en el perfil | WU15-2 | Guardar dirección | Guardar y mostrar dirección en el perfil del usuario | 2 | Developer Team | Done |
+| US16 | Edición del perfil de usuario desde la app | WU16-1 | Formulario de edición | Permitir editar nombre, correo y número de teléfono | 2 | Developer Team | Done |
 | US17 | Selección de combinación de comidas del plan | WU17-1 | Checkbox de comidas | Permitir seleccionar desayuno, almuerzo o cena | 2 | Developer Team | In Progress |
 | US18 | Selección de platos para cada día de la semana | WU18-1 | Interfaz de selección | Mostrar platos disponibles por día de la semana | 2 | Developer Team | In Progress |
 | US20 | Guardado y confirmación del plan semanal | WU20-1 | Botón de confirmación | Guardar el plan semanal y mostrar resumen | 2 | Developer Team | In Progress |
 | US21 | Confirmación de la programación de entregas | WU21-1 | Programar entregas | Permitir al usuario ver y confirmar horarios de entrega | 2 | Developer Team | In Progress |
-| US22 | Consulta del valor calórico de cada plato | WU22-1 | Mostrar calorías por plato | Mostrar calorías en la vista del detalle de cada plato | 2 | Developer Team | In Progress |
+| US22 | Consulta del valor calórico de cada plato | WU22-1 | Mostrar calorías por plato | Mostrar calorías en la vista del detalle de cada plato | 2 | Developer Team | Done |
 | US23 | Visualización del total de calorías diarias del plan | WU23-1 | Calorías por día | Mostrar total calórico por día en el calendario | 2 | Developer Team | In Progress |
 | US24 | Visualización del total de calorías semanales del plan | WU24-1 | Suma semanal | Mostrar total de calorías de la semana | 2 | Developer Team | In Progress |
-| US29 | Selección de plan de suscripción | WU29-1 | Cards de planes | Diseñar interfaz con diferentes planes y precios | 2 | Developer Team | In Progress |
-| US30 | Registro de método de pago seguro | WU30-1 | Formulario de pago | Diseñar formulario para agregar tarjeta o medio de pago | 2 | Developer Team | In Progress |
+| US29 | Selección de plan de suscripción | WU29-1 | Cards de planes | Diseñar interfaz con diferentes planes y precios | 2 | Developer Team | Done |
+| US30 | Registro de método de pago seguro | WU30-1 | Formulario de pago | Diseñar formulario para agregar tarjeta o medio de pago | 2 | Developer Team | Done |
 | US31 | Renovación automática de suscripción | WU31-1 | Toggle de renovación | Agregar opción de activar o desactivar renovación | 2 | Developer Team | In Progress |
 | US32 | Cambio de plan de suscripción | WU23-2 | Cambio de plan | Permitir al usuario seleccionar un nuevo plan activo | 2 | Developer Team | In Progress |
 | US33 | Cancelación de suscripción | WU24-2 | Confirmación de cancelación | Mostrar opciones de cancelación y confirmar acción | 2 | Developer Team | In Progress |
@@ -2065,6 +2065,193 @@ Gracias a este avance, se puede visualizar todo el apartado frontend del proyect
 #### **5.2.2.8. Team Collaboration Insights during Sprint.**
 
 A lo largo de este Sprint, el equipo centró sus esfuerzos en el desarrollo funcional de la plataforma FoodHeaven utilizando Vue.js como framework principal. Se trabajó en la implementación completa de interfaces clave, como la pantalla de selección de platos, el calendario semanal, el flujo de registro e inicio de sesión, así como la gestión de perfil y suscripciones. Se emplearon algunos componentes de PrimeVue para optimizar la experiencia de usuario en botones y calendarios. Además, se llevaron a cabo tareas de integración de vistas y navegación entre secciones. Todo el equipo participó activamente en el desarrollo, asegurando una experiencia fluida y coherente para el usuario final.
+
+### **5.2.3 Sprint 3**
+
+#### **5.2.3.1. Sprint Planning 3\.**
+
+A continuación se podrá apreciar la tabla del sprint planificado:
+
+| Sprint 3 | Sprint 3 |
+| :---- | :---- |
+| **Sprint Planning Background**  |  |
+| Date | 2025-06-15 |
+| Time | 10:30 PM |
+| Location | Reunión virtual |
+| Prepared By | Paulo Quincho, Ricardo Cárdenas |
+| Attendees (to planning meeting) | Santiago Cárdenas / Gustavo Román / Luis Rodríguez / Santiago Suárez / Ricardo Cárdenas / Paulo Quincho |
+| Sprint 3 – 1 Review Summary | Durante el Sprint 3, el equipo de FoodHeaven abordó un total de 14 historias de usuario que comprendieron tanto la implementación de funcionalidades del backend como mejoras y correcciones en el frontend. Esta fase permitió fortalecer la estructura técnica del sistema, optimizando la base de datos en MySQL. Paralelamente, se aplicaron ajustes visuales y funcionales en la interfaz desarrollada con Vue.js, elevando la experiencia de usuario y corrigiendo errores detectados en sprints anteriores.
+Luis Rodríguez, Luis Román y Paulo Quincho se enfocaron en la lógica de base de datos, relaciones entre tablas y consultas eficientes para garantizar rendimiento y consistencia. Santiago Suárez, Ricardo Cárdenas y Santiago Cárdenas lideraron la revisión del frontend, incorporando ajustes visuales, mejoras de usabilidad y adaptación responsive en distintas vistas.
+Además, se implementó Swagger junto con documentación OpenAPI para estandarizar los endpoints RESTful y facilitar la visualización y prueba de servicios. Esta documentación no solo mejora la comunicación técnica interna, sino que también prepara la plataforma para futuras integraciones. |
+| Sprint 3 – 1 Retrospective Summary | Durante el Sprint 3, el equipo de FoodHeaven consolidó los cimientos del backend de la plataforma, logrando una integración efectiva de los servicios esenciales. Se avanzó notablemente en la optimización de la base de datos en MySQL, con consultas refinadas que mejoraron el rendimiento general del sistema. Gracias a una dinámica de trabajo coordinada, las funcionalidades backend se desarrollaron de forma fluida, complementadas con ajustes visuales y funcionales en el frontend para garantizar una experiencia más robusta para el usuario.
+Además, se logró estructurar correctamente las APIs RESTful necesarias para manejar operaciones. En cuanto a la documentación, se utilizó Swagger y OpenAPI para describir los endpoints implementados, lo cual facilitó la validación e integración entre componentes del sistema. Como objetivos para el siguiente Sprint, se propone seguir optimizando las consultas SQL, ampliar la documentación técnica de los endpoints más complejos, reforzar la seguridad del sistema y realizar pruebas exhaustivas que garanticen estabilidad y fiabilidad en todo el flujo funcional. |
+| **Sprint Goal & User Stories**  |  |
+| Sprint 3 Goal | **Our focus is** on strengthening both the backend and improving the frontend of the FoodHeaven platform. This Sprint involved the implementation of 20 user stories, covering everything from creating essential MySQL endpoints for subscriptions, users, and meal combinations, to significant improvements in user experience and interface fixes in the Vue.js frontend. Key features like meal selection, delivery scheduling, and payment processing were also integrated to create a more complete and seamless digital ecosystem.
+
+**We believe it delivers** a robust technical foundation that ensures operational efficiency and enhanced usability. With optimized SQL queries, fully functional APIs, and a refined interface, the application now provides a faster, more stable experience tailored to user needs. Documentation through OpenAPI also enhances system clarity and enables smoother integration of future modules or external services.
+
+**This will be confirmed when** users are able to perform actions like customizing their meal plans, managing subscriptions, and receiving delivery confirmations without issues. Additionally, backend performance will be validated through load testing, a seamless frontend experience, and accurate responses from all documented endpoints. A fully integrated, error-free experience will confirm the Sprint’s success. |
+| Sprint 3 Velocity | 60 |
+| Sum of Story Points | 60 |
+
+#### 
+
+#### **5.2.3.2. Aspect Leaders and Collaborators.**
+
+Se han definido los roles de líder (L) y colaborador (C) para los integrantes del grupo en cada aspecto definido del sprint
+
+Los aspectos que se han tenido en cuenta para este sprint son:
+
+1. 
+
+| Team Member (Last Name, First Name) | GitHub Username | Login and register | Home page | Calendar tab  | Plans tab  | Profile and Settings Tab  | Implementation of fake API |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Quincho Gamarra, Paulo Percy | Paulo02-pixel | C | C | C | L | C | C |
+| Cárdenas Concha, Santiago Iván | Sack136 | C | C | C | C | L | C |
+| Román Pajuelo, Luis Gustavo | Raizo400 | C | L | C | C | C | C |
+| Suárez Romero, Santiago Manuel | SDarXx | C | C | L | C | C | C |
+| Cárdenas Minaya, Ricardo Fernando | Kratosllego | C | C | C | C | C | L |
+| Rodríguez Rodríguez, Luis Piero | luissssrr | L | C | C | C | C | C |
+
+#### **5.2.3.3. Sprint Backlog 3\.**
+
+| Sprint \#3 |  | Sprint \#3 |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| User Story ID | User Story Title | Work Item ID | Task Title | Task Description | Estimation (Hours) | Assigned To | Status |
+| US17 | Selección de combinación de comidas del plan | WU17-1 | Checkbox de comidas | Permitir seleccionar desayuno, almuerzo o cena | 6 | Developer Team | Done |
+| US18 | Selección de platos para cada día de la semana | WU18-1 | Interfaz de selección | Mostrar platos disponibles por día de la semana | 6 | Developer Team | Done |
+| US19 | Filtrado de platos según preferencias | WU19-1 | Buscador | Mostrar platos según preferencias | 6 | Developer Team | Done |
+| US20 | Guardado y confirmación del plan semanal | WU20-1 | Botón de confirmación | Guardar el plan semanal y mostrar resumen | 6 | Developer Team | Done |
+| US21 | Confirmación de la programación de entregas | WU21-1 | Programar entregas | Permitir al usuario ver y confirmar horarios de entrega | 6 | Developer Team | Done |
+| US23 | Visualización del total de calorías diarias del plan | WU23-1 | Calorías por día | Mostrar total calórico por día en el calendario | 6 | Developer Team | Done |
+| US24 | Visualización del total de calorías semanales del plan | WU24-1 | Suma semanal | Mostrar total de calorías de la semana | 6 | Developer Team | Done |
+| US25 | Sugerencias de platos durante la planificación semanal | WU25-1 | Sugerencias de platos | Mostrar platos sugeridos | 6 | Developer Team | Done |
+| US26 | Recomendaciones de menús completos según perfil | WU26-1 | Recomendaciones de menús | Mostrar menús sugeridos | 6 | Developer Team | Done |
+| US27 | Visualización del historial de consumo de comidas | WU27-1 | Historial de consumo | Mostrar historial de consumo | 6 | Developer Team | Done |
+| US28 | Resumen de consumo calórico a lo largo del tiempo | WU28-1 | Historial de consumo calórico | Mostrar calórias consumidas a lo largo del tiempo | 4 | Developer Team | Done |
+| US31 | Renovación automática de suscripción | WU31-1 | Toggle de renovación | Agregar opción de activar o desactivar renovación | 6 | Developer Team | Done |
+| US32 | Cambio de plan de suscripción | WU23-2 | Cambio de plan | Permitir al usuario seleccionar un nuevo plan activo | 6 | Developer Team | Done |
+| US33 | Cancelación de suscripción | WU24-2 | Confirmación de cancelación | Mostrar opciones de cancelación y confirmar acción | 6 | Developer Team | Done |
+
+#### **5.2.3.4. Development Evidence for Sprint Review.**
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| Paulo02-pixel/1ASI0730-2510-4371-G03-FoodHaven/Front-End | feature/main | b7k3d9p | feat: | --- | 18/06/2025 |
+| Raizo400/1ASI0730-2510-4371-G03-FoodHaven/Front-End | feature/main | l2m8q1z | feat: | --- | 18/06/2025 |
+| SDarXx/1ASI0730-2510-4371-G03-FoodHaven/Front-End | feature/main | x9t4b6n | feat: | --- | 18/06/2025 |
+| Kratosllego/1ASI0730-2510-4371-G03-FoodHaven/Front-End | feature/main | r5c2e7w | feat: | --- | 20/06/2025 |
+| Sack136/1ASI0730-2510-4371-G03-FoodHaven/Front-End | feature/main | j1v6u3y | feat: | --- | 20/06/2025 |
+| luissssrr/1ASI0730-2510-4371-G03-FoodHaven/Front-End | feature/main | d8h9s0l| feat: | ---  | 20/06/2025 |
+
+#### 
+
+#### **5.2.3.5. Execution Evidence for Sprint Review.**
+
+Durante el Sprint 3, se desarrollaron 14 historias de usuario centradas en la elaboración del apartado backend de las mismas, asi mismo se corrigieron cosas del apartado frontend.
+
+#### **5.2.3.6. Services Documentation Evidence for Sprint Review.**
+
+
+
+
+#### **5.2.3.7. Software Deployment Evidence for Sprint Review.**
+
+En este sprint, el equipo realizó el despliegue de la parte backend del proyecto.
+
+
+
+
+#### **5.2.3.8. Team Collaboration Insights during Sprint.**
+
+Durante este Sprint, el equipo enfocó sus esfuerzos en la construcción del backend funcional de la plataforma FoodHeaven, utilizando MySQL para la gestión de datos y Node.js para la lógica de servidor. Se desarrollaron e integraron endpoints esenciales que permiten operaciones como el registro e inicio de sesión de usuarios, la gestión de direcciones, la configuración de planes de suscripción y la selección de platos. Se diseñó una arquitectura eficiente que garantiza respuestas rápidas y seguras. Todo el equipo participó activamente en la programación, validación y documentación de los servicios, con el objetivo de ofrecer una base sólida para el funcionamiento general de la aplicación.
+
+## **5.3. Validation Interviews.**
+
+
+
+### **5.3.1. Diseño de Entrevistas.**
+
+**Segmento Objetivo #1: Profesionales jóvenes con rutinas exigentes**
+
+- Acerca del entrevistado:
+
+¿Cuál es tu nombre y en qué trabajas actualmente?
+¿Cómo sueles organizar tus comidas entre semana con tu estilo de vida ocupado?
+¿Has usado alguna aplicación o servicio de comida a domicilio o planificación de comidas antes?
+
+- Landing Page:
+
+¿Qué entendiste que ofrece FoodHeaven?
+¿Crees que esta plataforma está pensada para alguien como tú, que tiene poco tiempo para cocinar o planificar?
+¿Qué mejorarías en la página para hacerla más atractiva o clara para profesionales jóvenes como tú?
+
+- Aplicación web:
+
+¿Qué impresión general te dio la plataforma FoodHeaven?
+¿Te parece útil para organizar tus comidas y mantener una rutina más saludable?
+¿Fue fácil de usar y entender cómo seleccionar platos, horarios y suscripciones?
+¿Qué tan relevante te parece la opción de personalizar planes y horarios de entrega?
+¿Qué funcionalidades agregarías para que la plataforma se adapte aún mejor a tu estilo de vida?
+
+- Cierre:
+
+¿Qué es lo que más te gustó de FoodHeaven?
+¿Usarías regularmente esta plataforma para resolver tu alimentación semanal? ¿Por qué?
+
+
+**Segmento Objetivo #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo**
+
+- Acerca del entrevistado:
+
+¿Cuál es tu nombre y qué importancia le das a comer saludable en tu día a día?
+
+¿Qué haces actualmente para comer mejor o llevar una dieta más equilibrada?
+
+¿Has usado antes alguna app o servicio que te ayude con la organización de tus comidas?
+
+- Landing Page:
+
+¿Qué entendiste que ofrece FoodHeaven?
+
+¿Crees que esta plataforma puede ayudarte a comer más sano y ahorrar tiempo?
+
+¿Qué mejorarías en la página para que te resulte más atractiva o clara?
+
+- Aplicación web:
+
+¿Qué impresión general te dio la plataforma FoodHeaven?
+
+¿Crees que facilita la organización de una alimentación balanceada?
+
+¿Fue sencillo navegar, elegir platos y entender las opciones de suscripción?
+
+¿Te resultaron útiles funciones como la visualización calórica y la planificación semanal?
+
+¿Qué funcionalidades adicionales te gustaría ver para facilitar aún más tu alimentación saludable?
+
+- Cierre:
+
+¿Qué es lo que más te gustó de la plataforma?
+
+¿La usarías para mejorar tu alimentación de forma práctica? ¿Por qué?
+
+### **5.3.2. Registro de Entrevistas.**
+
+
+
+### **5.3.3. Evaluaciones según heurísticas.**
+
+
+
+### **5.4. Video About-the-Product**
+
+
+
+### **5.5. Video About-the-Team**
+
+
 
 # Conclusiones
 - FoodHeaven aborda un problema común: muchas personas con rutinas ocupadas no logran planificar ni preparar comidas saludables por falta de tiempo. Esto las obliga a optar por soluciones rápidas (comida rápida, improvisada) que comprometen su nutrición y bienestar diario.
