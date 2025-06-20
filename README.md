@@ -2159,6 +2159,14 @@ Durante el Sprint 3, se avanzó considerablemente en la construcción del backen
 
 Hemos desarrollado bounded context y APIs:
 
+<p align="left">
+  <img src="Images/api1.png" alt="entre1" width="500">
+</p>
+
+<p align="left">
+  <img src="Images/api2.png" alt="entre1" width="500">
+</p>
+
 **Comida (/api/v1/Comida):**
 Este conjunto de endpoints permite gestionar todos los platos o comidas disponibles dentro de la plataforma:
 
