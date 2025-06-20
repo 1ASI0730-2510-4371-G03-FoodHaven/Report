@@ -2159,7 +2159,7 @@ Durante el Sprint 3, se avanzó considerablemente en la construcción del backen
 
 Uno de los principales focos de este sprint fue el desarrollo completo del bounded context FoodCatalogContext, responsable de gestionar todo el ecosistema de proveedores y comidas dentro de la plataforma. Este módulo permite la creación, edición y eliminación de productos alimenticios, así como la administración de los proveedores asociados.
 
-** Funcionalidades implementadas en FoodCatalogContext**
+**Funcionalidades implementadas en FoodCatalogContext**
 1. Comidas (Comida)
 
 GET: Listar todas las comidas.
