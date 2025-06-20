@@ -2243,7 +2243,7 @@ Durante este Sprint, el equipo enfocó sus esfuerzos en la construcción del bac
 - **Distrito**: Lince, Lima
 - **Empieza en el minuto**: 0:00
 - **Duración**: 5:05
-- **Link**: 
+- **Link**: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311334_upc_edu_pe/EZgC_JTTAKZOjXTOKOMXmbcB-2rr-BG9__OnJaRXo-8LqA?e=bgevia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311334_upc_edu_pe/EZgC_JTTAKZOjXTOKOMXmbcB-2rr-BG9__OnJaRXo-8LqA?e=bgevia)
   
 **Resumen de la entrevista**:
 Gabriel, 24 años, analista de datos, señala que suele pedir menú por apps o comer algo rápido en la oficina debido a su estilo de vida acelerado. Aunque ha usado servicios como Rappi, no ha planificado sus comidas con ninguna app. Le parece que FoodHeaven ofrece una solución clara para organizar las comidas de la semana, lo cual valora positivamente ya que no tiene tiempo para pensar en eso a diario. Le gustó especialmente la vista semanal y la posibilidad de personalizar el plan. Considera útil la plataforma y la usaría si el precio es accesible.
@@ -2258,7 +2258,7 @@ Gabriel, 24 años, analista de datos, señala que suele pedir menú por apps o c
 - **Distrito**: Breña, Lima
 - **Empieza en el minuto**: 5:05
 - **Duración**: 4:27
-- **Link**: 
+- **Link**: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311334_upc_edu_pe/EZgC_JTTAKZOjXTOKOMXmbcB-2rr-BG9__OnJaRXo-8LqA?e=bgevia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311334_upc_edu_pe/EZgC_JTTAKZOjXTOKOMXmbcB-2rr-BG9__OnJaRXo-8LqA?e=bgevia)
   
 **Resumen de la entrevista**:
 Daniela, 24 años, abogada, comenta que normalmente improvisa sus comidas y recurre a delivery por falta de tiempo. No ha utilizado herramientas para planificar su alimentación. Cree que FoodHeaven está muy alineada con su necesidad de orden y practicidad, y valora la planificación semanal como un diferenciador importante. Sugiere agregar imágenes reales de los platos y considera relevante la personalización. Afirma que usaría la plataforma si se mantiene a un costo razonable y cumple con lo prometido.
@@ -2273,7 +2273,7 @@ Daniela, 24 años, abogada, comenta que normalmente improvisa sus comidas y recu
 - **Distrito**: San Borja, Lima
 - **Empieza en el minuto**: 9:33
 - **Duración**: 5:47
-- **Link**: 
+- **Link**: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311334_upc_edu_pe/EZgC_JTTAKZOjXTOKOMXmbcB-2rr-BG9__OnJaRXo-8LqA?e=bgevia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311334_upc_edu_pe/EZgC_JTTAKZOjXTOKOMXmbcB-2rr-BG9__OnJaRXo-8LqA?e=bgevia)
   
 **Resumen de la entrevista**:
 Fabian, 20 años, desarrollador de software, organiza sus comidas entre cocina nocturna y pedidos rápidos. Ha usado Rappi, pero sin planificación. Le pareció que FoodHeaven ofrece una solución funcional para recibir menús semanales predefinidos. Destaca la visualización del calendario y la importancia de repetir planes anteriores sin esfuerzo. Considera útil la propuesta y afirma que lo ayudaría a comer mejor sin perder tiempo, lo cual es clave para su estilo de vida.
@@ -2290,7 +2290,7 @@ Fabian, 20 años, desarrollador de software, organiza sus comidas entre cocina n
 - **Distrito**: Callao
 - **Empieza en el minuto**: 15:21
 - **Duración**: 5:05
-- **Link**: 
+- **Link**: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311334_upc_edu_pe/EZgC_JTTAKZOjXTOKOMXmbcB-2rr-BG9__OnJaRXo-8LqA?e=bgevia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311334_upc_edu_pe/EZgC_JTTAKZOjXTOKOMXmbcB-2rr-BG9__OnJaRXo-8LqA?e=bgevia)
   
 **Resumen de la entrevista**:
 Abigail, 22 años, diseñadora, indica que intenta comer sano aunque a veces recurre a delivery poco saludable por falta de tiempo. Usa apps para recetas pero no para organizar su alimentación. Entiende que FoodHeaven le permite elegir comidas según un plan semanal, algo que valora mucho para tener más control. Resalta la utilidad de la planificación calórica y la simplicidad de uso. Le gustaría ver filtros por tipo de comida. Afirma que lo usaría para evitar decisiones diarias y ahorrar tiempo.
@@ -2305,7 +2305,7 @@ Abigail, 22 años, diseñadora, indica que intenta comer sano aunque a veces rec
 - **Distrito**: La Victoria, Lima
 - **Empieza en el minuto**: 20:27
 - **Duración**: 4:02
-- **Link**: 
+- **Link**: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311334_upc_edu_pe/EZgC_JTTAKZOjXTOKOMXmbcB-2rr-BG9__OnJaRXo-8LqA?e=bgevia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311334_upc_edu_pe/EZgC_JTTAKZOjXTOKOMXmbcB-2rr-BG9__OnJaRXo-8LqA?e=bgevia)
   
 **Resumen de la entrevista**:
 Lukas, 20 años, estudiante independiente, considera importante comer bien por preocupación por su salud futura. Intenta cocinar en casa, aunque no siempre tiene tiempo. Le gustó la estructura clara de FoodHeaven y destaca que le permitiría planificar sin esfuerzo. Valora funciones como la visualización calórica y sugiere mejoras como mostrar equivalentes en porciones. Usaría la plataforma por la conveniencia que ofrece y porque reduce su carga mental diaria.
@@ -2320,7 +2320,7 @@ Lukas, 20 años, estudiante independiente, considera importante comer bien por p
 - **Distrito**: Surquillo, Lima
 - **Empieza en el minuto**: 24:29
 - **Duración**: 5:06
-- **Link**: 
+- **Link**: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311334_upc_edu_pe/EZgC_JTTAKZOjXTOKOMXmbcB-2rr-BG9__OnJaRXo-8LqA?e=bgevia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311334_upc_edu_pe/EZgC_JTTAKZOjXTOKOMXmbcB-2rr-BG9__OnJaRXo-8LqA?e=bgevia)
   
 **Resumen de la entrevista**:
 Juan, 20 años, oficinista, afirma que cuida su alimentación debido a su rutina sedentaria. Normalmente improvisa o lleva comida de casa. Le pareció que FoodHeaven resuelve el problema de planificar sin esfuerzo y le gustó su estructura sencilla. Considera útil la planificación semanal y las calorías visibles. Sugiere funciones como alertas sobre repetición de platos. Usaría la plataforma por su practicidad y porque le facilita mantener una alimentación saludable sin complicaciones.
