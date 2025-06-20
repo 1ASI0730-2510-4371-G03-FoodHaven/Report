@@ -2285,6 +2285,12 @@ Se integró la documentación completa de la API usando Swagger, lo cual permite
 4. Base de Datos MySQL en Azure:
 La base de datos ya se encuentra alojada en Azure, con una estructura bien definida que respeta las relaciones entre entidades como usuario, comida, proveedor, pedido y plan_comida. Se utilizó EnsureCreated() para asegurar la creación automática de tablas durante la ejecución local, y se optimizaron las operaciones básicas de consulta y persistencia.
 
+<p align="left">
+  <img src="Images/azurebdweb.png" alt="tb1avance" width="500">
+</p>
+[https://foodheavendb-feexd7axaqbya6hv.canadacentral-01.azurewebsites.net/
+](https://foodheavendb-feexd7axaqbya6hv.canadacentral-01.azurewebsites.net/)
+
 5. Preparación del Frontend (sin integración aún):
 Aunque el frontend aún no está conectado al backend, se ha dejado completamente lista la API para su consumo. Todos los endpoints están documentados, probados con datos reales, y diseñados para ser consumidos por vistas futuras relacionadas con el plan alimenticio, selección de comidas y seguimiento de pedidos.
 
