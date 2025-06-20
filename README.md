@@ -2451,9 +2451,6 @@ Lukas, 20 años, estudiante independiente, considera importante comer bien por p
 **Resumen de la entrevista**:
 Juan, 20 años, oficinista, afirma que cuida su alimentación debido a su rutina sedentaria. Normalmente improvisa o lleva comida de casa. Le pareció que FoodHeaven resuelve el problema de planificar sin esfuerzo y le gustó su estructura sencilla. Considera útil la planificación semanal y las calorías visibles. Sugiere funciones como alertas sobre repetición de platos. Usaría la plataforma por su practicidad y porque le facilita mantener una alimentación saludable sin complicaciones.
 
-### **5.3.3. Evaluaciones según heurísticas.**
-
-
 ### **5.4. Video About-the-Team**
 
 El equipo ha elaborado un video about the team el cual habla más de cada uno y lo realizado en el trabajo:
