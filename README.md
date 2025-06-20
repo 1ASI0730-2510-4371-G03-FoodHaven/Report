@@ -2400,6 +2400,7 @@ Juan, 20 años, oficinista, afirma que cuida su alimentación debido a su rutina
 ### **5.4. Video About-the-Team**
 
 El equipo ha elaborado un video about the team el cual habla más de cada uno y lo realizado en el trabajo:
+
 [https://upcedupe-my.sharepoint.com/personal/u202311207_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311207%5Fupc%5Fedu%5Fpe%2FDocuments%2FMi%20video%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee501bc26%2D2001%2D469b%2D8525%2D5c1ce049785d
 ](https://upcedupe-my.sharepoint.com/personal/u202311207_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311207%5Fupc%5Fedu%5Fpe%2FDocuments%2FMi%20video%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee501bc26%2D2001%2D469b%2D8525%2D5c1ce049785d)
 
