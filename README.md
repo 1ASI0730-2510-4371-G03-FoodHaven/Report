@@ -2234,7 +2234,7 @@ Durante este Sprint, el equipo enfocó sus esfuerzos en la construcción del bac
 #### Segmento objetivo #1: Profesionales jóvenes con rutinas exigentes
 
 <p align="left">
-  <img src="Images/borja.PNG" alt="entre1" width="500">
+  <img src="Images/borja.png" alt="entre1" width="500">
 </p>
 
 ##### Nombre: Gabriel Borja
@@ -2249,7 +2249,7 @@ Durante este Sprint, el equipo enfocó sus esfuerzos en la construcción del bac
 Gabriel, 24 años, analista de datos, señala que suele pedir menú por apps o comer algo rápido en la oficina debido a su estilo de vida acelerado. Aunque ha usado servicios como Rappi, no ha planificado sus comidas con ninguna app. Le parece que FoodHeaven ofrece una solución clara para organizar las comidas de la semana, lo cual valora positivamente ya que no tiene tiempo para pensar en eso a diario. Le gustó especialmente la vista semanal y la posibilidad de personalizar el plan. Considera útil la plataforma y la usaría si el precio es accesible.
 
 <p align="left">
-  <img src="Images/daniela.PNG" alt="entre1" width="500">
+  <img src="Images/daniela.png" alt="entre1" width="500">
 </p>
 
 ##### Nombre: Daniela Gómez
@@ -2264,7 +2264,7 @@ Gabriel, 24 años, analista de datos, señala que suele pedir menú por apps o c
 Daniela, 24 años, abogada, comenta que normalmente improvisa sus comidas y recurre a delivery por falta de tiempo. No ha utilizado herramientas para planificar su alimentación. Cree que FoodHeaven está muy alineada con su necesidad de orden y practicidad, y valora la planificación semanal como un diferenciador importante. Sugiere agregar imágenes reales de los platos y considera relevante la personalización. Afirma que usaría la plataforma si se mantiene a un costo razonable y cumple con lo prometido.
 
 <p align="left">
-  <img src="Images/blas.PNG" alt="entre1" width="500">
+  <img src="Images/blas.png" alt="entre1" width="500">
 </p>
 
 ##### Nombre: Fabián Blas
@@ -2281,7 +2281,7 @@ Fabian, 20 años, desarrollador de software, organiza sus comidas entre cocina n
 #### Segmento objetivo #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo
 
 <p align="left">
-  <img src="Images/abigail.PNG" alt="entre1" width="500">
+  <img src="Images/abigail.png" alt="entre1" width="500">
 </p>
 
 ##### Nombre: Abigail Goñe
@@ -2296,7 +2296,7 @@ Fabian, 20 años, desarrollador de software, organiza sus comidas entre cocina n
 Abigail, 22 años, diseñadora, indica que intenta comer sano aunque a veces recurre a delivery poco saludable por falta de tiempo. Usa apps para recetas pero no para organizar su alimentación. Entiende que FoodHeaven le permite elegir comidas según un plan semanal, algo que valora mucho para tener más control. Resalta la utilidad de la planificación calórica y la simplicidad de uso. Le gustaría ver filtros por tipo de comida. Afirma que lo usaría para evitar decisiones diarias y ahorrar tiempo.
 
 <p align="left">
-  <img src="Images/lukas.PNG" alt="entre1" width="500">
+  <img src="Images/lukas.png" alt="entre1" width="500">
 </p>
 
 ##### Nombre: Lukas Coronado
@@ -2311,7 +2311,7 @@ Abigail, 22 años, diseñadora, indica que intenta comer sano aunque a veces rec
 Lukas, 20 años, estudiante independiente, considera importante comer bien por preocupación por su salud futura. Intenta cocinar en casa, aunque no siempre tiene tiempo. Le gustó la estructura clara de FoodHeaven y destaca que le permitiría planificar sin esfuerzo. Valora funciones como la visualización calórica y sugiere mejoras como mostrar equivalentes en porciones. Usaría la plataforma por la conveniencia que ofrece y porque reduce su carga mental diaria.
 
 <p align="left">
-  <img src="Images/juan.PNG" alt="entre1" width="500">
+  <img src="Images/juan.png" alt="entre1" width="500">
 </p>
 
 ##### Nombre: Juan Córdova
