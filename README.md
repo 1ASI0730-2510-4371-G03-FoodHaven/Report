@@ -2157,30 +2157,79 @@ Asimismo, se integró y documentó completamente la API utilizando Swagger/OpenA
 
 Durante el Sprint 3, se avanzó considerablemente en la construcción del backend real de la plataforma FoodHeaven, sustituyendo cualquier lógica de prueba o datos simulados por una implementación funcional y estructurada, basada en una arquitectura Domain-Driven Design (DDD) sobre .NET 9 y MySQL. Si bien el frontend aún no está conectado, se dejó completamente preparado el backend para soportar dicha integración a futuro.
 
-Uno de los principales focos de este sprint fue el desarrollo completo del bounded context FoodCatalogContext, responsable de gestionar todo el ecosistema de proveedores y comidas dentro de la plataforma. Este módulo permite la creación, edición y eliminación de productos alimenticios, así como la administración de los proveedores asociados.
+Hemos desarrollado bounded context y APIs:
 
-**Funcionalidades implementadas en FoodCatalogContext**
-1. Comidas (Comida)
+**Comida (/api/v1/Comida):**
+Este conjunto de endpoints permite gestionar todos los platos o comidas disponibles dentro de la plataforma:
 
-GET: Listar todas las comidas.
-GET: Buscar una comida por nombre.
-POST: Registrar una nueva comida (nombre, descripción, calorías, tipo, proveedor, si es especial).
-PUT: Actualizar una comida existente.
-DELETE: Eliminar una comida por ID.
+GET /api/v1/Comida:
+Obtiene la lista completa de comidas registradas.
 
-2. Proveedores (Proveedor)
+POST /api/v1/Comida:
+Crea una nueva comida (nombre, descripción, calorías, tipo, proveedor, si es especial).
 
-GET: Listar todos los proveedores.
-GET: Obtener un proveedor específico por ID.
-POST: Crear un nuevo proveedor con su tipo, contacto y distrito.
-PUT: Editar la información de un proveedor.
-DELETE: Eliminar un proveedor del sistema.
+GET /api/v1/Comida/{name}:
+Busca una comida específica por su nombre.
 
-3. Tipos de comida y tipos de proveedor
+PUT /api/v1/Comida/{id}:
+Actualiza la información de una comida ya registrada, identificada por su ID.
 
-Utilizados como enumeraciones (enum) y value objects para garantizar integridad de los datos al crear o editar entidades.
+DELETE /api/v1/Comida/{id}:
+Elimina una comida específica del sistema.
 
-Siguiendo el mismo patrón aplicado en FoodCatalogContext, también se desarrollaron otros módulos del backend. 
+**PlanComida (/api/v1/PlanComida):**
+Agrupa los endpoints relacionados a la planificación semanal de comidas por parte de los usuarios:
+
+GET /api/v1/PlanComida:
+Muestra todos los planes de comida registrados.
+
+POST /api/v1/PlanComida:
+Crea un nuevo plan de comida (requiere el id_usuario, fecha_inicio, fecha_fin).
+
+GET /api/v1/PlanComida/{id}:
+Obtiene la información de un plan de comida específico por su ID.
+
+PUT /api/v1/PlanComida/{id}:
+Permite modificar los detalles de un plan existente.
+
+DELETE /api/v1/PlanComida/{id}:
+Elimina un plan de comida del sistema.
+
+**Proveedor (/api/v1/Proveedor):**
+Gestiona a los proveedores que ofrecen las comidas en la plataforma:
+
+GET /api/v1/Proveedor:
+Lista todos los proveedores disponibles.
+
+POST /api/v1/Proveedor:
+Crea un nuevo proveedor, indicando tipo, nombre, contacto, distrito.
+
+GET /api/v1/Proveedor/{id}:
+Consulta los datos de un proveedor específico mediante su ID.
+
+PUT /api/v1/Proveedor/{id}:
+Actualiza la información de un proveedor.
+
+DELETE /api/v1/Proveedor/{id}:
+Elimina un proveedor del sistema.
+
+**Usuario (/api/v1/Usuario):**
+Administra los usuarios registrados en FoodHeaven:
+
+GET /api/v1/Usuario:
+Lista a todos los usuarios de la plataforma.
+
+POST /api/v1/Usuario:
+Registra un nuevo usuario con nombre, email, contraseña, edad, sexo, distrito, etc.
+
+GET /api/v1/Usuario/{id}:
+Obtiene la información de un usuario específico por su ID.
+
+PUT /api/v1/Usuario/{id}:
+Actualiza los datos personales de un usuario registrado.
+
+DELETE /api/v1/Usuario/{id}:
+Elimina un usuario del sistema.
 
 Aunque el frontend aún no ha sido integrado, toda la API ha sido documentada y expuesta mediante Swagger, permitiendo una interacción completa y pruebas desde su interfaz. Esto permite explorar, validar y verificar cada endpoint directamente desde el navegador, dejando el backend listo para ser consumido.
 
@@ -2449,7 +2498,7 @@ UNICEF. (2022). Nutrición infantil y adolescente en el Perú. https://www.unice
 [https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Back-end](https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Back-end)
 
 ## Video de exposición TB2:
-
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311532_upc_edu_pe/Eby-RQOMX49IiKD0PGFazM4BKg9CyJFYF2FZg334hjqF5Q?e=iYmNmI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311532_upc_edu_pe/Eby-RQOMX49IiKD0PGFazM4BKg9CyJFYF2FZg334hjqF5Q?e=iYmNmI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Video About-The-Team:
 [https://upcedupe-my.sharepoint.com/personal/u202311207_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311207%5Fupc%5Fedu%5Fpe%2FDocuments%2FMi%20video%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee501bc26%2D2001%2D469b%2D8525%2D5c1ce049785d
