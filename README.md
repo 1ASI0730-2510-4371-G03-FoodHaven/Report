@@ -2184,15 +2184,14 @@ Durante este Sprint, el equipo enfocó sus esfuerzos en la construcción del bac
 
 ¿Qué impresión general te dio la plataforma FoodHeaven?
 ¿Te parece útil para organizar tus comidas y mantener una rutina más saludable?
-¿Fue fácil de usar y entender cómo seleccionar platos, horarios y suscripciones?
-¿Qué tan relevante te parece la opción de personalizar planes y horarios de entrega?
+¿Fue fácil de usar y entender cómo seleccionar platos y horarios?
+¿Qué tan relevante te parece la opción de personalizar planes?
 ¿Qué funcionalidades agregarías para que la plataforma se adapte aún mejor a tu estilo de vida?
 
 - Cierre:
 
 ¿Qué es lo que más te gustó de FoodHeaven?
 ¿Usarías regularmente esta plataforma para resolver tu alimentación semanal? ¿Por qué?
-
 
 **Segmento Objetivo #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo**
 
@@ -2218,7 +2217,7 @@ Durante este Sprint, el equipo enfocó sus esfuerzos en la construcción del bac
 
 ¿Crees que facilita la organización de una alimentación balanceada?
 
-¿Fue sencillo navegar, elegir platos y entender las opciones de suscripción?
+¿Fue sencillo navegar y elegir platos?
 
 ¿Te resultaron útiles funciones como la visualización calórica y la planificación semanal?
 
@@ -2232,7 +2231,99 @@ Durante este Sprint, el equipo enfocó sus esfuerzos en la construcción del bac
 
 ### **5.3.2. Registro de Entrevistas.**
 
+#### Segmento objetivo #1: Profesionales jóvenes con rutinas exigentes
 
+<p align="left">
+  <img src="Images/borja.PNG" alt="entre1" width="500">
+</p>
+
+##### Nombre: Gabriel Borja
+- **Ocupación**: Analista de datos
+- **Edad**: 24
+- **Distrito**: Lince, Lima
+- **Empieza en el minuto**: 0:00
+- **Duración**: 5:05
+- **Link**: 
+  
+**Resumen de la entrevista**:
+Gabriel, 24 años, analista de datos, señala que suele pedir menú por apps o comer algo rápido en la oficina debido a su estilo de vida acelerado. Aunque ha usado servicios como Rappi, no ha planificado sus comidas con ninguna app. Le parece que FoodHeaven ofrece una solución clara para organizar las comidas de la semana, lo cual valora positivamente ya que no tiene tiempo para pensar en eso a diario. Le gustó especialmente la vista semanal y la posibilidad de personalizar el plan. Considera útil la plataforma y la usaría si el precio es accesible.
+
+<p align="left">
+  <img src="Images/daniela.PNG" alt="entre1" width="500">
+</p>
+
+##### Nombre: Daniela Gómez
+- **Ocupación**: Abogada
+- **Edad**: 24
+- **Distrito**: Breña, Lima
+- **Empieza en el minuto**: 5:05
+- **Duración**: 4:27
+- **Link**: 
+  
+**Resumen de la entrevista**:
+Daniela, 24 años, abogada, comenta que normalmente improvisa sus comidas y recurre a delivery por falta de tiempo. No ha utilizado herramientas para planificar su alimentación. Cree que FoodHeaven está muy alineada con su necesidad de orden y practicidad, y valora la planificación semanal como un diferenciador importante. Sugiere agregar imágenes reales de los platos y considera relevante la personalización. Afirma que usaría la plataforma si se mantiene a un costo razonable y cumple con lo prometido.
+
+<p align="left">
+  <img src="Images/blas.PNG" alt="entre1" width="500">
+</p>
+
+##### Nombre: Fabián Blas
+- **Ocupación**: Desarrollador de software
+- **Edad**: 20
+- **Distrito**: San Borja, Lima
+- **Empieza en el minuto**: 9:33
+- **Duración**: 5:47
+- **Link**: 
+  
+**Resumen de la entrevista**:
+Fabian, 20 años, desarrollador de software, organiza sus comidas entre cocina nocturna y pedidos rápidos. Ha usado Rappi, pero sin planificación. Le pareció que FoodHeaven ofrece una solución funcional para recibir menús semanales predefinidos. Destaca la visualización del calendario y la importancia de repetir planes anteriores sin esfuerzo. Considera útil la propuesta y afirma que lo ayudaría a comer mejor sin perder tiempo, lo cual es clave para su estilo de vida.
+
+#### Segmento objetivo #2: Personas interesadas en mejorar su alimentación y ahorrar tiempo
+
+<p align="left">
+  <img src="Images/abigail.PNG" alt="entre1" width="500">
+</p>
+
+##### Nombre: Abigail Goñe
+- **Ocupación**: Diseñadora
+- **Edad**: 22
+- **Distrito**: Callao
+- **Empieza en el minuto**: 15:21
+- **Duración**: 5:05
+- **Link**: 
+  
+**Resumen de la entrevista**:
+Abigail, 22 años, diseñadora, indica que intenta comer sano aunque a veces recurre a delivery poco saludable por falta de tiempo. Usa apps para recetas pero no para organizar su alimentación. Entiende que FoodHeaven le permite elegir comidas según un plan semanal, algo que valora mucho para tener más control. Resalta la utilidad de la planificación calórica y la simplicidad de uso. Le gustaría ver filtros por tipo de comida. Afirma que lo usaría para evitar decisiones diarias y ahorrar tiempo.
+
+<p align="left">
+  <img src="Images/lukas.PNG" alt="entre1" width="500">
+</p>
+
+##### Nombre: Lukas Coronado
+- **Ocupación**: Estudiante
+- **Edad**: 20
+- **Distrito**: La Victoria, Lima
+- **Empieza en el minuto**: 20:27
+- **Duración**: 4:02
+- **Link**: 
+  
+**Resumen de la entrevista**:
+Lukas, 20 años, estudiante independiente, considera importante comer bien por preocupación por su salud futura. Intenta cocinar en casa, aunque no siempre tiene tiempo. Le gustó la estructura clara de FoodHeaven y destaca que le permitiría planificar sin esfuerzo. Valora funciones como la visualización calórica y sugiere mejoras como mostrar equivalentes en porciones. Usaría la plataforma por la conveniencia que ofrece y porque reduce su carga mental diaria.
+
+<p align="left">
+  <img src="Images/juan.PNG" alt="entre1" width="500">
+</p>
+
+##### Nombre: Juan Córdova
+- **Ocupación**: Oficinista
+- **Edad**: 20
+- **Distrito**: Surquillo, Lima
+- **Empieza en el minuto**: 24:29
+- **Duración**: 5:06
+- **Link**: 
+  
+**Resumen de la entrevista**:
+Juan, 20 años, oficinista, afirma que cuida su alimentación debido a su rutina sedentaria. Normalmente improvisa o lleva comida de casa. Le pareció que FoodHeaven resuelve el problema de planificar sin esfuerzo y le gustó su estructura sencilla. Considera útil la planificación semanal y las calorías visibles. Sugiere funciones como alertas sobre repetición de platos. Usaría la plataforma por su practicidad y porque le facilita mantener una alimentación saludable sin complicaciones.
 
 ### **5.3.3. Evaluaciones según heurísticas.**
 
