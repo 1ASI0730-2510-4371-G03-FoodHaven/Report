@@ -2095,14 +2095,19 @@ Se han definido los roles de líder (L) y colaborador (C) para los integrantes d
 
 Los aspectos que se han tenido en cuenta para este sprint son:
 
-1. 
+1. Bounded Context de mealplan
+2. Bounded Context de foodcatalog
+3. Bounded Context de users
+4. Desarrollo de base de datos
+5. Correciones
+6. Despliegue
 
-| Team Member (Last Name, First Name) | GitHub Username | Login and register | Home page | Calendar tab  | Plans tab  | Profile and Settings Tab  | Implementation of fake API |
+| Team Member (Last Name, First Name) | GitHub Username | Bounded Context de mealplan | Bounded Context de foodcatalog | Bounded Context de users  | Desarrollo de base de datos  | Correciones | Despliegue |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Quincho Gamarra, Paulo Percy | Paulo02-pixel | C | C | C | L | C | C |
-| Cárdenas Concha, Santiago Iván | Sack136 | C | C | C | C | L | C |
-| Román Pajuelo, Luis Gustavo | Raizo400 | C | L | C | C | C | C |
-| Suárez Romero, Santiago Manuel | SDarXx | C | C | L | C | C | C |
+| Quincho Gamarra, Paulo Percy | Paulo02-pixel | C | C | L | C | C | C |
+| Cárdenas Concha, Santiago Iván | Sack136 | C | L | C | C | C | C |
+| Román Pajuelo, Luis Gustavo | Raizo400 | C | C | C | C | L | C |
+| Suárez Romero, Santiago Manuel | SDarXx | C | C | C | L | C | C |
 | Cárdenas Minaya, Ricardo Fernando | Kratosllego | C | C | C | C | C | L |
 | Rodríguez Rodríguez, Luis Piero | luissssrr | L | C | C | C | C | C |
 
@@ -2114,15 +2119,15 @@ Los aspectos que se han tenido en cuenta para este sprint son:
 | User Story ID | User Story Title | Work Item ID | Task Title | Task Description | Estimation (Hours) | Assigned To | Status |
 | US17 | Selección de combinación de comidas del plan | WU17-1 | Checkbox de comidas | Permitir seleccionar desayuno, almuerzo o cena | 6 | Developer Team | Done |
 | US18 | Selección de platos para cada día de la semana | WU18-1 | Interfaz de selección | Mostrar platos disponibles por día de la semana | 6 | Developer Team | Done |
-| US19 | Filtrado de platos según preferencias | WU19-1 | Buscador | Mostrar platos según preferencias | 6 | Developer Team | Done |
+| US19 | Filtrado de platos según preferencias | WU19-1 | Buscador | Mostrar platos según preferencias | 6 | Developer Team | In Progress |
 | US20 | Guardado y confirmación del plan semanal | WU20-1 | Botón de confirmación | Guardar el plan semanal y mostrar resumen | 6 | Developer Team | Done |
 | US21 | Confirmación de la programación de entregas | WU21-1 | Programar entregas | Permitir al usuario ver y confirmar horarios de entrega | 6 | Developer Team | Done |
 | US23 | Visualización del total de calorías diarias del plan | WU23-1 | Calorías por día | Mostrar total calórico por día en el calendario | 6 | Developer Team | Done |
 | US24 | Visualización del total de calorías semanales del plan | WU24-1 | Suma semanal | Mostrar total de calorías de la semana | 6 | Developer Team | Done |
 | US25 | Sugerencias de platos durante la planificación semanal | WU25-1 | Sugerencias de platos | Mostrar platos sugeridos | 6 | Developer Team | Done |
-| US26 | Recomendaciones de menús completos según perfil | WU26-1 | Recomendaciones de menús | Mostrar menús sugeridos | 6 | Developer Team | Done |
-| US27 | Visualización del historial de consumo de comidas | WU27-1 | Historial de consumo | Mostrar historial de consumo | 6 | Developer Team | Done |
-| US28 | Resumen de consumo calórico a lo largo del tiempo | WU28-1 | Historial de consumo calórico | Mostrar calórias consumidas a lo largo del tiempo | 4 | Developer Team | Done |
+| US26 | Recomendaciones de menús completos según perfil | WU26-1 | Recomendaciones de menús | Mostrar menús sugeridos | 6 | Developer Team | In Progress |
+| US27 | Visualización del historial de consumo de comidas | WU27-1 | Historial de consumo | Mostrar historial de consumo | 6 | Developer Team | In Progress |
+| US28 | Resumen de consumo calórico a lo largo del tiempo | WU28-1 | Historial de consumo calórico | Mostrar calórias consumidas a lo largo del tiempo | 4 | Developer Team | In Progress |
 | US31 | Renovación automática de suscripción | WU31-1 | Toggle de renovación | Agregar opción de activar o desactivar renovación | 6 | Developer Team | Done |
 | US32 | Cambio de plan de suscripción | WU23-2 | Cambio de plan | Permitir al usuario seleccionar un nuevo plan activo | 6 | Developer Team | Done |
 | US33 | Cancelación de suscripción | WU24-2 | Confirmación de cancelación | Mostrar opciones de cancelación y confirmar acción | 6 | Developer Team | Done |
@@ -2142,27 +2147,91 @@ Los aspectos que se han tenido en cuenta para este sprint son:
 
 #### **5.2.3.5. Execution Evidence for Sprint Review.**
 
-Durante el Sprint 3, se desarrollaron 14 historias de usuario centradas en la elaboración del apartado backend de las mismas, asi mismo se corrigieron cosas del apartado frontend.
+Durante el Sprint 3, se avanzó significativamente en el desarrollo del backend de la plataforma FoodHeaven, enfocándose en la consolidación de funcionalidades clave como la gestión de usuarios, proveedores, comidas, planes alimenticios y entregas. Este sprint estuvo orientado principalmente a fortalecer la arquitectura del sistema mediante la implementación completa de los bounded contexts correspondientes, respetando el enfoque Domain-Driven Design (DDD).
+
+Se desarrollaron servicios, validaciones y controladores para cada entidad del dominio, asegurando una integración fluida entre los diferentes módulos del sistema, incluyendo la planificación de comidas, la gestión de catálogos alimenticios y el registro de entregas. Además, se reforzó la base de datos con entidades bien mapeadas y relaciones consistentes, garantizando integridad y escalabilidad.
+
+Asimismo, se integró y documentó completamente la API utilizando Swagger/OpenAPI, permitiendo una visualización clara de los endpoints disponibles y facilitando tanto las pruebas como el desarrollo de futuras funcionalidades dentro de la plataforma.
 
 #### **5.2.3.6. Services Documentation Evidence for Sprint Review.**
 
+Durante el Sprint 3, se avanzó considerablemente en la construcción del backend real de la plataforma FoodHeaven, sustituyendo cualquier lógica de prueba o datos simulados por una implementación funcional y estructurada, basada en una arquitectura Domain-Driven Design (DDD) sobre .NET 9 y MySQL. Si bien el frontend aún no está conectado, se dejó completamente preparado el backend para soportar dicha integración a futuro.
 
+Uno de los principales focos de este sprint fue el desarrollo completo del bounded context FoodCatalogContext, responsable de gestionar todo el ecosistema de proveedores y comidas dentro de la plataforma. Este módulo permite la creación, edición y eliminación de productos alimenticios, así como la administración de los proveedores asociados.
 
+** Funcionalidades implementadas en FoodCatalogContext**
+1. Comidas (Comida)
+
+GET: Listar todas las comidas.
+GET: Buscar una comida por nombre.
+POST: Registrar una nueva comida (nombre, descripción, calorías, tipo, proveedor, si es especial).
+PUT: Actualizar una comida existente.
+DELETE: Eliminar una comida por ID.
+
+2. Proveedores (Proveedor)
+
+GET: Listar todos los proveedores.
+GET: Obtener un proveedor específico por ID.
+POST: Crear un nuevo proveedor con su tipo, contacto y distrito.
+PUT: Editar la información de un proveedor.
+DELETE: Eliminar un proveedor del sistema.
+
+3. Tipos de comida y tipos de proveedor
+
+Utilizados como enumeraciones (enum) y value objects para garantizar integridad de los datos al crear o editar entidades.
+
+Siguiendo el mismo patrón aplicado en FoodCatalogContext, también se desarrollaron otros módulos del backend. 
+
+Aunque el frontend aún no ha sido integrado, toda la API ha sido documentada y expuesta mediante Swagger, permitiendo una interacción completa y pruebas desde su interfaz. Esto permite explorar, validar y verificar cada endpoint directamente desde el navegador, dejando el backend listo para ser consumido.
+
+Swagger muestra claramente cada operación disponible (GET, POST, PUT, DELETE), los parámetros requeridos, los formatos esperados y las respuestas generadas, sirviendo como herramienta indispensable para los siguientes pasos de integración.
 
 #### **5.2.3.7. Software Deployment Evidence for Sprint Review.**
 
-En este sprint, el equipo realizó el despliegue de la parte backend del proyecto.
+Durante el Sprint 3, el equipo de desarrollo se enfocó en la construcción, validación y preparación del backend de FoodHeaven, sentando las bases para una futura integración completa con el frontend. Aunque el sistema aún no ha sido desplegado en producción ni conectado al entorno visual del usuario, se avanzó sustancialmente en la configuración de la infraestructura técnica y en el desarrollo de una API RESTful robusta. A continuación, se describen los principales hitos alcanzados:
+
+1. Construcción de la API Backend
+Se desarrolló una API RESTful completa utilizando .NET 9 como framework principal y MySQL como sistema gestor de base de datos. Esta API abarca la gestión de entidades clave como comidas, proveedores, usuarios, planes alimenticios y entregas. El diseño sigue un enfoque Domain-Driven Design (DDD), con bounded contexts independientes y bien estructurados.
+
+2. Documentación con Swagger
+Toda la API fue documentada e integrada con Swagger, lo cual permite explorar y probar los endpoints de manera interactiva. Esta documentación facilita la validación del backend y será clave en el proceso de integración con el frontend en futuros sprints.
+
+3. Entorno Local Configurado
+Aunque aún no se ha desplegado en un servidor de producción, se dejó lista la estructura de carpetas, el contexto de base de datos y los controladores para funcionar localmente. Gracias al uso de EnsureCreated(), las tablas son creadas automáticamente si aún no existen.
+
+4. Configuración de la Base de Datos
+Se construyó el modelo de datos utilizando MySQL, replicando fielmente las relaciones entre tablas (usuarios, comidas, planes, pedidos, etc.). Se utilizaron DbSet y OnModelCreating en el contexto FoodHeavenContext para asegurar un mapeo completo y preciso. La estructura garantiza integridad referencial y escalabilidad.
+
+5. Pruebas de Consistencia y Funcionalidad
+Se realizaron pruebas locales utilizando Swagger para verificar que todos los endpoints de los bounded contexts respondieran correctamente. Cada servicio fue validado con datos de prueba para confirmar la creación, actualización, obtención y eliminación de recursos.
+
+6. Preparación para Despliegue y Mantenimiento
+Aunque la API aún no está desplegada en un entorno de producción, se preparó todo el código y la estructura necesaria para hacerlo. Esto incluye separación de capas, inyección de dependencias, validadores de entrada con FluentValidation, y un sistema base para pruebas, monitoreo futuro y respaldo de datos.
 
 
-
+1. Se creó un repositorio público en github: [https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Back-end](https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Back-end)
+2. Ahí se puede apreciar todo el código desarrollado
 
 #### **5.2.3.8. Team Collaboration Insights during Sprint.**
 
-Durante este Sprint, el equipo enfocó sus esfuerzos en la construcción del backend funcional de la plataforma FoodHeaven, utilizando MySQL para la gestión de datos y Node.js para la lógica de servidor. Se desarrollaron e integraron endpoints esenciales que permiten operaciones como el registro e inicio de sesión de usuarios, la gestión de direcciones, la configuración de planes de suscripción y la selección de platos. Se diseñó una arquitectura eficiente que garantiza respuestas rápidas y seguras. Todo el equipo participó activamente en la programación, validación y documentación de los servicios, con el objetivo de ofrecer una base sólida para el funcionamiento general de la aplicación.
+Durante este Sprint 3, el equipo se enfocó en la implementación de las funcionalidades clave del backend para la plataforma web FoodHeaven, utilizando .NET como entorno principal de desarrollo y MySQL (desplegado en Azure) como sistema de gestión de base de datos. Se avanzó en la construcción de APIs RESTful bien estructuradas que permiten operaciones CRUD completas para entidades fundamentales como usuarios, comidas, proveedores, entregas y planes de comida, respetando una arquitectura basada en Domain-Driven Design (DDD).
+
+1. Estructura del Backend:
+Se desarrollaron distintos bounded contexts independientes —como Usuarios, FoodCatalogContext, DetalleEntregas y PlanComidas— con sus respectivas entidades, servicios, repositorios e interfaces REST. Cada módulo fue implementado con separación clara de responsabilidades, facilitando el mantenimiento y la escalabilidad futura del sistema.
+
+2. Operaciones CRUD:
+Las funcionalidades de crear, obtener, actualizar y eliminar fueron desarrolladas para cada entidad del dominio. Esto incluye la administración de usuarios registrados, el registro de comidas y sus proveedores, la planificación semanal de menús y el detalle logístico de las entregas.
+
+3. Documentación con OpenAPI y Swagger:
+Se integró la documentación completa de la API usando Swagger, lo cual permite visualizar todos los endpoints disponibles y probar sus respuestas desde una interfaz interactiva. Esto garantiza que cualquier desarrollador pueda comprender rápidamente las operaciones disponibles y validar su comportamiento antes de integrarlas con el frontend.
+
+4. Base de Datos MySQL en Azure:
+La base de datos ya se encuentra alojada en Azure, con una estructura bien definida que respeta las relaciones entre entidades como usuario, comida, proveedor, pedido y plan_comida. Se utilizó EnsureCreated() para asegurar la creación automática de tablas durante la ejecución local, y se optimizaron las operaciones básicas de consulta y persistencia.
+
+5. Preparación del Frontend (sin integración aún):
+Aunque el frontend aún no está conectado al backend, se ha dejado completamente lista la API para su consumo. Todos los endpoints están documentados, probados con datos reales, y diseñados para ser consumidos por vistas futuras relacionadas con el plan alimenticio, selección de comidas y seguimiento de pedidos.
 
 ## **5.3. Validation Interviews.**
-
-
 
 ### **5.3.1. Diseño de Entrevistas.**
 
@@ -2328,14 +2397,11 @@ Juan, 20 años, oficinista, afirma que cuida su alimentación debido a su rutina
 ### **5.3.3. Evaluaciones según heurísticas.**
 
 
+### **5.4. Video About-the-Team**
 
-### **5.4. Video About-the-Product**
-
-
-
-### **5.5. Video About-the-Team**
-
-
+El equipo ha elaborado un video about the team el cual habla más de cada uno y lo realizado en el trabajo:
+[https://upcedupe-my.sharepoint.com/personal/u202311207_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311207%5Fupc%5Fedu%5Fpe%2FDocuments%2FMi%20video%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee501bc26%2D2001%2D469b%2D8525%2D5c1ce049785d
+](https://upcedupe-my.sharepoint.com/personal/u202311207_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311207%5Fupc%5Fedu%5Fpe%2FDocuments%2FMi%20video%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee501bc26%2D2001%2D469b%2D8525%2D5c1ce049785d)
 
 # Conclusiones
 - FoodHeaven aborda un problema común: muchas personas con rutinas ocupadas no logran planificar ni preparar comidas saludables por falta de tiempo. Esto las obliga a optar por soluciones rápidas (comida rápida, improvisada) que comprometen su nutrición y bienestar diario.
@@ -2367,7 +2433,23 @@ UNICEF. (2022). Nutrición infantil y adolescente en el Perú. https://www.unice
 
 # Anexos
 ## Video de exposición TB1: 
-https://upcedupe-my.sharepoint.com/personal/u202311532_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311532%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0730%2D4371%2DEuroCausas%2Dexpo%2Dtb1%201%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8bbf0aa5%2D96b8%2D4609%2Dbf95%2D44738766e685
+[https://upcedupe-my.sharepoint.com/personal/u202311532_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311532%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0730%2D4371%2DEuroCausas%2Dexpo%2Dtb1%201%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8bbf0aa5%2D96b8%2D4609%2Dbf95%2D44738766e685](https://upcedupe-my.sharepoint.com/personal/u202311532_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311532%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0730%2D4371%2DEuroCausas%2Dexpo%2Dtb1%201%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8bbf0aa5%2D96b8%2D4609%2Dbf95%2D44738766e685)
+
+## Repositorio de front-end:
+[https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Front-End](https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Front-End)
 
 ## Video de exposición TP1:
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311334_upc_edu_pe/EalLz1zwuIJJvP0JIU1mxGMBzsGXsxltmnzKmaNm2EHrLQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4ZQwX0
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311334_upc_edu_pe/EalLz1zwuIJJvP0JIU1mxGMBzsGXsxltmnzKmaNm2EHrLQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4ZQwX0](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311334_upc_edu_pe/EalLz1zwuIJJvP0JIU1mxGMBzsGXsxltmnzKmaNm2EHrLQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4ZQwX0)
+
+## Link de deploy frontend:
+[https://eurocausasfoodheaven.netlify.app/](https://eurocausasfoodheaven.netlify.app/)
+
+## Repositorio de back-end:
+[https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Back-end](https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Back-end)
+
+## Video de exposición TB2:
+
+
+## Video About-The-Team:
+[https://upcedupe-my.sharepoint.com/personal/u202311207_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311207%5Fupc%5Fedu%5Fpe%2FDocuments%2FMi%20video%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee501bc26%2D2001%2D469b%2D8525%2D5c1ce049785d
+](https://upcedupe-my.sharepoint.com/personal/u202311207_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311207%5Fupc%5Fedu%5Fpe%2FDocuments%2FMi%20video%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee501bc26%2D2001%2D469b%2D8525%2D5c1ce049785d)
