@@ -49,6 +49,8 @@ Aplicaciones Web <br>
 |         | 20/04/2025  | Luis Gustavo Román Pajuelo, Luis Piero Rodríguez Rodríguez             | Desarrollo del capítulo V: Sprint Planning 1                                                                                                        |
 | TP1     | 14/05/2025  | Santiago Iván Cárdenas Concha, Luis Piero Rodríguez Rodríguez, Paulo Percy Quincho Gamarra, Luis Gustavo Román Pajuelo, Ricardo Fernando Cárdenas Minaya, Santiago Manuel Suárez Romero            | Desarrollo de sprint 2                                                                                                  |
 | TB2     | 20/06/2025  | Santiago Iván Cárdenas Concha, Luis Piero Rodríguez Rodríguez, Paulo Percy Quincho Gamarra, Luis Gustavo Román Pajuelo, Ricardo Fernando Cárdenas Minaya, Santiago Manuel Suárez Romero            | Desarrollo de sprint 3                                                                                                  |
+| TF1     | 09/07/2025  | Santiago Iván Cárdenas Concha, Luis Piero Rodríguez Rodríguez, Paulo Percy Quincho Gamarra, Luis Gustavo Román Pajuelo, Ricardo Fernando Cárdenas Minaya, Santiago Manuel Suárez Romero            | Desarrollo de sprint 4                                                                                                  |
+
 # Project Report Collaboration Insights
 Link del repositorio: https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Report
 
@@ -164,6 +166,15 @@ Insights (Todos participaron):
     - [5.2.3.6. Services Documentation Evidence for Sprint Review.	](#5.2.3.6.-services-documentation-evidence-for-sprint-review)
     - [5.2.3.7. Software Deployment Evidence for Sprint Review.	](#5.2.3.7.-software-deployment-evidence-for-sprint-review)
     - [5.2.3.8. Team Collaboration Insights during Sprint.	](#5.2.3.8.-team-collaboration-insights-during-sprint)
+  - [5.2.4. Sprint 4](#524-sprint-4)
+    - [5.2.4.1. Sprint Planning](#5241-sprint-planning)
+    - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+    - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+    - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#5.3.-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#5.3.1.-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#5.3.2.-registro-de-entrevistas)
@@ -2293,6 +2304,153 @@ La base de datos ya se encuentra alojada en Azure, con una estructura bien defin
 
 5. Preparación del Frontend (sin integración aún):
 Aunque el frontend aún no está conectado al backend, se ha dejado completamente lista la API para su consumo. Todos los endpoints están documentados, probados con datos reales, y diseñados para ser consumidos por vistas futuras relacionadas con el plan alimenticio, selección de comidas y seguimiento de pedidos.
+
+### **5.2.4 Sprint 4**
+
+#### **5.2.4.1. Sprint Planning 4\.**
+
+A continuación se podrá apreciar la tabla del sprint planificado:
+
+| Sprint 4 | Sprint 4 |
+| :---- | :---- |
+| **Sprint Planning Background** | |
+| Date | 2025-07-01 |
+| Time | 07:30 PM |
+| Location | Virtual |
+| Prepared By | Luis Rodríguez, Ricardo Cárdenas |
+| Attendees (to planning meeting) | Santiago Cárdenas / Gustavo Román / Luis Rodríguez / Santiago Suárez / Ricardo Cárdenas / Paulo Quincho |
+| **Sprint 4 – Review Summary** | Durante el Sprint 4, se desarrollaron historias de usuario enfocadas principalmente en la implementación del sistema de autenticación y autorización para usuarios y administradores de FoodHeaven, utilizando JSON Web Tokens (JWT). Se avanzó también en el diseño e implementación del bounded context de **Gestión de Identidad y Acceso (IAM)**, así como en mejoras y refactorizaciones de los módulos backend y la integración eficiente con el frontend basado en Vue.js. <br><br> El equipo de backend, conformado por Santiago Suárez y Gustavo Román, se centró en la lógica de validación de sesiones, generación y verificación de tokens JWT, logrando mejorar el rendimiento de las interacciones cliente-servidor. Luis Rodríguez y Paulo Quincho trabajaron en la implementación de control de roles y permisos dentro del backend de FoodHeaven, garantizando que cada perfil acceda únicamente a los recursos que le corresponden, fortaleciendo la seguridad general del sistema. <br><br> Por su parte, Santiago Cárdenas y Ricardo Cárdenas lideraron la integración entre frontend y backend, asegurando que los flujos de login, logout y persistencia de sesión se ejecuten de manera fluida y segura desde la interfaz de usuario, mejorando la experiencia de acceso y navegación dentro de la plataforma. Además, se sincronizaron correctamente los datos de autenticación y se implementaron medidas para proteger la privacidad de la información del usuario. |
+| **Sprint 4 – Retrospective Summary** | Durante el Sprint 4 se priorizó la correcta integración entre el frontend y backend de FoodHeaven, enfocándose en la gestión segura de identidad y acceso de los usuarios. <br><br> Se destacó la implementación del esquema de autenticación JWT, garantizando la creación, verificación y renovación de tokens de manera eficiente. También se aseguraron rutas protegidas en el backend que responden únicamente a usuarios autenticados, y se estructuraron los endpoints bajo principios RESTful. <br><br> A nivel frontend, se logró una conexión estable y funcional con los servicios de login y verificación de sesión, usando JWT en todas las solicitudes seguras. Estos avances permiten que los usuarios de FoodHeaven accedan al sistema de forma segura, rápida y personalizada. Se prevé que en el siguiente sprint se refuerce aún más la seguridad, se extienda el manejo de sesiones expiradas y se validen posibles escenarios de ataques como CSRF o XSS. |
+| **Sprint Goal & User Stories** | |
+| Sprint 4 Goal | **Our focus is** on implementing Identity and Access Management (IAM) with JSON Web Tokens (JWT) for secure authentication and authorization in the FoodHeaven platform. This sprint also focuses on enhancing the integration between the frontend (Vue.js) and backend (Spring Boot) to ensure secure and seamless communication across the platform. <br><br>**We believe it delivers** a robust security framework where each user interaction is authenticated, and only authorized users can access specific modules like meal planning, subscriptions, or delivery management. The frontend will interact securely with the backend through JWT, enhancing system trust and privacy. <br><br>**This will be confirmed when** all authentication endpoints enforce token validation, role-based access is respected throughout the backend, and the Vue.js frontend successfully handles login, logout, and secure session persistence without user-facing issues. Security validation and penetration tests will further confirm the success of this sprint. |
+| Sprint Velocity | 47 |
+| Sum of Story Points | 47 |
+
+#### 
+
+#### **5.2.4.2. Aspect Leaders and Collaborators.**
+
+Se han definido los roles de líder (L) y colaborador (C) para los integrantes del grupo en cada aspecto definido del sprint
+
+Los aspectos que se han tenido en cuenta para este sprint son:
+
+1. Bounded Context de Gestión de Identidad y Acceso (IAM)
+2. Implementación del token JWT
+3. Mejoras en el backend
+4. Integración del frontend con el backend
+5. Finalización de la landing page
+
+| Team Member (Last Name, First Name) | GitHub Username | Bounded Context de Gestión de Identidad y Acceso | Implementación del token JWT | Mejoras en el backend | Integración del frontend con el backend | Finalización de la landing page |
+| :---- | :---- | :----: | :----: | :----: | :----: | :----: |
+| Quincho Gamarra, Paulo Percy | Paulo02-pixel | C | C | C | C | C |
+| Cárdenas Concha, Santiago Iván | Sack136 | C | L | C | C | C |
+| Román Pajuelo, Luis Gustavo | Raizo400 | C | C | L | C | C |
+| Suárez Romero, Santiago Manuel | SDarXx | C | C | C | L | C |
+| Cárdenas Minaya, Ricardo Fernando | Kratosllego | C | C | C | C | L |
+| Rodríguez Rodríguez, Luis Piero | luissssrr | L | C | C | C | C |
+
+
+#### **5.2.4.3. Sprint Backlog 4\.**
+
+| Sprint #4 |  | Sprint #4 |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| User Story ID | User Story Title | Work Item ID | Task Title | Task Description | Estimation (Hours) | Assigned To | Status |
+| US19 | Filtrado de platos según preferencias | WU19-1 | Buscador | Mostrar platos según preferencias | 6 | Developer Team | Done |
+| US26 | Recomendaciones de menús completos según perfil | WU26-1 | Recomendaciones de menús | Mostrar menús sugeridos | 6 | Developer Team | Done |
+| US27 | Visualización del historial de consumo de comidas | WU27-1 | Historial de consumo | Mostrar historial de consumo | 6 | Developer Team | Done |
+| US28 | Resumen de consumo calórico a lo largo del tiempo | WU28-1 | Historial de consumo calórico | Mostrar calorías consumidas a lo largo del tiempo | 4 | Developer Team | Done |
+| TSK01 | Endpoints para historial de consumo | TSK-BE-FE-01 | Implementación de endpoints para historial de consumo | Crear endpoints REST para consultar historial de comidas y calorías por usuario | 5 | Backend Team | Done |
+| TSK02 | Integración de historial con frontend | TSK-BE-FE-02 | Conexión frontend con API de historial | Conectar componentes Vue con los endpoints de historial y consumo calórico | 4 | Frontend Team | Done |
+| TSK03 | Backend de filtrado por preferencias | TSK-BE-FE-03 | Integración del filtrado con backend | Implementar lógica en backend para filtrar platos según preferencias de usuario | 5 | Backend Team | Done |
+| TSK04 | Conexión del buscador con backend | TSK-BE-FE-04 | Enlace del buscador al API | Integrar buscador de frontend con endpoint de filtrado de platos | 3 | Frontend Team | Done |
+| TSK05 | Backend de sugerencias personalizadas | TSK-BE-FE-05 | Endpoint para sugerencias y menús personalizados | Desarrollar lógica de backend para sugerencias de platos y menús según perfil | 5 | Backend Team | Done |
+| TSK06 | Visualización de sugerencias en frontend | TSK-BE-FE-06 | Visualización de sugerencias desde frontend | Implementar vista en Vue.js que muestre las recomendaciones del backend | 3 | Frontend Team | Done |
+
+#### **5.2.4.4. Development Evidence for Sprint Review.**
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| Paulo02-pixel/1ASI0730-2510-4371-G03-FoodHaven/Back-End | feature/main | a8f3d1k | feat: implementación de endpoint JWT | Se añadió endpoint para emisión y verificación de JWT en IAM | 01/07/2025 |
+| Paulo02-pixel/1ASI0730-2510-4371-G03-FoodHaven/Back-End | feature/main | m4g9z7t | feat: cleanup IAM services | Se reorganizó estructura de carpetas y servicios del bounded context IAM | 04/07/2025 |
+| Paulo02-pixel/1ASI0730-2510-4371-G03-FoodHaven/Back-End | feature/main | u9q2e6x | test: validación de tokens JWT | Se implementaron pruebas unitarias para los filtros de autorización | 08/07/2025 |
+| Raizo400/1ASI0730-2510-4371-G03-FoodHaven/Back-End | feature/main | z3k7l0v | feat: integración backend con frontend de historial | Se habilitó conexión API entre backend y frontend para historial de comidas | 02/07/2025 |
+| Raizo400/1ASI0730-2510-4371-G03-FoodHaven/Back-End | feature/main | n1r6p8d | feat: actualización de dependencias | Se actualizaron librerías de seguridad y configuración de CORS | 05/07/2025 |
+| Raizo400/1ASI0730-2510-4371-G03-FoodHaven/Back-End | feature/main | b7m4a2y | feat: corrección en lógica de filtrado de platos | Ajustes en query de búsqueda según preferencias del usuario | 07/07/2025 |
+| SDarXx/1ASI0730-2510-4371-G03-FoodHaven/Back-End | feature/main | d6t1r9m | feat: lógica de recomendación de menús | Implementación de algoritmo de menús personalizados por perfil | 01/07/2025 |
+| SDarXx/1ASI0730-2510-4371-G03-FoodHaven/Back-End | feature/main | c5f2n8w | feat: estructura del módulo de sugerencias | Se mejoró la organización del módulo de sugerencias y DTOs | 03/07/2025 |
+| SDarXx/1ASI0730-2510-4371-G03-FoodHaven/Back-End | feature/main | h2v9x0s | test: endpoints recomendación y filtrado | Pruebas de integración para endpoints de recomendación y filtros | 06/07/2025 |
+| Kratosllego/1ASI0730-2510-4371-G03-FoodHaven/Back-End | feature/main | e3p5u1b | feat: endpoint historial calórico | Se implementó API REST para mostrar calorías consumidas | 02/07/2025 |
+| Kratosllego/1ASI0730-2510-4371-G03-FoodHaven/Back-End | feature/main | y7l0q4c | feat: errores en validaciones de usuario | Se corrigieron validaciones erróneas al registrar nuevos usuarios | 05/07/2025 |
+| Kratosllego/1ASI0730-2510-4371-G03-FoodHaven/Back-End | feature/main | t1w6e3z | feat: actualización de OpenAPI | Se actualizaron los contratos OpenAPI para reflejar cambios en endpoints | 08/07/2025 |
+| Sack136/1ASI0730-2510-4371-G03-FoodHaven/Back-End | feature/main | q4s2a9d | feat: buscador de platos integrado con backend | Conexión del buscador de Vue.js con API REST de platos | 03/07/2025 |
+| Sack136/1ASI0730-2510-4371-G03-FoodHaven/Back-End | feature/main | l3k5d7f | feat: limpieza de logs y errores | Eliminación de logs innecesarios y mejora de respuestas HTTP | 06/07/2025 |
+| Sack136/1ASI0730-2510-4371-G03-FoodHaven/Back-End | feature/main | w8n9v2j | feat: vista de sugerencias conectada | Se conectó la vista de sugerencias con los datos provenientes del backend | 07/07/2025 |
+| luissssrr/1ASI0730-2510-4371-G03-FoodHaven/Back-End | feature/main | k5r8m3q | feat: control de roles y permisos | Implementación de lógica para roles (admin / user) en endpoints | 02/07/2025 |
+| luissssrr/1ASI0730-2510-4371-G03-FoodHaven/Back-End | feature/main | f0j1t6u | feat: separación de middlewares de seguridad | Reorganización de filtros de autorización y JWT en capas independientes | 04/07/2025 |
+| luissssrr/1ASI0730-2510-4371-G03-FoodHaven/Back-End | feature/main | p2y6c4n | feat: pruebas de rutas protegidas | Verificación de acceso según rol y validez del token | 08/07/2025 |
+
+#### 
+
+#### **5.2.4.5. Execution Evidence for Sprint Review.**
+
+Durante el Sprint 4, el equipo de desarrollo de FoodHeaven centró sus esfuerzos en la implementación e integración del bounded context de Gestión de Identidad y Acceso (IAM) dentro del backend de la plataforma. Este nuevo módulo fortaleció significativamente los mecanismos de autenticación y autorización, permitiendo distinguir claramente los flujos de acceso para usuarios comunes y administradores del sistema.
+
+Se diseñaron e implementaron controladores REST dedicados a las operaciones de registro e inicio de sesión, respaldados por comandos y servicios encargados de procesar solicitudes de autenticación y generar tokens JWT. Esto permitió establecer una gestión segura de sesiones, garantizando que solo los usuarios autorizados accedan a los recursos protegidos de la aplicación.
+
+Además, se avanzó en la definición de los modelos de dominio, comandos y repositorios que sustentan la lógica de identidad, asegurando una estructura modular y mantenible dentro del backend. Se llevaron a cabo pruebas de integración exhaustivas para verificar la funcionalidad y comportamiento de los endpoints, así como la documentación correspondiente para facilitar el trabajo colaborativo del equipo.
+
+En paralelo, el equipo frontend se encargó de integrar estos servicios con la interfaz de usuario, desarrollando los flujos completos de inicio de sesión, validación de sesión y acceso a contenidos restringidos, conectando con los endpoints REST expuestos por el backend. Esto permitió que el sistema funcione de manera fluida y segura en ambas capas.
+
+Avances realizados en el contexto IAM:
+
+- Identity: Se implementaron funcionalidades para gestionar el registro de nuevos usuarios (POST), el inicio de sesión como administrador (POST) y el inicio de sesión como cliente (POST), con protección mediante JWT.
+
+Contribuciones del equipo:
+
+- Se desarrollaron mejoras significativas en el backend de FoodHeaven, consolidando un sistema seguro y confiable de autenticación y autorización.
+
+- Se integró exitosamente el frontend con el backend, permitiendo que los usuarios puedan iniciar sesión, recibir tokens JWT válidos y acceder a su información de forma segura.
+
+- Se implementaron validaciones de acceso basadas en roles y se verificó el funcionamiento completo mediante pruebas de integración, asegurando la coherencia en todo el flujo del sistema.
+
+#### **5.2.4.6. Services Documentation Evidence for Sprint Review.**
+
+FALTA CODIGO
+
+#### **5.2.4.7. Software Deployment Evidence for Sprint Review.**
+
+Durante este Sprint 4, el equipo de FoodHeaven se enfocó en el despliegue del frontend totalmente integrado con el backend de la plataforma web. Este trabajo permitió lograr una conexión completa entre ambos componentes, garantizando que todas las funcionalidades de la aplicación operen de forma coherente y fluida.
+
+Uno de los principales avances fue la implementación del sistema de autenticación de usuarios, el cual abarca tanto el registro como el inicio de sesión para clientes y administradores. Se utilizó JWT (JSON Web Tokens) para proteger las sesiones, asegurando que cada usuario pueda autenticarse de manera segura y mantener su acceso a funcionalidades restringidas. El sistema ahora procesa solicitudes de login eficientemente y asigna los tokens necesarios para validar cada sesión.
+
+1. Se creó un repositorio público en github: [https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Back-end](https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Back-end)
+2. Ahí se puede apreciar todo el código desarrollado
+3. FALTAAAAAAAAAAAAAAAAAAAA
+   
+#### **5.2.4.8. Team Collaboration Insights during Sprint.**
+
+Durante este Sprint 4, el equipo se enfocó en consolidar la integración entre el frontend y el backend de la plataforma web FoodHeaven, garantizando una operación estable y sincrónica entre ambas capas. Utilizando .NET para el backend y MySQL como base de datos relacional, se reforzó el sistema a nivel de autenticación, diseño de dominios, y persistencia de datos, asegurando una experiencia funcional, robusta y segura para los usuarios.
+
+Actividades principales:
+
+* **Implementación de estructura de backend**:
+  Se desarrollaron e integraron los endpoints necesarios para manejar el módulo de **identidad y acceso**, permitiendo el **registro e inicio de sesión de usuarios**, tanto clientes como administradores. Todo el sistema fue asegurado mediante el uso de **tokens JWT**, permitiendo un control de acceso confiable.
+
+* **Gestión de autenticación y roles**:
+  Se incorporó un sistema de autenticación con JWT que garantiza que los usuarios puedan acceder solo a los recursos autorizados según su rol. Esta capa de seguridad refuerza el cumplimiento de los permisos y restricciones necesarias dentro de la plataforma.
+
+* **Desarrollo completo del bounded context de Plan de Comidas**:
+  Se construyó el módulo de **Planificación de Comidas**, el cual permite a los usuarios definir un plan alimenticio con múltiples fechas y horarios. Se integró el componente `DetallePlanComida` como parte del agregado principal `PlanComida`, unificando el dominio y respetando las reglas del modelo de negocio.
+
+* **Persistencia y validación con EF Core y FluentValidation**:
+  Se establecieron los mapeos de entidad para `plan_comida` y `detalle_plan_comida` dentro del contexto de base de datos. Además, se implementaron validadores detallados para garantizar la integridad de los datos ingresados por los usuarios en cada operación.
+
+* **Interacción frontend-backend completamente funcional**:
+  Con la integración completa de ambas capas, las acciones realizadas en la interfaz web son reflejadas en tiempo real mediante operaciones seguras y correctamente validadas contra la base de datos. Esto proporciona una experiencia fluida y libre de errores.
+
+* **Consolidación de funcionalidades clave**:
+  Además del módulo de planes, se reforzaron las funcionalidades previamente implementadas en módulos como `Usuarios`, `Catálogo de Comidas`, `Pedidos`, y `Entregas`, asegurando consistencia e interoperabilidad entre los distintos bounded contexts.
 
 ## **5.3. Validation Interviews.**
 
