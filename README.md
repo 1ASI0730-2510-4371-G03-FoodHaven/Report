@@ -2418,9 +2418,9 @@ Contribuciones del equipo:
 
 Para ya una integración completa, se desplegaron las ultimas versiones del backend (web services) y frontend
 
-Link del frontend desplegado: 
+Link del frontend desplegado: [https://foodheavenwebappdeploy1.netlify.app/#/](https://foodheavenwebappdeploy1.netlify.app/#/)
 
-Link de los web services desplegados: 
+Link de los web services desplegados: [https://foodheavendb-feexd7axaqbya6hv.canadacentral-01.azurewebsites.net/](https://foodheavendb-feexd7axaqbya6hv.canadacentral-01.azurewebsites.net/)
 
 #### **5.2.4.7. Software Deployment Evidence for Sprint Review.**
 
@@ -2678,3 +2678,9 @@ UNICEF. (2022). Nutrición infantil y adolescente en el Perú. https://www.unice
 
 ## Video de exposición TF1:
 [https://upcedupe-my.sharepoint.com/personal/u202311207_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311207_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4371-EuroCausas-expo-tf1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebce8e06f-8395-4c1e-9bdb-bbf2](https://upcedupe-my.sharepoint.com/personal/u202311207_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311207_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4371-EuroCausas-expo-tf1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebce8e06f-8395-4c1e-9bdb-bbf2)
+
+## Link del frontend desplegado: 
+[https://foodheavenwebappdeploy1.netlify.app/#/](https://foodheavenwebappdeploy1.netlify.app/#/)
+
+## Link de los web services desplegados:
+[https://foodheavendb-feexd7axaqbya6hv.canadacentral-01.azurewebsites.net/](https://foodheavendb-feexd7axaqbya6hv.canadacentral-01.azurewebsites.net/)
