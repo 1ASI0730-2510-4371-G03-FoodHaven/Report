@@ -2416,7 +2416,11 @@ Contribuciones del equipo:
 
 #### **5.2.4.6. Services Documentation Evidence for Sprint Review.**
 
-FALTA CODIGO
+Para ya una integración completa, se desplegaron las ultimas versiones del backend (web services) y frontend
+
+Link del frontend desplegado: 
+
+Link de los web services desplegados: 
 
 #### **5.2.4.7. Software Deployment Evidence for Sprint Review.**
 
@@ -2426,7 +2430,6 @@ Uno de los principales avances fue la implementación del sistema de autenticaci
 
 1. Se creó un repositorio público en github: [https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Back-end](https://github.com/1ASI0730-2510-4371-G03-FoodHaven/Back-end)
 2. Ahí se puede apreciar todo el código desarrollado
-3. FALTAAAAAAAAAAAAAAAAAAAA
    
 #### **5.2.4.8. Team Collaboration Insights during Sprint.**
 
