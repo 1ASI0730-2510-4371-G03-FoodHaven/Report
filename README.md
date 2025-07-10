@@ -2420,8 +2420,10 @@ Para ya una integración completa, se desplegaron las ultimas versiones del back
 
 Link del frontend desplegado: [https://foodheavenwebappdeploy1.netlify.app/#/](https://foodheavenwebappdeploy1.netlify.app/#/)
 
-Link de los web services desplegados: [https://foodheavendb-feexd7axaqbya6hv.canadacentral-01.azurewebsites.net/](https://foodheavendb-feexd7axaqbya6hv.canadacentral-01.azurewebsites.net/)
-
+Link de los web services desplegados: 
+- [https://foodheavendb-feexd7axaqbya6hv.canadacentral-01.azurewebsites.net/](https://foodheavendb-feexd7axaqbya6hv.canadacentral-01.azurewebsites.net/)
+- [https://food-heaven-backend-mija.onrender.com/swagger/index.html](https://food-heaven-backend-mija.onrender.com/swagger/index.html)
+  
 #### **5.2.4.7. Software Deployment Evidence for Sprint Review.**
 
 Durante este Sprint 4, el equipo de FoodHeaven se enfocó en el despliegue del frontend totalmente integrado con el backend de la plataforma web. Este trabajo permitió lograr una conexión completa entre ambos componentes, garantizando que todas las funcionalidades de la aplicación operen de forma coherente y fluida.
@@ -2683,4 +2685,5 @@ UNICEF. (2022). Nutrición infantil y adolescente en el Perú. https://www.unice
 [https://foodheavenwebappdeploy1.netlify.app/#/](https://foodheavenwebappdeploy1.netlify.app/#/)
 
 ## Link de los web services desplegados:
-[https://foodheavendb-feexd7axaqbya6hv.canadacentral-01.azurewebsites.net/](https://foodheavendb-feexd7axaqbya6hv.canadacentral-01.azurewebsites.net/)
+- [https://foodheavendb-feexd7axaqbya6hv.canadacentral-01.azurewebsites.net/](https://foodheavendb-feexd7axaqbya6hv.canadacentral-01.azurewebsites.net/)
+- [https://food-heaven-backend-mija.onrender.com/swagger/index.html](https://food-heaven-backend-mija.onrender.com/swagger/index.html)
